@@ -1,7 +1,7 @@
 ---
 title: "Lenovo IdeaPad Slim 3I-15 Assessment: An Outstanding Budget-Friendly Laptop"
-date: 2024-08-28 23:18:54
-updated: 2024-08-29 12:21:58
+date: 2024-08-30T20:35:32.430Z
+updated: 2024-08-31T20:35:32.430Z
 tags:
   - product-reviews
 categories:
@@ -127,6 +127,9 @@ Expand
 
  At the time of writing, the best place to buy the IdeaPad Slim 3i 15 is [Newegg](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fclick.linksynergy.com%2Fdeeplink%3Fid%3D2QzUaswX1as%26mid%3D44583%26u1%3DUUhtgUeUpU2001005%26murl%3Dhttps%253A%252F%252Fwww.newegg.com%252Fareyouahuman%253Freferer%253Dhttps%25253A%25252F%25252Fwww.newegg.com%25252Flenovo-82x7000cus-mainstream%25252Fp%25252F1TS-000E-16BB6%26ourl%3Dhttps%253A%252F%252Fwww.newegg.com%252Flenovo-82x7000cus-mainstream%252Fp%252F1TS-000E-16BB6), where you'll find it for $474.99\. Alternatively, you can buy the laptop from [Staples](http://www.staples.com/lenovo-ideapad-slim-3-15iru8-15-6-laptop-intel-core-i3-1315u-8gb-memory-256gb-ssd-windows-11-82x7001vus/product%5F24559657) for $529.99 or [Lenovo](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=http%3A%2F%2Fwww.lenovo.com%2Fus%2Fen%2Fp%2Flaptops%2Fideapad%2Fideapad-300%2Fideapad-slim-3i-gen-8-%2815-inch-intel%29%2Flen101i0069) for $659.99, though it frequently goes on sale on Lenovo's website.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=194977&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrfactory/images/screensaver-software.png" border="0">Screensaver Factory, Create stunning professional screensavers within minutes. Create screensavers for yourself, for marketing or unlimited royalty-free commercial distribution. Make screensavers from images, video and swf flash, add background music and smooth sprite and transition effects. Screensaver Factory is very easy to use, and it enables you to make self-installing screensaver files and CDs for easy setup and distribution. Screensaver Factory is the most advanced software of its kind.</a>
+<!-- affiliate ads end -->
 ##  A Slim Design in a Beautiful Blue Color
 
 ![The Lenovo IdeaPad Slim 3i 15 closed](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2023/11/the-lenovo-ideapad-slim-3i-15-closed.jpg) 
@@ -139,12 +142,23 @@ Sergio Rodriguez / How-To Geek
 
 ![Left ports on the Lenovo IdeaPad Slim 3i 15](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2023/11/left-ports-on-the-lenovo-ideapad-slim-3i-15.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1596691/17882" target="_top" id="1596691"><img src="//a.impactradius-go.com/display-ad/17882-1596691" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1596691/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Sergio Rodriguez / How-To Geek
 
  This laptop features quite a few available ports, an impressive feat for this price. On the left side, you’ll find the power-in port, which unfortunately isn’t a USB-C charging port, but the laptop is still capable of rapid charging through this power port. Then, there’s also one USB-A 3.2 Gen 1 port, one HDMI 1.4 port, one full-function USB-C 3.2 Gen 1 port, and a headphone/microphone combo jack.
 
 ![Side of the Lenovo IdeaPad Slim 3i 15](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2023/11/side-of-the-lenovo-ideapad-slim-3i-15.jpg) 
 
+<!-- affiliate ads begin -->
+<h3 id="200610"><a href="https://sentrypc.7eer.net/c/5597632/200610/3022">Parental Control Software</a></h3>
+<span class="text-ad-content">
+	#1 Rated Parental Control Software.<br/>
+	Monitor & Control all PC Activity!<br/>
+		<cite style="color:green">sentrypc.com/parental-controls/</cite>
+	</span><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/200610/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Sergio Rodriguez / How-To Geek
 
  On the right side, there’s an SD card reader, which is becoming an increasingly rare find on modern laptops. Then, you’ll find an additional USB-A 3.2 Gen 1 port.
@@ -171,6 +185,9 @@ Sergio Rodriguez / How-To Geek
 
 ![Lenovo IdeaPad Slim 3i open](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2023/11/lenovo-ideapad-slim-3i-open-1.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://electronicx.pxf.io/c/5597632/1872456/14483" target="_top" id="1872456"><img src="//a.impactradius-go.com/display-ad/14483-1872456" border="0" alt="" width="500" height="375"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872456/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Sergio Rodriguez / How-To Geek
 
  Plus, after performing three 60-second typing tests via [monkeytype.com](https://monkeytype.com/) on both my daily driver laptop and Lenovo’s IdeaPad Slim 3i, the latter came out on top. My average typing speed on my Lenovo Yoga 9i was 97.3 words per minute (wpm), with 96% accuracy. On the IdeaPad Slim 3i, my average typing speed was 102.3 wpm, with 96.7% accuracy.
@@ -179,12 +196,18 @@ Sergio Rodriguez / How-To Geek
 
  The trackpad is slightly off-centered from the entire keyboard, placed right below the space bar, and is a bit small. Although the trackpad placement looks odd, it wasn't a nuisance while using the laptop. Navigating with the trackpad was smooth, and both right- and left-clicking never gave me any issues.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17729331&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
+<!-- affiliate ads end -->
 ##  Performance: More Than Enough Power for the Average User
 
  With a 13th Gen Intel Core i3-1315U processor, Wi-Fi 6 connectivity, and 8GB of LPDDR5 RAM, Lenovo’s IdeaPad Slim 3i 15 provides plenty of speedy and efficient performance power for basic tasks, like managing your emails, researching something online with multiple tabs open at once, and playing a video in the background while you work.
 
 ![The Lenovo IdeaPad Slim 3i 15 with its charger](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2023/11/the-lenovo-ideapad-slim-3i-15-with-its-charger.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1958374/18409" target="_top" id="1958374"><img src="//a.impactradius-go.com/display-ad/18409-1958374" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958374/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Sergio Rodriguez / How-To Geek
 
  I used Chrome to test the laptop’s performance prowess, as this is the most popular (and RAM-heavy) browser, and many people only utilize tools within a browser on their laptops. With 32 tabs open—consisting of two active YouTube videos, 15 tabs from one website, 13 tabs from another, my email, and an open Google Docs tab—this laptop didn’t stutter.
@@ -193,6 +216,9 @@ Sergio Rodriguez / How-To Geek
 
 ![Bottom of the Lenovo IdeaPad Slim 3i 15](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2023/11/bottom-of-the-lenovo-ideapad-slim-3i-15.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2067133&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/gcb/banScrn.jpg" border="0">Greeting Card Builder</a>
+<!-- affiliate ads end -->
 Sergio Rodriguez / How-To Geek
 
  Plus, with 512GB storage and Integrated Intel UHD Graphics, you can even play a few simple games on the IdeaPad Slim 3i, like “Stardew Valley” or “Terraria.” Playing more graphics- or performance-intensive games natively won’t be an enjoyable experience, but if you want to play more games on a budget-friendly laptop, you can always experiment with cloud gaming.
@@ -207,6 +233,9 @@ Sergio Rodriguez / How-To Geek
 
 ![Angled view of the Lenovo IdeaPad Slim 3i 15](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2023/11/angled-view-of-the-lenovo-ideapad-slim-3i-15.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726807&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, Lifetime subscription</a>
+<!-- affiliate ads end -->
 Sergio Rodriguez / How-To Geek
 
  I listened to ["Real" by Unprocessed](https://www.youtube.com/watch?v=WVua9g7WPtg) on YouTube across the IdeaPad Slim 3i, my Yoga 9i, my Galaxy S21 Ultra, and my OneOdio A10 headphones. As expected, the headphones provided the best listening experience, picking up the wavy synth sounds in the song’s beginning, crystal-clear singing and high guitar notes, and nuanced bass notes to fill out the sound.
@@ -227,6 +256,9 @@ Sergio Rodriguez / How-To Geek
 
 ![Logo on the Lenovo IdeaPad Slim 3i 15](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2023/11/logo-on-the-lenovo-ideapad-slim-3i-15.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://propmoneyinc.pxf.io/c/5597632/1803116/14559" target="_top" id="1803116"><img src="//a.impactradius-go.com/display-ad/14559-1803116" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803116/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Sergio Rodriguez / How-To Geek
 
  If you don’t listen to music or stream a video while you’re working, the battery will definitely last longer, but you’d have to really lower the brightness or dampen performance to reach the estimate of “up to 12 hours.” Plus, unless you’re working in a dimly lit room or trying to extend your battery life, 50% brightness may not be enough. Bumping brightness up to 70% would result in an even lower battery life than roughly 6 hours.
@@ -265,3 +297,46 @@ The Lenovo IdeaPad Slim 3i 15 is a budget-friendly laptop with a striking design
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-insta-wealth-tactics-for-transforming-passion-projects-into-paid-opportunities/"><u>[New] 2024 Approved  Insta-Wealth  Tactics for Transforming Passion Projects Into Paid Opportunities</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-dissecting-the-difference-360-video-and-vr-filmmaking/"><u>[New] Dissecting the Difference  360 Video and VR Filmmaking</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-in-2024-screen-recorder-essentials-top-10-tools-compared/"><u>[New] In 2024, Screen Recorder Essentials  Top 10 Tools Compared</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/astering-subscriber-identification-on-youtube-for-2024/"><u>[New] Mastering Subscriber Identification on YouTube for 2024</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-from-fanfare-to-fame-facebook-features-for-viral-voyages-for-2024/"><u>[Updated] From Fanfare to Fame  Facebook Features for Viral Voyages for 2024</u></a></li>
+<li><a href="https://discover-dash.techidaily.com/2024and/"><u>【2024年モデル】スマホに音楽を簡単ダウンロード！無料アプリ&方法紹介 - オススメ集</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/approved-amass-1000-supporters-for-your-channel/"><u>2024 Approved  Amass 1,000 Supporters for Your Channel</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/4-solution-to-get-rid-of-pokemon-fail-to-detect-location-on-realme-c53-drfone-by-drfone-virtual-android/"><u>4 solution to get rid of pokemon fail to detect location On Realme C53 | Dr.fone</u></a></li>
+<li><a href="https://discover-dash.techidaily.com/mac-mp4-macx/"><u>免費 Mac 向け MP4 動画編輯器 - MacX無料 音頻/視頻格式相容性優良</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/a-step-by-step-approach-to-snapchat-video-communication/"><u>A Step-By-Step Approach to Snapchat Video Communication</u></a></li>
+<li><a href="https://discover-dash.techidaily.com/complete-transfer-process-for-iphone-7-users-sync-files-with-your-mac-effortlessly/"><u>Complete Transfer Process for iPhone 7 Users: Sync Files with Your Mac Effortlessly</u></a></li>
+<li><a href="https://program-issues.techidaily.com/dauntless-pc-glitched-heres-what-you-can-do-to-uncrash-it/"><u>Dauntless PC Glitched? Here's What You Can Do to Uncrash It</u></a></li>
+<li><a href="https://discover-dash.techidaily.com/download-3d-movies-in-stunning-quality-discover-the-top-11-legitimate-websites-for-authentic-3d-blu-ray-sbs-downloads/"><u>Download 3D Movies in Stunning Quality: Discover the Top 11 Legitimate Websites for Authentic 3D Blu-Ray SBS Downloads</u></a></li>
+<li><a href="https://discover-dash.techidaily.com/easy-guide-moving-epub-books-from-pc-to-iphone-without-using-itunes/"><u>Easy Guide: Moving EPUB Books From PC to iPhone Without Using iTunes</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/easy-steps-to-solve-non-working-speakers-on-a-windows-7-machine/"><u>Easy Steps to Solve Non-Working Speakers on a Windows 7 Machine</u></a></li>
+<li><a href="https://discover-dash.techidaily.com/effortless-exchange-of-audio-photos-and-video-files-on-ipods-discover-leading-managers-for-quick-conversion/"><u>Effortless Exchange of Audio, Photos, and Video Files on iPods - Discover Leading Managers for Quick Conversion!</u></a></li>
+<li><a href="https://driver-install.techidaily.com/execute-amd-gpu-r9-firmware-on-pcs/"><u>Execute AMD GPU R9 Firmware on PCs</u></a></li>
+<li><a href="https://discover-dash.techidaily.com/free-macx-youtube-downloader-pro-no-costs-unlimited-conversions/"><u>Free MacX YouTube Downloader Pro - No Costs, Unlimited Conversions</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-can-motorola-moto-g24mirror-share-to-pc-drfone-by-drfone-android/"><u>How Can Motorola Moto G24Mirror Share to PC? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-dose-life360-notify-me-when-someone-checks-my-location-on-nokia-c12-drfone-by-drfone-virtual-android/"><u>In 2024, Dose Life360 Notify Me When Someone Checks My Location On Nokia C12? | Dr.fone</u></a></li>
+<li><a href="https://video-capture.techidaily.com/in-2024-high-quality-8-android-video-callers-for-groups-above-four/"><u>In 2024, High-Quality 8 Android Video Callers for Groups Above Four</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-google-play-location-on-xiaomi-civi-3-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Google Play Location On Xiaomi Civi 3 | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-top-11-free-apps-to-check-imei-on-vivo-v29-phones-by-drfone-android/"><u>In 2024, Top 11 Free Apps to Check IMEI on Vivo V29 Phones</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/inside-out-the-true-significance-behind-snapchats-emojis/"><u>Inside Out  The True Significance Behind Snapchat's Emojis</u></a></li>
+<li><a href="https://discover-dash.techidaily.com/join-the-2014-fifa-world-cup-contest-with-macx-video-converter-pro-claim-your-free-entry-today/"><u>Join the 2014 FIFA World Cup Contest with MacX Video Converter Pro - Claim Your Free Entry Today!</u></a></li>
+<li><a href="https://discover-dash.techidaily.com/macdvdmovmp4/"><u>Mac用無料DVD変換ツール：MOV/MP4への直接変換方法</u></a></li>
+<li><a href="https://discover-dash.techidaily.com/macx-dvd-ripper-pro-for-windows-expert-reviews-and-user-guides-delivered/"><u>MacX DVD Ripper Pro for Windows - Expert Reviews & User Guides Delivered!</u></a></li>
+<li><a href="https://discover-dash.techidaily.com/quick-and-easy-methods-for-converting-mp4-files-to-hevch265-codec/"><u>Quick & Easy Methods for Converting MP4 Files to HEVC/H.265 Codec</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/remedying-the-c1900101-error-in-windows-setup/"><u>Remedying the C1900101 Error in Windows Setup</u></a></li>
+<li><a href="https://discover-dash.techidaily.com/seamless-file-sharing-between-ios-devices-and-computers/"><u>Seamless File Sharing Between iOS Devices & Computers</u></a></li>
+<li><a href="https://games-able.techidaily.com/switch-out-for-peak-performance/"><u>Switch Out for Peak Performance?</u></a></li>
+<li><a href="https://extra-information.techidaily.com/the-ultimate-guide-to-affordable-cloud-space-best-of-the-20/"><u>The Ultimate Guide to Affordable Cloud Space  Best of the 20</u></a></li>
+<li><a href="https://extra-information.techidaily.com/top-gratis-vector-design-and-illustration-sites-online/"><u>Top Gratis Vector Design & Illustration Sites Online</u></a></li>
+<li><a href="https://discover-dash.techidaily.com/top-rated-free-youtube-video-downloader-to-mp4-the-ultimate-guide/"><u>Top Rated Free YouTube Video Downloader to MP4: The Ultimate Guide</u></a></li>
+<li><a href="https://discover-dash.techidaily.com/top-ranking-ipad-file-organizers-transfer-files-with-ease/"><u>Top-Ranking iPad File Organizers: Transfer Files with Ease</u></a></li>
+<li><a href="https://discover-dash.techidaily.com/tutorial-detail-transferer-et-copier-un-film-en-dvd-protege-dun-support-a-un-imacmacbook-avec-classeur-de-cddvd/"><u>Tutorial Détail : Transférer Et Copier Un Film en DVD Protégé D'un Support À Un iMac/MacBook Avec Classeur De CD/DVD</u></a></li>
+<li><a href="https://discover-dash.techidaily.com/unlock-full-features-of-macx-dvd-ripper-pro-for-windows-lifetime-access-now-available/"><u>Unlock Full Features of MacX DVD Ripper Pro for Windows - Lifetime Access Now Available!</u></a></li>
+<li><a href="https://discover-dash.techidaily.com/unlocking-the-secrets-of-bypassing-disneys-digital-rights-management-on-cddvd-collection/"><u>Unlocking the Secrets of Bypassing Disney's Digital Rights Management on CD/DVD Collection</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/updated-the-most-direct-guide-to-learning-how-to-clone-your-voice/"><u>Updated The Most Direct Guide to Learning How to Clone Your Voice</u></a></li>
+</ul></div>

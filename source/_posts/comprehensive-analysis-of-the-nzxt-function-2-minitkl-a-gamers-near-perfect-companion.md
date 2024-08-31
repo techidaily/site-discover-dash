@@ -1,7 +1,7 @@
 ---
 title: Comprehensive Analysis of the NZXT Function 2 MiniTKL - A Gamer's Near-Perfect Companion
-date: 2024-08-28 19:21:42
-updated: 2024-08-29 11:27:56
+date: 2024-08-30T20:35:29.335Z
+updated: 2024-08-31T20:35:29.335Z
 tags:
   - product-reviews
 categories:
@@ -101,6 +101,9 @@ Jerome Thomas / How-To Geek
 
 ![The Function 2 MiniTKL plugged in](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/04/the-function-2-minitkl-plugged-injpg_53489604800_o.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://caperobbin.sjv.io/c/5597632/2006123/18460" target="_top" id="2006123"><img src="//a.impactradius-go.com/display-ad/18460-2006123" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006123/18460" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Jerome Thomas / How-To Geek
 
  Given that you can’t really change the switches for something else you might like better, the stock options from NZXT actually do feel pretty good. They’re optical and linear, which is what I expect from something like this. You’ll find 40g switches which are pre-lubed and feature plate-mounted stabilizers to keep things nice, tight, and responsive. In the box, you’ll find four 35g and four 45g switches that can be swapped in for just about any key that you want to change things for. This makes it easy to, say, customize WASD to be lighter, so that way, those keys have a better response than the rest of the keyboard. And, if you want to ensure that you’re not accidentally swapping weapons in the middle of a match, you could make the E key heavier by putting a 45g switch there.
@@ -109,6 +112,9 @@ Jerome Thomas / How-To Geek
 
  In practice, the actuation force is not something that I personally use a lot, but it’s nice to have. Depending on the games you play, it’s nice to be able to make certain keys easier to press and others slightly more difficult without having to physically change out the switches.
 
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793233/19578" target="_top" id="1793233"><img src="//a.impactradius-go.com/display-ad/19578-1793233" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793233/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  The Build Quality Is Great, Offering Solid Acoustics
 
 ![Bottom of the Function 2 MiniTKL showing the rubber feet](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/04/bottom-of-the-function-2-minitkl-showing-the-rubber-feetjpg_53489340643_o.jpg) 
@@ -117,10 +123,16 @@ Jerome Thomas / How-To Geek
 
  NZXT went the extra mile when it comes to acoustics with the Function 2 MiniTKL. The top frame plate is made from 3mm aluminum, and you’ll find dual-layer sound-dampening foam and tape on the PCB to ensure that there’s no unwanted pinging noise. In practice, this works great. The keyboard sounded fantastic when typing, and there was no pinging or hollowness to the keystrokes at all. Plus, the aluminum gives it a nice heft without adding tons of weight and making it super heavy.
 
+<!-- affiliate ads begin -->
+<a href="https://turtlebeachus.sjv.io/c/5597632/1988416/23719" target="_top" id="1988416"><img src="//a.impactradius-go.com/display-ad/23719-1988416" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1988416/23719" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  The Extra Keys Are Laid Out Weird
 
 ![The volume wheel, mute, windows lock and backlight buttons on the Function 2 MiniTKL](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/04/the-volume-wheel-mute-windows-lock-and-backlight-buttons-on-the-function-2-minitkljpg_53489492524_o.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4708689&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Win： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
+<!-- affiliate ads end -->
 Jerome Thomas / How-To Geek
 
  NZXT wanted to pack all it could into the 65% layout. It did a great job at that, with all but three keys. There’s a weird, and not all-that-useful custom NZXT key above the arrows, which, by default, doesn’t do anything when pressed, making it feel a little out of place to me. Meanwhile, keys that you would actually want to have quick access to, like volume and Windows lock, have been moved off to the left side of the keyboard—not to a key, but to a button on the side.
@@ -133,12 +145,18 @@ Jerome Thomas / How-To Geek
 
 ![The Function 2 MiniTKL without the backlight](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/04/the-function-2-minitkl-without-the-backlightjpg_53489191606_o.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=4729507&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/TIU/Nero_TuneItUp_Screen_2.webp" border="0">/a>
+<!-- affiliate ads end -->
 Jerome Thomas / How-To Geek
 
  NZXT CAM is your hub for all things NZXT when it comes to customization. It works great. You can use CAM to change the per-key lighting of the Function 2 MiniTKL, as well as reprogram what keys do what, and change the actuation of the keyboard. CAM is where you’ll really dial in the settings to your heart’s content.
 
  In addition to the standard stuff, like RGB and key remapping, you’ll also find macro programming within CAM. This will allow you to complete complex functions with a single keystroke, which can save you lots of time when doing repetitive tasks. Plus, CAM allows you to program up to four different profiles on the keyboard, each of which can be accessed on-device by holding the function key and clicking F1-F4.
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653808&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ##  Should You Buy the NZXT Function 2 MiniTKL Keyboard?
 
 ![NZXT Function 2 MINITKL keyboard in front of box](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/04/nzxt-function-2-minitkl-keyboard-in-front-of-boxjpg_53489190826_o.jpg) 
@@ -177,3 +195,37 @@ The NZXT Function 2 MiniTKL gaming keyboard packs every key of a tenkeyless keyb
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://snapchat-videos.techidaily.com/new-2024-approved-transforming-images-on-snapchat-an-editors-playbook/"><u>[New] 2024 Approved  Transforming Images on Snapchat  An Editor's Playbook</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-in-2024-discover-the-precision-of-lg-ud88-w-monitor-specifications/"><u>[New] In 2024, Discover the Precision of LG UD88-W Monitor Specifications</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/n-2024-easy-setup-making-a-direct-path-for-youtube-subscribers/"><u>[New] In 2024, Easy Setup  Making a Direct Path for YouTube Subscribers</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-uncomplicated-approach-incorporating-flippy-sounds-into-your-windows-setup-for-2024/"><u>[Updated] Uncomplicated Approach  Incorporating Flippy Sounds Into Your Windows Setup for 2024</u></a></li>
+<li><a href="https://discover-dash.techidaily.com/2024and/"><u>【2024年モデル】スマホに音楽を簡単ダウンロード！無料アプリ&方法紹介 - オススメ集</u></a></li>
+<li><a href="https://article-helps.techidaily.com/2024-approved-iphone-photography-made-easier-with-these-4-blur-techniques/"><u>2024 Approved  IPhone Photography Made Easier with These 4 Blur Techniques</u></a></li>
+<li><a href="https://location-fake.techidaily.com/3-ways-to-change-location-on-facebook-marketplace-for-apple-iphone-6-drfone-by-drfone-virtual-ios/"><u>3 Ways to Change Location on Facebook Marketplace for Apple iPhone 6 | Dr.fone</u></a></li>
+<li><a href="https://discover-dash.techidaily.com/mac-mp4-macx/"><u>免費 Mac 向け MP4 動画編輯器 - MacX無料 音頻/視頻格式相容性優良</u></a></li>
+<li><a href="https://extra-information.techidaily.com/auditory-ambitions-scouting-the-ultimate-10-songs-for-podcasts-for-2024/"><u>Auditory Ambitions  Scouting the Ultimate 10 Songs for Podcasts for 2024</u></a></li>
+<li><a href="https://discover-dash.techidaily.com/complete-transfer-process-for-iphone-7-users-sync-files-with-your-mac-effortlessly/"><u>Complete Transfer Process for iPhone 7 Users: Sync Files with Your Mac Effortlessly</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/discover-the-7-most-effective-ai-applications-for-mastering-mathematics/"><u>Discover the 7 Most Effective AI Applications for Mastering Mathematics</u></a></li>
+<li><a href="https://discover-dash.techidaily.com/download-3d-movies-in-stunning-quality-discover-the-top-11-legitimate-websites-for-authentic-3d-blu-ray-sbs-downloads/"><u>Download 3D Movies in Stunning Quality: Discover the Top 11 Legitimate Websites for Authentic 3D Blu-Ray SBS Downloads</u></a></li>
+<li><a href="https://discover-dash.techidaily.com/easy-guide-moving-epub-books-from-pc-to-iphone-without-using-itunes/"><u>Easy Guide: Moving EPUB Books From PC to iPhone Without Using iTunes</u></a></li>
+<li><a href="https://discover-dash.techidaily.com/effortless-exchange-of-audio-photos-and-video-files-on-ipods-discover-leading-managers-for-quick-conversion/"><u>Effortless Exchange of Audio, Photos, and Video Files on iPods - Discover Leading Managers for Quick Conversion!</u></a></li>
+<li><a href="https://discover-dash.techidaily.com/free-macx-youtube-downloader-pro-no-costs-unlimited-conversions/"><u>Free MacX YouTube Downloader Pro - No Costs, Unlimited Conversions</u></a></li>
+<li><a href="https://android-frp.techidaily.com/how-to-bypass-gionee-frp-in-3-different-ways-by-drfone-android/"><u>How To Bypass Gionee FRP In 3 Different Ways</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-5-ways-to-track-vivo-v30-without-app-drfone-by-drfone-virtual-android/"><u>In 2024, 5 Ways to Track Vivo V30 without App | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-maximize-gaming-essential-tips-and-picks-for-the-best-monitors-for-xbox-series-x/"><u>In 2024, Maximize Gaming - Essential Tips & Picks for the Best Monitors for Xbox Series X</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/introducing-abbyys-advanced-ocr-capabilities-for-uipath-go-users/"><u>Introducing ABBYY's Advanced OCR Capabilities for UiPath GO Users</u></a></li>
+<li><a href="https://discover-dash.techidaily.com/join-the-2014-fifa-world-cup-contest-with-macx-video-converter-pro-claim-your-free-entry-today/"><u>Join the 2014 FIFA World Cup Contest with MacX Video Converter Pro - Claim Your Free Entry Today!</u></a></li>
+<li><a href="https://discover-dash.techidaily.com/macdvdmovmp4/"><u>Mac用無料DVD変換ツール：MOV/MP4への直接変換方法</u></a></li>
+<li><a href="https://discover-dash.techidaily.com/macx-dvd-ripper-pro-for-windows-expert-reviews-and-user-guides-delivered/"><u>MacX DVD Ripper Pro for Windows - Expert Reviews & User Guides Delivered!</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/netgear-nighthawk-c7000-review/"><u>Netgear Nighthawk C7000 Review</u></a></li>
+<li><a href="https://discover-dash.techidaily.com/quick-and-easy-methods-for-converting-mp4-files-to-hevch265-codec/"><u>Quick & Easy Methods for Converting MP4 Files to HEVC/H.265 Codec</u></a></li>
+<li><a href="https://discover-dash.techidaily.com/seamless-file-sharing-between-ios-devices-and-computers/"><u>Seamless File Sharing Between iOS Devices & Computers</u></a></li>
+<li><a href="https://discover-dash.techidaily.com/top-rated-free-youtube-video-downloader-to-mp4-the-ultimate-guide/"><u>Top Rated Free YouTube Video Downloader to MP4: The Ultimate Guide</u></a></li>
+<li><a href="https://discover-dash.techidaily.com/top-ranking-ipad-file-organizers-transfer-files-with-ease/"><u>Top-Ranking iPad File Organizers: Transfer Files with Ease</u></a></li>
+<li><a href="https://discover-dash.techidaily.com/tutorial-detail-transferer-et-copier-un-film-en-dvd-protege-dun-support-a-un-imacmacbook-avec-classeur-de-cddvd/"><u>Tutorial Détail : Transférer Et Copier Un Film en DVD Protégé D'un Support À Un iMac/MacBook Avec Classeur De CD/DVD</u></a></li>
+<li><a href="https://discover-dash.techidaily.com/unlock-full-features-of-macx-dvd-ripper-pro-for-windows-lifetime-access-now-available/"><u>Unlock Full Features of MacX DVD Ripper Pro for Windows - Lifetime Access Now Available!</u></a></li>
+<li><a href="https://discover-dash.techidaily.com/unlocking-the-secrets-of-bypassing-disneys-digital-rights-management-on-cddvd-collection/"><u>Unlocking the Secrets of Bypassing Disney's Digital Rights Management on CD/DVD Collection</u></a></li>
+</ul></div>

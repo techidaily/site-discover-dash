@@ -1,7 +1,7 @@
 ---
 title: "Nanoleaf Umbra Cup Light Revue: Evaluating Its Role as a Decorative Desk Addition"
-date: 2024-08-28 18:57:55
-updated: 2024-08-29 10:12:51
+date: 2024-08-30T20:35:33.427Z
+updated: 2024-08-31T20:35:33.427Z
 tags:
   - product-reviews
 categories:
@@ -76,10 +76,17 @@ With its cup-shaped base, this appropriately named lamp is a perfect desk light 
 
 Expand 
 
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png" border="0"></a>
+<!-- affiliate ads end -->
 ##  A Little Umbrella for Your Desk
 
 ![Inside the cup of the Nanoleaf Umbra Cup Smart Lamp](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/07/inside-the-cup-of-the-nanoleaf-umbra-cup-smart-lamp_53646491272_o.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-spreadsheet-free-excel-editor-online-offline-1x.93e269d.png" border="0">
+WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<!-- affiliate ads end -->
 Jerome Thomas / How-To Geek
 
  From the moment I unboxed the Cup, I knew I was going to have a tough time getting used to it hanging out on my desk. After two full weeks, my feelings didn’t shift much. Plain and simple, part of the issue was the appearance. Standing just over 12.5 inches tall, Nanoleaf and Umbra went for a beach umbrella appearance, an aesthetic that some will like and others won’t. I am in the latter camp, though I did find it convenient to be able to stick a pair of headphones or other items _on top_ of the lamp.
@@ -108,6 +115,9 @@ Jerome Thomas / How-To Geek
 
 ![Highlight controls in the Nanoleaf app](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/nanoleaf-app-highlight-controls-1.jpeg) 
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2095385/26400" target="_top" id="2095385"><img src="//a.impactradius-go.com/display-ad/26400-2095385" border="0" alt="" width="1024" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095385/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Close 
 
  If you’re the kind of person who wants to fine-tune every aspect of your [smart lights](https://fox-that.techidaily.com/1721479062545-experiencing-wi-fi-woes-let-us-show-you-how-to-connect-your-iphone-to-any-computer/), I recommend starting with the “Basic” dashboard. By default, you’ll see a color wheel with a small circle for you to drag around the shape. Whenever I selected a new color, the Cup changed quickly. Raising and lowering brightness was just as fast. I liked having the ability to switch the color wheel over to color temperature, which can be adjusted from 2100 Kelvin (warm white) up to 6500K (daylight).
@@ -116,10 +126,17 @@ Close
 
  It was convenient to be able to “like” a few of the presets, which logged them in my “Favorites” tab for easy access. You’ll also be able to create your very own scenes by tapping the Plus icon in the Scene or Favorites settings. Oh, and last but not least: I was completely blown away by the Circadian Lighting feature. When set up, the lamp will automatically mirror the color temperature of the sun, based on time zone data or manual settings.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4727541&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/copy_copy_forexrobotronbox.gif" border="0">Forex Robotron Gold Package</a>
+<!-- affiliate ads end -->
 ##  A Smart Lamp Stumped by Wi-Fi
 
 ![The back of the Nanoleaf Umbra Cup Smart Lamp](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/07/the-back-of-the-nanoleaf-umbra-cup-smart-lamp_53647828375_o.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901410&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix Pro - Software based live production. vMix Pro includes everything in vMix 4K plus 8 channels of Replay and 8 vMix Call 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
 Jerome Thomas / How-To Geek
 
  The Cup works with Matter and Thread systems. The smart lamp can be integrated into smart ecosystems that are powered by Alexa, Google Home, Apple Home, Samsung SmartThings, and IFTTT; but only when the lamp is connected to Matter-Thread peripherals.
@@ -136,6 +153,9 @@ Jerome Thomas / How-To Geek
 
 ![The Nanoleaf Umbra Cup Smart Lamp](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/nanoleaf-umbra-cup-smart-lamp-render-1.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://natural-cycles.sjv.io/c/5597632/2072199/17885" target="_top" id="2072199"><img src="//a.impactradius-go.com/display-ad/17885-2072199" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072199/17885" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 #####  Nanoleaf Umbra Cup Smart Lamp 
 
 5/ 10 
@@ -158,3 +178,34 @@ With its cup-shaped base, this appropriately named lamp is a perfect desk light 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://snapchat-videos.techidaily.com/new-2024-approved-preserve-your-memories-android-and-mac-snap-extraction-tips/"><u>[New] 2024 Approved  Preserve Your Memories  Android & Mac Snap Extraction Tips</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-master-the-art-of-cropping-videos-for-instagrams-highest-standards-for-2024/"><u>[New] Master the Art of Cropping Videos for Instagram's Highest Standards for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-optimized-data-backup-on-android-leading-cloud-apps-2024-edition/"><u>[New] Optimized Data Backup on Android  Leading Cloud Apps 2024 Edition</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-final-cut-pro-x-a-guide-to-instagrams-vertical-preference/"><u>[Updated] In 2024, Final Cut Pro X  A Guide to Instagram’s Vertical Preference</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-savory-screens-culinary-content-creation/"><u>[Updated] Savory Screens  Culinary Content Creation</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-simplifying-the-art-of-advertising-through-structured-content-for-2024/"><u>[Updated] Simplifying the Art of Advertising Through Structured Content for 2024</u></a></li>
+<li><a href="https://discover-dash.techidaily.com/2024and/"><u>【2024年モデル】スマホに音楽を簡単ダウンロード！無料アプリ&方法紹介 - オススメ集</u></a></li>
+<li><a href="https://discover-dash.techidaily.com/mac-mp4-macx/"><u>免費 Mac 向け MP4 動画編輯器 - MacX無料 音頻/視頻格式相容性優良</u></a></li>
+<li><a href="https://discover-dash.techidaily.com/complete-transfer-process-for-iphone-7-users-sync-files-with-your-mac-effortlessly/"><u>Complete Transfer Process for iPhone 7 Users: Sync Files with Your Mac Effortlessly</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/osts-and-boost-creativity-8-online-spots-offering-free-eco-backdrops-for-2024/"><u>Cut Costs and Boost Creativity  8 Online Spots Offering Free Eco-Backdrops for 2024</u></a></li>
+<li><a href="https://discover-dash.techidaily.com/download-3d-movies-in-stunning-quality-discover-the-top-11-legitimate-websites-for-authentic-3d-blu-ray-sbs-downloads/"><u>Download 3D Movies in Stunning Quality: Discover the Top 11 Legitimate Websites for Authentic 3D Blu-Ray SBS Downloads</u></a></li>
+<li><a href="https://discover-dash.techidaily.com/easy-guide-moving-epub-books-from-pc-to-iphone-without-using-itunes/"><u>Easy Guide: Moving EPUB Books From PC to iPhone Without Using iTunes</u></a></li>
+<li><a href="https://discover-dash.techidaily.com/effortless-exchange-of-audio-photos-and-video-files-on-ipods-discover-leading-managers-for-quick-conversion/"><u>Effortless Exchange of Audio, Photos, and Video Files on iPods - Discover Leading Managers for Quick Conversion!</u></a></li>
+<li><a href="https://discover-dash.techidaily.com/free-macx-youtube-downloader-pro-no-costs-unlimited-conversions/"><u>Free MacX YouTube Downloader Pro - No Costs, Unlimited Conversions</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-detailed-guide-of-ispoofer-for-pogo-installation-on-realme-c67-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Detailed guide of ispoofer for pogo installation On Realme C67 5G | Dr.fone</u></a></li>
+<li><a href="https://discover-dash.techidaily.com/join-the-2014-fifa-world-cup-contest-with-macx-video-converter-pro-claim-your-free-entry-today/"><u>Join the 2014 FIFA World Cup Contest with MacX Video Converter Pro - Claim Your Free Entry Today!</u></a></li>
+<li><a href="https://discover-dash.techidaily.com/macdvdmovmp4/"><u>Mac用無料DVD変換ツール：MOV/MP4への直接変換方法</u></a></li>
+<li><a href="https://discover-dash.techidaily.com/macx-dvd-ripper-pro-for-windows-expert-reviews-and-user-guides-delivered/"><u>MacX DVD Ripper Pro for Windows - Expert Reviews & User Guides Delivered!</u></a></li>
+<li><a href="https://discover-dash.techidaily.com/quick-and-easy-methods-for-converting-mp4-files-to-hevch265-codec/"><u>Quick & Easy Methods for Converting MP4 Files to HEVC/H.265 Codec</u></a></li>
+<li><a href="https://discover-dash.techidaily.com/seamless-file-sharing-between-ios-devices-and-computers/"><u>Seamless File Sharing Between iOS Devices & Computers</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/seamless-video-conferencing-with-zoom-and-gmail-for-2024/"><u>Seamless Video Conferencing with Zoom & Gmail for 2024</u></a></li>
+<li><a href="https://discover-dash.techidaily.com/top-rated-free-youtube-video-downloader-to-mp4-the-ultimate-guide/"><u>Top Rated Free YouTube Video Downloader to MP4: The Ultimate Guide</u></a></li>
+<li><a href="https://discover-dash.techidaily.com/top-ranking-ipad-file-organizers-transfer-files-with-ease/"><u>Top-Ranking iPad File Organizers: Transfer Files with Ease</u></a></li>
+<li><a href="https://discover-dash.techidaily.com/tutorial-detail-transferer-et-copier-un-film-en-dvd-protege-dun-support-a-un-imacmacbook-avec-classeur-de-cddvd/"><u>Tutorial Détail : Transférer Et Copier Un Film en DVD Protégé D'un Support À Un iMac/MacBook Avec Classeur De CD/DVD</u></a></li>
+<li><a href="https://discover-dash.techidaily.com/unlock-full-features-of-macx-dvd-ripper-pro-for-windows-lifetime-access-now-available/"><u>Unlock Full Features of MacX DVD Ripper Pro for Windows - Lifetime Access Now Available!</u></a></li>
+<li><a href="https://discover-dash.techidaily.com/unlocking-the-secrets-of-bypassing-disneys-digital-rights-management-on-cddvd-collection/"><u>Unlocking the Secrets of Bypassing Disney's Digital Rights Management on CD/DVD Collection</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/unpacking-the-multifaceted-nature-of-wirecast-tools/"><u>Unpacking the Multifaceted Nature of WireCast Tools</u></a></li>
+</ul></div>

@@ -1,7 +1,7 @@
 ---
 title: "Review of the Freewrite Alpha Device: No Gimmicks, Just Straightforward Focus on Your Writing"
-date: 2024-08-28 11:54:31
-updated: 2024-08-29 11:37:54
+date: 2024-08-30T20:35:35.481Z
+updated: 2024-08-31T20:35:35.481Z
 tags:
   - product-reviews
 categories:
@@ -88,10 +88,16 @@ The Alpha (left) next to the newest iPad Air
 
  There's no single point of failure with the hardware. It's the total package that doesn’t feel like a $349 product. The limited functionality of the hardware also doesn’t offer any further convincing arguments for potential buyers.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=22741618&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.diskpart.com/resource/images/index/dp-index-img-banner-people@2x.png" border="0">Easy and Safe Partition Software & Hard Disk Manager</a>
+<!-- affiliate ads end -->
 ##  The Interface Limits Productivity More Than Distractions Do
 
 ![Person holding the Freewrite Alpha](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2023/12/person-holding-the-freewrite-alpha.JPG) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Tyler Hayes / How-To Geek
 
  If you’re seeking a simple device, the equivalent of a digital typewriter, then you’re in luck. There's not a hint of anything to do here other than type. Even the sparse settings section prevented me from noodling around there for more than a few seconds.
@@ -104,6 +110,9 @@ Tyler Hayes / How-To Geek
 
 ![Freewrite Alpha's screen with direct light hitting it](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2023/12/freewrite-alpha-s-screen-with-direct-light-hitting-it.JPG) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4708689&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Win： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
+<!-- affiliate ads end -->
 Tyler Hayes / How-To Geek
 
  Even with the user manual by my side, it was a little worrying to press the key combinations because I was scared to get myself into a place on the screen I wasn’t expecting. Once I pressed the page-up button and was jolted to another part of my text. Without any dedicated arrow keys, it felt much harder to navigate around and back to my spot than it probably should have been. Even getting lost in my text was a concern.
@@ -112,10 +121,16 @@ Tyler Hayes / How-To Geek
 
  Beyond saving your documents to Postbox over its Wi-Fi connection, the Alpha can sync documents to Google Drive, OneDrive, Dropbox, or Evernote. I connected my Google Drive account and verified that it worked. My work was saved as a .docx in Drive, so it wasn't a native Google Doc file, but it still showed up. You can't sync via Bluetooth to a phone or anything, but the included USB-C cable can be used to sync your work to a computer if you're in the woods, completely offline.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087264/19272" target="_top" id="2087264"><img src="//a.impactradius-go.com/display-ad/19272-2087264" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087264/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Should You Buy the Freewrite Alpha?
 
 ![Freewrite Alpha on a table](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2023/12/freewrite-alpha-on-a-table.JPG) 
 
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/1853659/21526" target="_top" id="1853659"><img src="//a.impactradius-go.com/display-ad/21526-1853659" border="0" alt="" width="1920" height="750"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1853659/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Tyler Hayes / How-To Geek
 
  Much like the biblical suggestion to cut out your eye if it causes you to sin, the [Freewrite Alpha](http://getfreewrite.com/products/alpha) feels like a self-inflicted punishment for people who have no self-control over digital distractions. By choosing to use it, you’ll either come up with something to say or you will be forced to stare at a monochrome screen and keyboard until you admit defeat and give up.
@@ -132,6 +147,10 @@ Tyler Hayes / How-To Geek
 
 ![Alpha Raven Black](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/alpha-raven-black.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698832&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/karaoki-new-searchresultspane.jpg" border="0">PCDJ Karaoki is the complete professional karaoke software designed for KJs and karaoke venues. Karaoki includes an advanced automatic singer rotation list with singer history, key control, news ticker, next singers screen, a song book exporter and printer, a jukebox background music player and many other features designed so you can host karaoke shows faster and easier! 
+ PCDJ Karaoki (WINDOWS ONLY Professional Karaoke Software - 3 Activations)</a>
+<!-- affiliate ads end -->
 #####  Freewrite Alpha
 
 6/ 10 
@@ -154,3 +173,51 @@ Alpha is a dedicated drafting device for anyone who wants to write without the d
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-enrich-your-screen-time-integrating-facebook-live-into-roku/"><u>[New] 2024 Approved  Enrich Your Screen Time  Integrating Facebook LIVE Into Roku</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-audiophiles-companion-to-top-tier-audio-equipment/"><u>[New] The Audiophile's Companion to Top-Tier Audio Equipment</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-moto-z2s-smarter-edge-an-exclusive-look/"><u>[Updated] 2024 Approved  Moto Z2's Smarter Edge  An Exclusive Look</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-complete-screen-recorder-in-depth-az-reviewing/"><u>[Updated] Complete Screen Recorder - In-Depth AZ Reviewing</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-secrets-to-successfully-capturing-facebooks-status-videos-for-2024/"><u>[Updated] Secrets to Successfully Capturing Facebook's Status Videos for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-the-great-debate-continues-is-bandicam-or-camtasia-better-for-2024/"><u>[Updated] The Great Debate Continues  Is Bandicam or Camtasia Better for 2024</u></a></li>
+<li><a href="https://discover-dash.techidaily.com/2024and/"><u>【2024年モデル】スマホに音楽を簡単ダウンロード！無料アプリ&方法紹介 - オススメ集</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/2024-approved-extended-scope-camera-platforms/"><u>2024 Approved  Extended Scope Camera Platforms</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/2024-approved-refine-video-creation-process-via-windows-10-photos-and-story-remix/"><u>2024 Approved  Refine Video Creation Process via Windows 10 Photos & Story Remix</u></a></li>
+<li><a href="https://discover-dash.techidaily.com/mac-mp4-macx/"><u>免費 Mac 向け MP4 動画編輯器 - MacX無料 音頻/視頻格式相容性優良</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/adding-music-to-photo-online-for-2024/"><u>Adding Music to Photo Online for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/audience-analysis-of-videorecord-9-reviewed/"><u>Audience Analysis of VideoRecord 9 Reviewed</u></a></li>
+<li><a href="https://discover-dash.techidaily.com/complete-transfer-process-for-iphone-7-users-sync-files-with-your-mac-effortlessly/"><u>Complete Transfer Process for iPhone 7 Users: Sync Files with Your Mac Effortlessly</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/conquer-audio-production-a-comprehensible-guide-to-podcast-editing-for-2024/"><u>Conquer Audio Production  A Comprehensible Guide to Podcast Editing for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/die-besten-oscarkomplettgewinner-aller-zeiten-die-top-10-filmliste-von-oscar-bester-filmen/"><u>Die Besten Oscarkomplettgewinner Aller Zeiten - Die Top-10 Filmliste Von Oscar Bester Filmen</u></a></li>
+<li><a href="https://discover-dash.techidaily.com/download-3d-movies-in-stunning-quality-discover-the-top-11-legitimate-websites-for-authentic-3d-blu-ray-sbs-downloads/"><u>Download 3D Movies in Stunning Quality: Discover the Top 11 Legitimate Websites for Authentic 3D Blu-Ray SBS Downloads</u></a></li>
+<li><a href="https://discover-dash.techidaily.com/easy-guide-moving-epub-books-from-pc-to-iphone-without-using-itunes/"><u>Easy Guide: Moving EPUB Books From PC to iPhone Without Using iTunes</u></a></li>
+<li><a href="https://discover-dash.techidaily.com/effortless-exchange-of-audio-photos-and-video-files-on-ipods-discover-leading-managers-for-quick-conversion/"><u>Effortless Exchange of Audio, Photos, and Video Files on iPods - Discover Leading Managers for Quick Conversion!</u></a></li>
+<li><a href="https://common-error.techidaily.com/findings-opengl-not-advocated-by-drivers/"><u>Findings: OpenGL Not Advocated by Drivers</u></a></li>
+<li><a href="https://discover-dash.techidaily.com/free-macx-youtube-downloader-pro-no-costs-unlimited-conversions/"><u>Free MacX YouTube Downloader Pro - No Costs, Unlimited Conversions</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-change-lock-screen-wallpaper-on-honor-magic-vs-2-by-drfone-android/"><u>How to Change Lock Screen Wallpaper on Honor Magic Vs 2</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-iphone-xs-without-backup-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Restore iPhone XS without Backup | Stellar</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/how-to-transfer-from-apple-iphone-11-pro-to-samsung-galaxy-s20-drfone-by-drfone-transfer-from-ios/"><u>How to Transfer from Apple iPhone 11 Pro to Samsung Galaxy S20? | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-3-ways-for-android-pokemon-go-spoofing-on-oppo-reno-9a-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Ways for Android Pokemon Go Spoofing On Oppo Reno 9A | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-complete-tutorial-to-use-vpna-to-fake-gps-location-on-itel-a60s-drfone-by-drfone-virtual-android/"><u>In 2024, Complete Tutorial to Use VPNa to Fake GPS Location On Itel A60s | Dr.fone</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-connect-and-play-xbox-one-zoom-guidebook/"><u>In 2024, Connect and Play  Xbox One Zoom Guidebook</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/in-2024-elegant-architecture-top-6-sleek-mc-houses/"><u>In 2024, Elegant Architecture  Top 6 Sleek MC Houses</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/in-2024-exclusive-twitter-gif-compiler-for-avid-scribes/"><u>In 2024, Exclusive Twitter GIF Compiler for Avid Scribes</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-mastering-quadcopter-power-5-premium-engine-choices/"><u>In 2024, Mastering Quadcopter Power  5 Premium Engine Choices</u></a></li>
+<li><a href="https://discover-dash.techidaily.com/join-the-2014-fifa-world-cup-contest-with-macx-video-converter-pro-claim-your-free-entry-today/"><u>Join the 2014 FIFA World Cup Contest with MacX Video Converter Pro - Claim Your Free Entry Today!</u></a></li>
+<li><a href="https://discover-dash.techidaily.com/macdvdmovmp4/"><u>Mac用無料DVD変換ツール：MOV/MP4への直接変換方法</u></a></li>
+<li><a href="https://discover-dash.techidaily.com/macx-dvd-ripper-pro-for-windows-expert-reviews-and-user-guides-delivered/"><u>MacX DVD Ripper Pro for Windows - Expert Reviews & User Guides Delivered!</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/mastering-creative-thinking-techniques-for-generating-ideas-with-mind-mapping-and-chatgpt/"><u>Mastering Creative Thinking: Techniques for Generating Ideas with Mind Mapping & ChatGPT</u></a></li>
+<li><a href="https://discover-dash.techidaily.com/quick-and-easy-methods-for-converting-mp4-files-to-hevch265-codec/"><u>Quick & Easy Methods for Converting MP4 Files to HEVC/H.265 Codec</u></a></li>
+<li><a href="https://discover-dash.techidaily.com/seamless-file-sharing-between-ios-devices-and-computers/"><u>Seamless File Sharing Between iOS Devices & Computers</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/the-ultimate-guide-to-the-garmin-forerunner-745-a-complete-look-at-this-elite-fitness-gadget/"><u>The Ultimate Guide to the Garmin Forerunner 745: A Complete Look at This Elite Fitness Gadget</u></a></li>
+<li><a href="https://discover-dash.techidaily.com/top-rated-free-youtube-video-downloader-to-mp4-the-ultimate-guide/"><u>Top Rated Free YouTube Video Downloader to MP4: The Ultimate Guide</u></a></li>
+<li><a href="https://discover-dash.techidaily.com/top-ranking-ipad-file-organizers-transfer-files-with-ease/"><u>Top-Ranking iPad File Organizers: Transfer Files with Ease</u></a></li>
+<li><a href="https://discover-dash.techidaily.com/tutorial-detail-transferer-et-copier-un-film-en-dvd-protege-dun-support-a-un-imacmacbook-avec-classeur-de-cddvd/"><u>Tutorial Détail : Transférer Et Copier Un Film en DVD Protégé D'un Support À Un iMac/MacBook Avec Classeur De CD/DVD</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/unleash-creative-potential-with-a-comprehensive-guide-to-ps-background-removal/"><u>Unleash Creative Potential with a Comprehensive Guide to PS Background Removal</u></a></li>
+<li><a href="https://discover-dash.techidaily.com/unlock-full-features-of-macx-dvd-ripper-pro-for-windows-lifetime-access-now-available/"><u>Unlock Full Features of MacX DVD Ripper Pro for Windows - Lifetime Access Now Available!</u></a></li>
+<li><a href="https://discover-dash.techidaily.com/unlocking-the-secrets-of-bypassing-disneys-digital-rights-management-on-cddvd-collection/"><u>Unlocking the Secrets of Bypassing Disney's Digital Rights Management on CD/DVD Collection</u></a></li>
+<li><a href="https://driver-install.techidaily.com/usb-controllers-transitioning-to-windows/"><u>USB Controllers: Transitioning to Windows</u></a></li>
+<li><a href="https://techidaily.com/video-fixer-software-for-all-corrupt-videos-of-infinix-note-30-5g-by-stellar-video-repair-mobile-video-repair/"><u>Video Fixer Software for all Corrupt Videos of Infinix Note 30 5G</u></a></li>
+</ul></div>
