@@ -1,7 +1,7 @@
 ---
 title: "Review of the Freewrite Alpha Device: No Gimmicks, Just Straightforward Focus on Your Writing"
-date: 2024-08-30T20:35:35.481Z
-updated: 2024-08-31T20:35:35.481Z
+date: 2024-09-05T10:46:47.269Z
+updated: 2024-09-06T10:46:47.269Z
 tags:
   - product-reviews
 categories:
@@ -11,6 +11,12 @@ thumbnail: https://thmb.techidaily.com/a876d99fc810824e790e14200a363bc8a24888dbe
 
 ## Review of the Freewrite Alpha Device: No Gimmicks, Just Straightforward Focus on Your Writing
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123508/26400" target="_top" id="2123508">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123508" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123508/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Key Takeaways
 
 * The Freewrite Alpha is a large, distraction-free writing device with a full-sized keyboard.
@@ -58,10 +64,22 @@ Alpha is a dedicated drafting device for anyone who wants to write without the d
 
 [$349 at Freewrite](https://getfreewrite.com/products/alpha) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115946/19272" target="_top" id="2115946">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115946" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115946/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  The Alpha Hardware Is Big and Hollow
 
 ![Freewrite Alpha from the side with the kickstand engaged](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2023/12/freewrite-alpha-from-the-side-with-the-kickstand-engaged.JPG) 
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2120866/26400?prodsku=mars" target="_top" id="2120866">
+  <img src="//a.impactradius-go.com/display-ad/26400-2120866" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120866/26400?prodsku=mars" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Tyler Hayes / How-To Geek
 
  The Freewrite Alpha might be the epitome of distraction-free writing. It’s just a large hunk of plastic with a full-sized keyboard. There is nothing to do with it except write words and watch them appear on its tiny screen.
@@ -88,15 +106,15 @@ The Alpha (left) next to the newest iPad Air
 
  There's no single point of failure with the hardware. It's the total package that doesn’t feel like a $349 product. The limited functionality of the hardware also doesn’t offer any further convincing arguments for potential buyers.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=22741618&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.diskpart.com/resource/images/index/dp-index-img-banner-people@2x.png" border="0">Easy and Safe Partition Software & Hard Disk Manager</a>
-<!-- affiliate ads end -->
 ##  The Interface Limits Productivity More Than Distractions Do
 
 ![Person holding the Freewrite Alpha](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2023/12/person-holding-the-freewrite-alpha.JPG) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2115925/19272" target="_top" id="2115925">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115925" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115925/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 Tyler Hayes / How-To Geek
 
@@ -110,9 +128,6 @@ Tyler Hayes / How-To Geek
 
 ![Freewrite Alpha's screen with direct light hitting it](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2023/12/freewrite-alpha-s-screen-with-direct-light-hitting-it.JPG) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4708689&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Win： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
-<!-- affiliate ads end -->
 Tyler Hayes / How-To Geek
 
  Even with the user manual by my side, it was a little worrying to press the key combinations because I was scared to get myself into a place on the screen I wasn’t expecting. Once I pressed the page-up button and was jolted to another part of my text. Without any dedicated arrow keys, it felt much harder to navigate around and back to my spot than it probably should have been. Even getting lost in my text was a concern.
@@ -121,15 +136,15 @@ Tyler Hayes / How-To Geek
 
  Beyond saving your documents to Postbox over its Wi-Fi connection, the Alpha can sync documents to Google Drive, OneDrive, Dropbox, or Evernote. I connected my Google Drive account and verified that it worked. My work was saved as a .docx in Drive, so it wasn't a native Google Doc file, but it still showed up. You can't sync via Bluetooth to a phone or anything, but the included USB-C cable can be used to sync your work to a computer if you're in the woods, completely offline.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087264/19272" target="_top" id="2087264"><img src="//a.impactradius-go.com/display-ad/19272-2087264" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087264/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Should You Buy the Freewrite Alpha?
 
 ![Freewrite Alpha on a table](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2023/12/freewrite-alpha-on-a-table.JPG) 
 
 <!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/1853659/21526" target="_top" id="1853659"><img src="//a.impactradius-go.com/display-ad/21526-1853659" border="0" alt="" width="1920" height="750"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1853659/21526" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://25home.pxf.io/c/5597632/2123466/16836" target="_top" id="2123466">
+  <img src="//a.impactradius-go.com/display-ad/16836-2123466" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123466/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 Tyler Hayes / How-To Geek
 
@@ -148,8 +163,10 @@ Tyler Hayes / How-To Geek
 ![Alpha Raven Black](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/alpha-raven-black.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698832&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/karaoki-new-searchresultspane.jpg" border="0">PCDJ Karaoki is the complete professional karaoke software designed for KJs and karaoke venues. Karaoki includes an advanced automatic singer rotation list with singer history, key control, news ticker, next singers screen, a song book exporter and printer, a jukebox background music player and many other features designed so you can host karaoke shows faster and easier! 
- PCDJ Karaoki (WINDOWS ONLY Professional Karaoke Software - 3 Activations)</a>
+<a href="https://bluettius.sjv.io/c/5597632/2139119/17108" target="_top" id="2139119">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139119" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139119/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 #####  Freewrite Alpha
 

@@ -1,7 +1,7 @@
 ---
 title: "Nanoleaf Umbra Cup Light Revue: Evaluating Its Role as a Decorative Desk Addition"
-date: 2024-08-30T20:35:33.427Z
-updated: 2024-08-31T20:35:33.427Z
+date: 2024-09-05T10:46:47.225Z
+updated: 2024-09-06T10:46:47.225Z
 tags:
   - product-reviews
 categories:
@@ -21,6 +21,12 @@ thumbnail: https://thmb.techidaily.com/b940b6b0f5ea7e32cad1821c53c7dd63eece1d15c
 
 ![The Nanoleaf Umbra Cup Smart Lamp](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/nanoleaf-umbra-cup-smart-lamp-render-1.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2134500/19576" target="_top" id="2134500">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134500" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134500/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 #####  Nanoleaf Umbra Cup Smart Lamp 
 
 5/ 10 
@@ -44,6 +50,12 @@ With its cup-shaped base, this appropriately named lamp is a perfect desk light 
 
 [_How We Test and Review Products_](https://vp-tips.techidaily.com/swiftly-move-data-fast-and-reliable-methods-to-direct-files-onto-your-computer/)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137219/26400" target="_top" id="2137219">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137219" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137219/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Price and Availability
 
  The Nanoleaf Umbra Cup Smart Lamp sells for $130 and can be purchased through the Nanoleaf Shop, Umbra Smart Lamps, and Crutchfield.
@@ -76,16 +88,21 @@ With its cup-shaped base, this appropriately named lamp is a perfect desk light 
 
 Expand 
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png" border="0"></a>
-<!-- affiliate ads end -->
 ##  A Little Umbrella for Your Desk
 
 ![Inside the cup of the Nanoleaf Umbra Cup Smart Lamp](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/07/inside-the-cup-of-the-nanoleaf-umbra-cup-smart-lamp_53646491272_o.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-spreadsheet-free-excel-editor-online-offline-1x.93e269d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<span id="1975636">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975636.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975636">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975636.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975636%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975636/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 Jerome Thomas / How-To Geek
 
@@ -99,6 +116,12 @@ Jerome Thomas / How-To Geek
 
  The LEDs are housed under the umbrella hood and deliver up to 320 lumens and over 16 million colors. Getting the lamp set up was about as straightforward as it gets. Just plug it in, download the Nanoleaf app (and create an account), add the light, connect to Wi-Fi, and install any available firmware updates.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123748/7443" target="_top" id="2123748">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123748" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123748/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Lighting Features Galore!
 
 ![The Nanoleaf Umbra Cup Smart Lamp controlled via app](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/07/the-nanoleaf-umbra-cup-smart-lamp-controlled-via-app_53647581103_o.jpg) 
@@ -113,11 +136,14 @@ Jerome Thomas / How-To Geek
 
 ![Lighting options for the Nanoleaf Umbra Cup Smart Lamp in the Nanoleaf app](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/nanoleaf-app-cup-controls-1.jpeg) 
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137216/26400" target="_top" id="2137216">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137216" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137216/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Highlight controls in the Nanoleaf app](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/nanoleaf-app-highlight-controls-1.jpeg) 
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095385/26400" target="_top" id="2095385"><img src="//a.impactradius-go.com/display-ad/26400-2095385" border="0" alt="" width="1024" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095385/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Close 
 
  If you’re the kind of person who wants to fine-tune every aspect of your [smart lights](https://fox-that.techidaily.com/1721479062545-experiencing-wi-fi-woes-let-us-show-you-how-to-connect-your-iphone-to-any-computer/), I recommend starting with the “Basic” dashboard. By default, you’ll see a color wheel with a small circle for you to drag around the shape. Whenever I selected a new color, the Cup changed quickly. Raising and lowering brightness was just as fast. I liked having the ability to switch the color wheel over to color temperature, which can be adjusted from 2100 Kelvin (warm white) up to 6500K (daylight).
@@ -127,16 +153,21 @@ Close
  It was convenient to be able to “like” a few of the presets, which logged them in my “Favorites” tab for easy access. You’ll also be able to create your very own scenes by tapping the Plus icon in the Scene or Favorites settings. Oh, and last but not least: I was completely blown away by the Circadian Lighting feature. When set up, the lamp will automatically mirror the color temperature of the sun, based on time zone data or manual settings.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4727541&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/copy_copy_forexrobotronbox.gif" border="0">Forex Robotron Gold Package</a>
+<span id="1993652">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ##  A Smart Lamp Stumped by Wi-Fi
 
 ![The back of the Nanoleaf Umbra Cup Smart Lamp](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/07/the-back-of-the-nanoleaf-umbra-cup-smart-lamp_53647828375_o.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901410&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix Pro - Software based live production. vMix Pro includes everything in vMix 4K plus 8 channels of Replay and 8 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 Jerome Thomas / How-To Geek
 
  The Cup works with Matter and Thread systems. The smart lamp can be integrated into smart ecosystems that are powered by Alexa, Google Home, Apple Home, Samsung SmartThings, and IFTTT; but only when the lamp is connected to Matter-Thread peripherals.
@@ -145,6 +176,12 @@ Jerome Thomas / How-To Geek
 
  While the Nanoleaf app requires a Wi-Fi connection for firmware updates, the Cup’s app controls are handled by Bluetooth connectivity. This means that you won’t be able to control the Cup remotely, and may have range issues when you’re more than 30 feet away.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115949/19272" target="_top" id="2115949">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115949" border="0" alt="https://techidaily.com" width="392" height="72"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115949/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Should You Buy the Nanoleaf Umbra Cup Smart Lamp?
 
  As much as I loved its mighty trove of app controls, the [Nanoleaf Umbra Cup Smart Lamp](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fwww.crutchfield.com%2FS-IIbdaOJbVDM%2Fp_374UMBRACP%2FNanoleaf-Umbra-Cup-Smart-Lamp.html%3FXVINQ%3DGLX%26XVVer%3D1JI0%26awcr%3D705331334345%26awdv%3Dc%26awnw%3Dg%26awug%3D9004840%26awkw%3Dpla-2320559281082%26awmt%3D%26awat%3Dpla%26gad_source%3D1%26gclid%3DCjwKCAjw4ri0BhAvEiwA8oo6F0a1KkCU15j5PzZx5oEF4K0kqiYaOFbhw7NRXlsNXHzAysYTqrpTTRoCUvEQAvD_BwE) has too much working against it. Not only is it more expensive than many other smart lamps, but the fact that you can only control the Cup over Bluetooth or a Matter-Thread setup is going to be an immediate detractor for most folks.
@@ -154,7 +191,10 @@ Jerome Thomas / How-To Geek
 ![The Nanoleaf Umbra Cup Smart Lamp](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/nanoleaf-umbra-cup-smart-lamp-render-1.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072199/17885" target="_top" id="2072199"><img src="//a.impactradius-go.com/display-ad/17885-2072199" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072199/17885" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2130885/7443" target="_top" id="2130885">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130885" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130885/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 #####  Nanoleaf Umbra Cup Smart Lamp 
 
