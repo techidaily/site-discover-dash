@@ -1,7 +1,7 @@
 ---
 title: Creative Bildbearbeitung Mit Filtern Und Effekten Im Movavi Fotobetrachter
-date: 2024-09-09T01:04:40.456Z
-updated: 2024-09-16T13:23:11.741Z
+date: 2024-09-18T11:59:26.311Z
+updated: 2024-09-20T18:30:21.611Z
 categories:
   - movavi
 thumbnail: https://thmb.techidaily.com/0cc5faa4648feed06dc36c6c4e0b5955761ab929bead105231f3c88d9fbf7ea6.jpg
@@ -210,6 +210,13 @@ Voici quelques liens vers les mises à jour des pilotes des fabricants les plus 
 * [Pilotes NVIDIA](https://www.nvidia.com/Download/index.aspx)
 * [Pilotes Intel Graphics](https://www.intel.com/content/www/us/en/support/products/80939/graphics-drivers.html)
 
+<!-- affiliate ads begin -->
+<a href="https://oneplusfr.sjv.io/c/5597632/1622438/14044" target="_top" id="1622438">
+  <img src="//a.impactradius-go.com/display-ad/14044-1622438" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://oneplusfr.sjv.io/i/5597632/1622438/14044" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Installer DirectX 12
 
 ![](https://cdn.staticont.net/default/0012/47/72e52d810cb1f6f8d15a641fc4b287b8c43fbcd6.webp)
@@ -254,13 +261,6 @@ Si vous êtes un joueur de nuit ou si vos heures de sommeil varient considérabl
 
 Pour ce faire, retournez à Windows Update, cliquez sur **Advanced options** et assurez-vous que l'interrupteur sous **We'll show a reminder when we're going to restart** est activé.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123750/7443" target="_top" id="2123750">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123750" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123750/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Réglez les paramètres de vos effets visuels
 
 Les interfaces utilisateur graphiques (IUG) de Windows 10 regorgent d'effets visuels fantaisistes. Néanmoins, ces jolis graphiques d'arrière-plan, dont la plupart sont activés par défaut, peuvent affecter la puissance de traitement disponible de votre PC lorsqu'un jeu est en cours d'exécution au premier plan. Ainsi, une façon d'optimiser Windows 10 pour les performances de jeu est de sacrifier certains, voire tous, ces paramètres.
@@ -284,13 +284,6 @@ Pour empêcher Steam de mettre à jour les jeux pendant que vous jouez, allez da
 Par ailleurs, les jeux sur Steam sont mis à jour en permanence et il arrive souvent que de nouveaux bogues apparaissent dans les nouvelles mises à jour ou que certains éléments cessent de fonctionner.
 
 Pour ramener la version d'un jeu à celle dont vous avez besoin, ouvrez Steam, faites un clic droit sur le jeu, choisissez **Propriétés** et allez dans l'onglet **Bêta**. Choisissez la version souhaitée dans le menu déroulant.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135359/19272" target="_top" id="2135359">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135359" border="0" alt="https://techidaily.com" width="392" height="72"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135359/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Désactiver les notifications
 
@@ -320,6 +313,13 @@ Les cartes graphiques AMD ont également beaucoup de paramètres. Certains disen
 2. Augmentez vos performances graphiques en utilisant l'overclocking. Pour ce faire, cliquez sur l'onglet **Performance**, puis sur **Tuning**, sélectionnez **Automatique**, et enfin **GPU Overclocked**.
 3. Si vous utilisez une carte AMD, vous n'avez pas besoin de MSI Afterburner pour contrôler les performances. Il vous suffit d'appuyer sur **Ctrl** \+ **Shift** \+ **O** pour que vos statistiques apparaissent dans le jeu.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902278/19272" target="_top" id="1902278">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902278" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902278/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Réduire la résolution dans un jeu
 
 Cette solution entre facilement dans la catégorie des "solutions rapides". Parfois, votre système ne peut tout simplement pas gérer un jeu, et vous n'avez pas le temps de chercher des solutions à plus long terme. Allez dans les paramètres système du jeu et réduisez la résolution d'un niveau. Surveillez ensuite votre FPS jusqu'à ce que les choses s'améliorent.
@@ -332,6 +332,13 @@ Pour ce faire, appuyez sur la   **touche Windows** \+ **I**. Tapez "pointeur de 
 
 Vous pouvez également modifier le curseur de la vitesse du pointeur pour créer la configuration qui vous convient le mieux.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1868499/19272" target="_top" id="1868499">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868499" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868499/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 
 
 Comment améliorer les performances de jeu sur Windows 10 (corrections avancées)
@@ -339,13 +346,6 @@ Comment améliorer les performances de jeu sur Windows 10 (corrections avancées
 ![](https://cdn.staticont.net/pages/0013/24/72b5f58442a79243cce53c3224e26755b436a620.webp)
 
 Vous ne savez toujours pas comment rendre Windows 10 plus rapide pour les jeux ? Utilisez ces correctifs avancés pour une solution à long terme.
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134235/18498" target="_top" id="2134235">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134235" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134235/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Optez pour un SSD
 
@@ -366,10 +366,10 @@ Le choix de la première mise à niveau dépend des types de jeux auxquels vous 
 Quoi qu'il en soit, assurez-vous que l'équilibre des performances entre les deux est délicat, car l'un ne fonctionne pas sans l'autre. Vérifiez la mémoire et la bande passante de toute mise à niveau potentielle.
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123469/16836" target="_top" id="2123469">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123469" border="0" alt="https://techidaily.com" width="160" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135373/19272" target="_top" id="2135373">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135373" border="0" alt="https://techidaily.com" width="392" height="72"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123469/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135373/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Mettez votre RAM à niveau
@@ -389,6 +389,13 @@ Ouvrez votre Windows Éditeur de registre en cliquant sur la   **touche Windows*
 Pour trouver votre adresse IP, appuyez sur la   **touche Windows** \+ **X** et suivez ces étapes : **Panneau de configuration** \- **Réseau et Internet** \- **Centre Réseau et partage** \- **Connexions** \- **Détails** \- **Adresse IPv4**.
 
 Vous pouvez maintenant retrouver le dossier avec la bonne adresse IP. Cliquez avec le bouton droit de la souris sur ce dossier et sélectionnez **Nouveau** \- **Valeur DWORD (32 bits)**. Vous devrez créer deux de ces valeurs : **TcpAckFrequency** et **TCPNoDelay**. Double-cliquez sur chacune d'elles et réglez leurs paramètres sur **1**. L'algorithme de Nagle est maintenant désactivé.
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1030129/11832" target="_top" id="1030129">
+  <img src="//a.impactradius-go.com/display-ad/11832-1030129" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1030129/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Surcadencez votre carte graphique
 
@@ -538,13 +545,6 @@ Ce n'est pas parce que vous dépensez de l'argent pour un ordinateur qu'il est �
 
 ![Avez-vous des questions&nbsp;?](https://cdn.staticont.net/global/0023/54/e832fd4fe897893df1de795a67cafcd74a13283a.webp)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123732/7443" target="_top" id="2123732">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123732" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123732/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Avez-vous des questions ?
 
 [Visitez notre centre d'assistance](https://tools.techidaily.com/movavi/products/)
@@ -580,21 +580,18 @@ En vous inscrivant, vous acceptez de recevoir nos courriels de marketing et acce
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-posts.techidaily.com/new-in-2024-top-ten-best-of-the-year-high-quality-4k-pcs/"><u>[New] In 2024, Top Ten Best of the Year High-Quality 4K PCs</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/new-setting-up-your-logitech-webcam-for-recording/"><u>[New] Setting Up Your Logitech Webcam for Recording</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-personalize-speakability-changing-your-tone-on-instagram-posts/"><u>[Updated] Personalize Speakability Changing Your Tone on Instagram Posts</u></a></li>
-<li><a href="https://discover-dash.techidaily.com/1726029430617-dvd/"><u>「完全忠実コピーによるパソコンへのDVDリップ方法」</u></a></li>
-<li><a href="https://discover-dash.techidaily.com/1726028202725-dvd-diy/"><u>「ジャニーズDVD再生エラーに悩む方へ、解決策集」 - DIY修正手順</u></a></li>
-<li><a href="https://discover-dash.techidaily.com/1-transform-your-dvd-collection-a-step-by-step-guide-to-converting-dvd-video-format-to-480p60fps/"><u>1. Transform Your DVD Collection: A Step-by-Step Guide to Converting DVD Video Format to 480P/60fps</u></a></li>
-<li><a href="https://discover-dash.techidaily.com/1-transform-your-flac-or-wav-files-into-mp3-format-using-two-simple-techniques/"><u>1. Transform Your FLAC or WAV Files Into MP3 Format Using Two Simple Techniques</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/2024-approved-decoding-youtubes-operations-following-uploads/"><u>2024 Approved Decoding YouTube’s Operations Following Uploads</u></a></li>
-<li><a href="https://android-location.techidaily.com/fake-android-location-without-rooting-for-your-xiaomi-redmi-12-5g-drfone-by-drfone-virtual/"><u>Fake Android Location without Rooting For Your Xiaomi Redmi 12 5G | Dr.fone</u></a></li>
-<li><a href="https://fake-location.techidaily.com/in-2024-a-detailed-vpna-fake-gps-location-free-review-on-itel-a60-drfone-by-drfone-virtual-android/"><u>In 2024, A Detailed VPNa Fake GPS Location Free Review On Itel A60 | Dr.fone</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-how-to-bypass-frp-on-motorola-moto-g13-by-drfone-android/"><u>In 2024, How to Bypass FRP on Motorola Moto G13?</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/increasing-onscreen-detail-in-virtual-spaces-for-2024/"><u>Increasing Onscreen Detail in Virtual Spaces for 2024</u></a></li>
-<li><a href="https://discover-dash.techidaily.com/1726028535478-iphoneyoutube/"><u>IPhoneで使えるYouTubeビデオの自由なセーブ方法</u></a></li>
-<li><a href="https://discover-dash.techidaily.com/1726028412045-mp4mp3/"><u>MP4ビデオとMP3オーディオを効果的に組み合わせる基本テクニック</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/ultimate-crew-for-imaginative-audio-visual-art/"><u>Ultimate Crew for Imaginative Audio-Visual Art</u></a></li>
-<li><a href="https://discover-dash.techidaily.com/1726027727327-youtubepc/"><u>YouTube投稿のためのPCゲーム録画テクニック</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-best-choices-in-game-livestream-technology-for-2024/"><u>[New] Best Choices in Game Livestream Technology for 2024</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-2024-approved-drone-wizardry-and-the-mavic-pro-breakdown/"><u>[Updated] 2024 Approved Drone Wizardry and the Mavic Pro Breakdown</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-transform-your-archive-with-instagrams-filters-an-easy-guide/"><u>[Updated] In 2024, Transform Your Archive with Instagram’s Filters – An Easy Guide</u></a></li>
+<li><a href="https://discover-dash.techidaily.com/1-xrecorder-para-windows-herramienta-de-grabacion-gratuita-y-facil-de-usar/"><u>1. XRECORDER Para Windows - Herramienta De Grabación Gratuita Y Fácil De Usar</u></a></li>
+<li><a href="https://howto.techidaily.com/11-proven-solutions-to-fix-google-play-store-not-working-issue-on-oneplus-ace-2v-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>11 Proven Solutions to Fix Google Play Store Not Working Issue on OnePlus Ace 2V | Dr.fone</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/empowering-digital-platforms-with-cookiebot-technology-solutions/"><u>Empowering Digital Platforms with Cookiebot Technology Solutions</u></a></li>
+<li><a href="https://discover-dash.techidaily.com/free-online-wmv-to-mpeg-converter-easy-and-fast-by-movavi/"><u>Free Online WMV to MPEG Converter - Easy and Fast by Movavi</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/latest-guide-how-to-bypass-xiaomi-14-ultra-frp-without-computer-by-drfone-android/"><u>Latest Guide How To Bypass Xiaomi 14 Ultra FRP Without Computer</u></a></li>
+<li><a href="https://discover-dash.techidaily.com/nouveaux-formats-et-volumes-facilement-convertibles-avec-movavi-service-gratuit-en-ligne/"><u>Nouveaux Formats Et Volumes Facilement Convertibles Avec Movavi - Service Gratuit en Ligne</u></a></li>
+<li><a href="https://discover-dash.techidaily.com/quick-tutorial-crafting-an-iphone-presentation-using-movavis-tools/"><u>Quick Tutorial: Crafting an iPhone Presentation Using Movavi's Tools</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/samsung-galaxy-s23-not-connecting-to-wi-fi-12-quick-ways-to-fix-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Samsung Galaxy S23 Not Connecting to Wi-Fi? 12 Quick Ways to Fix | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/tips-and-tricks-for-setting-up-your-motorola-moto-g04-phone-pattern-lock-by-drfone-android/"><u>Tips and Tricks for Setting Up your Motorola Moto G04 Phone Pattern Lock</u></a></li>
+<li><a href="https://discover-dash.techidaily.com/transformar-mov-en-mp3-directamente-online-e-indemnizado-por-usuarios-mov-mp3convertidor/"><u>Transformar MOV en MP3 Directamente Online E Indemnizado Por Usuarios - MOV-MP3Convertidor</u></a></li>
 </ul></div>
 
