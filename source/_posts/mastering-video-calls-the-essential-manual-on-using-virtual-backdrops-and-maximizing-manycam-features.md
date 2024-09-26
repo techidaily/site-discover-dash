@@ -1,7 +1,7 @@
 ---
 title: "Mastering Video Calls: The Essential Manual on Using Virtual Backdrops & Maximizing ManyCam Features"
-date: 2024-09-14T13:57:09.151Z
-updated: 2024-09-16T03:20:40.486Z
+date: 2024-09-23T18:22:44.146Z
+updated: 2024-09-25T22:54:23.951Z
 tags:
   - product
   - solution
@@ -604,11 +604,31 @@ Forum
    5. [Fine-tuning the result](https://tools.techidaily.com/manycam/products/)
 2. [Troubleshooting](https://tools.techidaily.com/manycam/products/)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130871/7443" target="_top" id="2130871">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130871" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130871/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to use Virtual Backgrounds
 
 First, click the Virtual Backgrounds icon as shown below.
 
 ![](https://help.manycam.com/wp-content/uploads/2022/10/image-3.png)
+
+<!-- affiliate ads begin -->
+<span id="1983552">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983552.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983552">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983552.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983552%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983552/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Then click on the Background blur tab to open the settings:
 
@@ -647,6 +667,20 @@ To enable Background blur, click on the Virtual Backgrounds icon**,** and make s
 
 ![](https://help.manycam.com/wp-content/uploads/2022/10/image-6.png)
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148638/16836" target="_top" id="2148638">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148638" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148638/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087239/19272" target="_top" id="2087239">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087239" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087239/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Replace background (without a green screen)
 
 This feature allows you to replace your background **without a physical green screen.** You can pick any default ManyCam background or add your own custom image.
@@ -677,18 +711,18 @@ Click on the Virtual Backgrounds icon**,** and enable the ‘**I have a green sc
 
 ![](https://help.manycam.com/wp-content/uploads/2022/10/image-8.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123727/7443" target="_top" id="2123727">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123727" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123727/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 You can choose between two modes: **Color Picker** and **Auto**, either of which may produce different outcomes depending on your environment, webcam parameters and settings, ManyCam video settings, and Advanced Chroma key settings selected.
 
 To select background image or video, click on the Background setting.
 
 ![](https://help.manycam.com/wp-content/uploads/2022/10/image-9.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135396/19272" target="_top" id="2135396">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135396" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135396/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 #### Remove background using Color Picker (green screen required)
 
@@ -713,10 +747,10 @@ In the Auto mode, ManyCam automatically selects the colors to be replaced with t
 ![](https://help.manycam.com/wp-content/uploads/2022/10/image-11.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135407/19272" target="_top" id="2135407">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135407" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2132160/7443" target="_top" id="2132160">
+  <img src="//a.impactradius-go.com/display-ad/7443-2132160" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135407/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132160/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Note 
@@ -728,6 +762,13 @@ Note
 You can choose one of the predefined images or videos as your background, upload your own custom image or video, or go with a transparent background.
 
 ![](https://help.manycam.com/wp-content/uploads/2022/10/image-12.png)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130533/26400" target="_top" id="2130533">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130533" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130533/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### About the Chroma key algorithms
 
@@ -750,13 +791,6 @@ Compared to HSL, the YUV algorithm works with solid-color backgrounds only, whic
 Note 
 
  To enable more precise Spill suppression, use the YUV algorithm. 
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139114/17108" target="_top" id="2139114">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139114" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139114/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fine-tuning the result
 
@@ -802,18 +836,24 @@ To access this setting, enable Advanced settings, and select YUV.
 
 ![](https://help.manycam.com/wp-content/uploads/2022/10/image-17.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130887/7443" target="_top" id="2130887">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130887" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130887/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Troubleshooting
 
 Please refer to [this guide](https://tools.techidaily.com/manycam/products/) if you experience any technical issues related to Virtual Backgrounds.
 
  Updated on October 14, 2022 
+
+<!-- affiliate ads begin -->
+<span id="2127886">
+					<video width="576" height="1024" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/2127886.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18498-2127886">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2127886.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2127886%2F18498'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2127886/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 
 
@@ -825,13 +865,6 @@ Please refer to [this guide](https://tools.techidaily.com/manycam/products/) if 
 
 * [How do I replace my background with a custom video?](https://tools.techidaily.com/manycam/products/)
 * [ManyCam 7: How to switch back to old Chroma key?](https://tools.techidaily.com/manycam/products/)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130531/26400" target="_top" id="2130531">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130531" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130531/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Contents
 
@@ -863,5 +896,18 @@ Please refer to [this guide](https://tools.techidaily.com/manycam/products/) if 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-exploring-youtubes-financial-blueprint-for-short-form-video-success/"><u>[New] In 2024, Exploring YouTube's Financial Blueprint for Short-Form Video Success</u></a></li>
+<li><a href="https://discover-dash.techidaily.com/12-beste-kostenlose-software-zum-rippen-von-dvds-auf-macos-im-jahr-2023-trial-version/"><u>12 Beste Kostenlose Software Zum Rippen Von DVDs Auf macOS Im Jahr 2023 (Trial Version)</u></a></li>
+<li><a href="https://discover-dash.techidaily.com/1725285079376-dvd/"><u>全体的なマニュアル：ビデオ、オーディオ、DVDリプレイ手順集</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-stream-apple-iphone-15-plus-to-computer-drfone-by-drfone-ios/"><u>How to Stream Apple iPhone 15 Plus to Computer? | Dr.fone</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/in-2024-10-best-youtube-music-reaction-video-and-how-to-make-one/"><u>In 2024, 10 Best YouTube Music Reaction Video & How to Make One</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-rise-to-greatness-with-these-10-elevating-films/"><u>In 2024, Rise to Greatness with These 10 Elevating Films</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-the-updated-method-to-bypass-infinix-zero-5g-2023-turbo-frp-by-drfone-android/"><u>In 2024, The Updated Method to Bypass Infinix Zero 5G 2023 Turbo FRP</u></a></li>
+<li><a href="https://discover-dash.techidaily.com/les-5-meilleurs-logiciels-de-montage-video-gratuit-pour-lannee-2024-des-conseils-et-tutorials/"><u>Les 5 Meilleurs Logiciels De Montage Vidéo Gratuit Pour L'Année 2024 - Des Conseils Et Tutorials</u></a></li>
+<li><a href="https://discover-dash.techidaily.com/ultimate-list-of-6-highly-effective-ai-based-video-super-resolution-applications/"><u>Ultimate List of 6 Highly Effective AI-Based Video Super-Resolution Applications</u></a></li>
+<li><a href="https://discover-dash.techidaily.com/understanding-the-advantages-of-webm-over-mp4-a-comprehensive-guide/"><u>Understanding the Advantages of WebM over MP4: A Comprehensive Guide</u></a></li>
+<li><a href="https://win-wonderful.techidaily.com/unveiling-the-irony-microsofts-satirical-take-on-teams-a-hidden-reality-zdnet/"><u>Unveiling the Irony: Microsoft's Satirical Take on Teams - A Hidden Reality? | ZDNet</u></a></li>
+</ul></div>
 
