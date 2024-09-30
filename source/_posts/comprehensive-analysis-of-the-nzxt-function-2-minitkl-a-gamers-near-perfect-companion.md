@@ -1,7 +1,7 @@
 ---
 title: Comprehensive Analysis of the NZXT Function 2 MiniTKL - A Gamer's Near-Perfect Companion
-date: 2024-09-05T10:46:47.132Z
-updated: 2024-09-06T10:46:47.132Z
+date: 2024-09-27T19:46:00.599Z
+updated: 2024-09-30T17:13:47.761Z
 tags:
   - product-reviews
 categories:
@@ -9,20 +9,8 @@ categories:
 thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/02/nzxt-function-2-keyboard-in-front-of-boxjpg_53489592790_o-4.jpg
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134501/19576" target="_top" id="2134501">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134501" border="0" alt="https://techidaily.com" width="640" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134501/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Comprehensive Analysis of the NZXT Function 2 MiniTKL - A Gamer's Near-Perfect Companion
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115938/19272" target="_top" id="2115938">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115938" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115938/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Key Takeaways
 
 * NZXT Function 2 MiniTKL features hot-swappable optical linear switches & per-key RGB backlighting.
@@ -99,21 +87,16 @@ Expand
 
 [$107 at Amazon](https://www.amazon.com/NZXT-Tenkeyless-Adjustable-Double-Shot-Hot-Swappable/dp/B0CST2HK9G?tag=hotoge-20&ascsubtag=UUhtgUeUpU2002778&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Fnzxt-function-2-minitkl-review%2F&asc%5Fcampaign=Authority) [$129.99 at nzxt](https://nzxt.com/product/function-2-minitkl) 
 
-<!-- affiliate ads begin -->
-<span id="2135471">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/2135471.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18498-2135471">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135471%2F18498'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135471/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Hot-Swappable Switches…Kinda
 
 ![The Function 2 MiniTKL with keycaps removed](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/04/the-function-2-minitkl-with-keycaps-removedjpg_53488291767_o.jpg) 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997675/19272" target="_top" id="1997675">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997675" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997675/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Jerome Thomas / How-To Geek
 
@@ -121,16 +104,24 @@ Jerome Thomas / How-To Geek
 
  NZXT said that they’re using the bottom portion that’s used by Gateron switches, but can’t guarantee that Gateron switches will work if inserted. Officially, the NZXT Function 2 keyboard only supports the brand’s own switches that are included in the box, which is a bit of a letdown. While the optical linear switches are good, I would have liked to, at some point, swap them out for something a little more clicky, mechanical, and tactile, like a Kailh Copper or MX Brown.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118322/7443" target="_top" id="2118322">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118322" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118322/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  The Switches Do Feel Good, Which Is Nice Since You Can’t Really Change Them
 
 ![The Function 2 MiniTKL plugged in](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/04/the-function-2-minitkl-plugged-injpg_53489604800_o.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115910/19272" target="_top" id="2115910">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115910" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134241/18498" target="_top" id="2134241">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134241" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115910/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134241/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 Jerome Thomas / How-To Geek
 
  Given that you can’t really change the switches for something else you might like better, the stock options from NZXT actually do feel pretty good. They’re optical and linear, which is what I expect from something like this. You’ll find 40g switches which are pre-lubed and feature plate-mounted stabilizers to keep things nice, tight, and responsive. In the box, you’ll find four 35g and four 45g switches that can be swapped in for just about any key that you want to change things for. This makes it easy to, say, customize WASD to be lighter, so that way, those keys have a better response than the rest of the keyboard. And, if you want to ensure that you’re not accidentally swapping weapons in the middle of a match, you could make the E key heavier by putting a 45g switch there.
@@ -148,21 +139,16 @@ Jerome Thomas / How-To Geek
  NZXT went the extra mile when it comes to acoustics with the Function 2 MiniTKL. The top frame plate is made from 3mm aluminum, and you’ll find dual-layer sound-dampening foam and tape on the PCB to ensure that there’s no unwanted pinging noise. In practice, this works great. The keyboard sounded fantastic when typing, and there was no pinging or hollowness to the keystrokes at all. Plus, the aluminum gives it a nice heft without adding tons of weight and making it super heavy.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135416/19272" target="_top" id="2135416">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135416" border="0" alt="https://techidaily.com" width="336" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136625/26400" target="_top" id="2136625">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136625" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135416/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136625/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ##  The Extra Keys Are Laid Out Weird
 
 ![The volume wheel, mute, windows lock and backlight buttons on the Function 2 MiniTKL](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/04/the-volume-wheel-mute-windows-lock-and-backlight-buttons-on-the-function-2-minitkljpg_53489492524_o.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115930/19272" target="_top" id="2115930">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115930" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115930/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Jerome Thomas / How-To Geek
 
  NZXT wanted to pack all it could into the 65% layout. It did a great job at that, with all but three keys. There’s a weird, and not all-that-useful custom NZXT key above the arrows, which, by default, doesn’t do anything when pressed, making it feel a little out of place to me. Meanwhile, keys that you would actually want to have quick access to, like volume and Windows lock, have been moved off to the left side of the keyboard—not to a key, but to a button on the side.
@@ -171,18 +157,6 @@ Jerome Thomas / How-To Geek
 
  Along that same left side you’ll also find a volume wheel, which works great and isn’t out of place at all on the side. Meanwhile, the other media keys, like play and pause, seek, and reverse, are located on the print screen, scroll lock, and pause keys at the top right of the keyboard and require a function press to activate. Ideally, I would have liked to have seen mute be activated by pressing the volume scroll wheel and have had media keys on the left side, with the Windows lock and brightness buttons under function keys somewhere else on the keyboard.
 
-<!-- affiliate ads begin -->
-<span id="1976998">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1976998.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1976998">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1976998.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1976998%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1976998/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  NZXT CAM Gives You All the Customization One Could Want
 
 ![The Function 2 MiniTKL without the backlight](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/04/the-function-2-minitkl-without-the-backlightjpg_53489191606_o.jpg) 
@@ -193,12 +167,6 @@ Jerome Thomas / How-To Geek
 
  In addition to the standard stuff, like RGB and key remapping, you’ll also find macro programming within CAM. This will allow you to complete complex functions with a single keystroke, which can save you lots of time when doing repetitive tasks. Plus, CAM allows you to program up to four different profiles on the keyboard, each of which can be accessed on-device by holding the function key and clicking F1-F4.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettiit.sjv.io/c/5597632/2114263/17093" target="_top" id="2114263">
-  <img src="//a.impactradius-go.com/display-ad/17093-2114263" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2114263/17093" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Should You Buy the NZXT Function 2 MiniTKL Keyboard?
 
 ![NZXT Function 2 MINITKL keyboard in front of box](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/04/nzxt-function-2-minitkl-keyboard-in-front-of-boxjpg_53489190826_o.jpg) 
@@ -212,6 +180,13 @@ Jerome Thomas / How-To Geek
  While I absolutely want to love the keyboard, and do in many respects, the side-mounted keys here seal the deal for me. There were several times when I couldn’t use my Windows key only to realize I had inadvertently locked it out by accidentally clicking the button. That got old, real quick. At the end of the day, if NZXT put the secondary keys somewhere else, this would easily be my new favorite gaming keyboard, as I can get over not being able to change the switches. But the side button placement gets me every time.
 
 ![NZXT Function 2 MiniTKL Keyboard](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/nzxt-function-2-minitkl-keyboard.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135393/19272" target="_top" id="2135393">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135393" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135393/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 #####  NZXT Function 2 MiniTKL Keyboard
 
@@ -229,8 +204,6 @@ The NZXT Function 2 MiniTKL gaming keyboard packs every key of a tenkeyless keyb
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -238,4 +211,23 @@ The NZXT Function 2 MiniTKL gaming keyboard packs every key of a tenkeyless keyb
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-skills.techidaily.com/new-the-ultimate-guide-to-crafting-impressive-android-time-lapses-2enas/"><u>[New] The Ultimate Guide to Crafting Impressive Android Time-Lapses (2Enas)</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-customize-your-youtube-view-adjust-speed-settings/"><u>[Updated] In 2024, Customize Your YouTube View Adjust Speed Settings</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/1716069541804-updated-in-2024-get-savvy-with-chromebook-snaps-explore-these-4-methods/"><u>[Updated] In 2024, Get Savvy with Chromebook Snaps - Explore These 4 Methods!</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-bridging-gaps-between-vision-and-execution-in-filmora-editing/"><u>2024 Approved Bridging Gaps Between Vision and Execution in Filmora Editing</u></a></li>
+<li><a href="https://discover-dash.techidaily.com/dvd-drmdvd/"><u>簡單指南：迅速取消DVD DRM保護並進行DVD備份</u></a></li>
+<li><a href="https://discover-dash.techidaily.com/easy-and-fast-windows-10-converter-winx-free-tool-for-quickly-transforming-dvds-into-mp4-files/"><u>Easy & Fast Windows 10 Converter: WinX Free Tool for Quickly Transforming DVDs Into MP4 Files</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/fitbit-sense-vs-apple-watch-the-ultimate-wellness-contender/"><u>Fitbit Sense Vs. Apple Watch: The Ultimate Wellness Contender</u></a></li>
+<li><a href="https://discover-dash.techidaily.com/how-to-contact-digiarty-your-comprehensive-guide/"><u>How to Contact Digiarty - Your Comprehensive Guide</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-catchemall-celebrate-national-pokemon-day-with-virtual-location-on-vivo-s17t-drfone-by-drfone-virtual-android/"><u>In 2024, CatchEmAll Celebrate National Pokémon Day with Virtual Location On Vivo S17t | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-does-oneplus-nord-n30-5g-have-find-my-friends-drfone-by-drfone-virtual-android/"><u>In 2024, Does OnePlus Nord N30 5G Have Find My Friends? | Dr.fone</u></a></li>
+<li><a href="https://discover-dash.techidaily.com/integrating-avivob-files-into-your-library-for-smooth-streaming-on-plex/"><u>Integrating AVI/VOB Files Into Your Library for Smooth Streaming on Plex</u></a></li>
+<li><a href="https://discover-dash.techidaily.com/step-by-step-guide-smoothening-your-videos-on-pc-mac-android-and-iphone/"><u>Step-by-Step Guide: Smoothening Your Videos on PC, Mac, Android & iPhone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/steps-to-remove-manual-feed-curation-suggestions-for-you-in-insta/"><u>Steps to Remove Manual Feed Curation 'Suggestions for You' In Insta</u></a></li>
+<li><a href="https://discover-dash.techidaily.com/tutorial-de-sauvegarde-dun-video-dvd-sur-cle-usb-en-systeme-windowsmacos/"><u>Tutorial De Sauvegarde D'un Vidéo-DVD Sur Clé USB en Système Windows/MacOS</u></a></li>
+<li><a href="https://discover-dash.techidaily.com/ultimate-guide-converting-dvds-to-high-quality-hevch265-mp4-for-hassle-free-viewing/"><u>Ultimate Guide: Converting DVDs to High-Quality HEVC/H.265 MP4 for Hassle-Free Viewing</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-elevate-your-vlog-game-top-10-mobile-video-editing-apps-for-2024/"><u>Updated Elevate Your Vlog Game Top 10 Mobile Video Editing Apps for 2024</u></a></li>
+</ul></div>
 

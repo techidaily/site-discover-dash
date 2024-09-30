@@ -1,7 +1,7 @@
 ---
 title: "Review of the Freewrite Alpha Device: No Gimmicks, Just Straightforward Focus on Your Writing"
-date: 2024-09-05T10:46:47.269Z
-updated: 2024-09-06T10:46:47.269Z
+date: 2024-09-26T18:42:34.437Z
+updated: 2024-09-30T18:37:17.203Z
 tags:
   - product-reviews
 categories:
@@ -11,12 +11,6 @@ thumbnail: https://thmb.techidaily.com/a876d99fc810824e790e14200a363bc8a24888dbe
 
 ## Review of the Freewrite Alpha Device: No Gimmicks, Just Straightforward Focus on Your Writing
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123508/26400" target="_top" id="2123508">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123508" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123508/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Key Takeaways
 
 * The Freewrite Alpha is a large, distraction-free writing device with a full-sized keyboard.
@@ -65,21 +59,23 @@ Alpha is a dedicated drafting device for anyone who wants to write without the d
 [$349 at Freewrite](https://getfreewrite.com/products/alpha) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115946/19272" target="_top" id="2115946">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115946" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://bluettiit.sjv.io/c/5597632/2148129/17093" target="_top" id="2148129">
+  <img src="//a.impactradius-go.com/display-ad/17093-2148129" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115946/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2148129/17093" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ##  The Alpha Hardware Is Big and Hollow
 
 ![Freewrite Alpha from the side with the kickstand engaged](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2023/12/freewrite-alpha-from-the-side-with-the-kickstand-engaged.JPG) 
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2120866/26400?prodsku=mars" target="_top" id="2120866">
-  <img src="//a.impactradius-go.com/display-ad/26400-2120866" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144289/7443" target="_top" id="2144289">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144289" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120866/26400?prodsku=mars" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144289/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 Tyler Hayes / How-To Geek
 
  The Freewrite Alpha might be the epitome of distraction-free writing. It’s just a large hunk of plastic with a full-sized keyboard. There is nothing to do with it except write words and watch them appear on its tiny screen.
@@ -110,12 +106,6 @@ The Alpha (left) next to the newest iPad Air
 
 ![Person holding the Freewrite Alpha](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2023/12/person-holding-the-freewrite-alpha.JPG) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115925/19272" target="_top" id="2115925">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115925" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115925/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Tyler Hayes / How-To Geek
 
  If you’re seeking a simple device, the equivalent of a digital typewriter, then you’re in luck. There's not a hint of anything to do here other than type. Even the sparse settings section prevented me from noodling around there for more than a few seconds.
@@ -136,16 +126,24 @@ Tyler Hayes / How-To Geek
 
  Beyond saving your documents to Postbox over its Wi-Fi connection, the Alpha can sync documents to Google Drive, OneDrive, Dropbox, or Evernote. I connected my Google Drive account and verified that it worked. My work was saved as a .docx in Drive, so it wasn't a native Google Doc file, but it still showed up. You can't sync via Bluetooth to a phone or anything, but the included USB-C cable can be used to sync your work to a computer if you're in the woods, completely offline.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151858/7443" target="_top" id="2151858">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151858" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151858/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Should You Buy the Freewrite Alpha?
 
 ![Freewrite Alpha on a table](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2023/12/freewrite-alpha-on-a-table.JPG) 
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123466/16836" target="_top" id="2123466">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123466" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082530/7443" target="_top" id="2082530">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082530" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123466/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082530/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 Tyler Hayes / How-To Geek
 
  Much like the biblical suggestion to cut out your eye if it causes you to sin, the [Freewrite Alpha](http://getfreewrite.com/products/alpha) feels like a self-inflicted punishment for people who have no self-control over digital distractions. By choosing to use it, you’ll either come up with something to say or you will be forced to stare at a monochrome screen and keyboard until you admit defeat and give up.
@@ -162,12 +160,6 @@ Tyler Hayes / How-To Geek
 
 ![Alpha Raven Black](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/alpha-raven-black.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139119/17108" target="_top" id="2139119">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139119" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139119/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 #####  Freewrite Alpha
 
 6/ 10 
@@ -182,8 +174,6 @@ Alpha is a dedicated drafting device for anyone who wants to write without the d
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -191,4 +181,23 @@ Alpha is a dedicated drafting device for anyone who wants to write without the d
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-cloud.techidaily.com/new-2024-approved-educational-videography-mastery-in-cutting-and-pacing/"><u>[New] 2024 Approved Educational Videography Mastery in Cutting & Pacing</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-cutting-edge-tools-for-igtv-content-creation-and-editing-for-2024/"><u>[New] Cutting-Edge Tools for IGTV Content Creation and Editing for 2024</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-in-2024-the-best-apps-for-keeping-your-linkedin-vids-safe-and-sound/"><u>[Updated] In 2024, The Best Apps for Keeping Your LinkedIn Vids Safe & Sound</u></a></li>
+<li><a href="https://discover-dash.techidaily.com/1-ultimate-guide-resolving-netflix-issues-and-overcoming-streaming-obstacles/"><u>1. Ultimate Guide: Resolving Netflix Issues and Overcoming Streaming Obstacles</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-mastering-fb-sharing-youtube-videos-directly/"><u>2024 Approved Mastering FB Sharing YouTube Videos Directly</u></a></li>
+<li><a href="https://discover-dash.techidaily.com/dvd-202/"><u>最新DVDコピー防止技術を破る方法 202지の抜け道とヒント集</u></a></li>
+<li><a href="https://discover-dash.techidaily.com/best-winx-dvd-ripper-and-audio-video-converter-toolkit-for-easy-media-handling/"><u>Best WinX DVD Ripper and Audio-Video Converter Toolkit for Easy Media Handling</u></a></li>
+<li><a href="https://discover-dash.techidaily.com/descubre-las-mejores-herramientas-de-conversion-gratuitas-para-videos-en-windows-n-11-y-por-que-son-optimas/"><u>Descubre Las Mejores Herramientas De Conversión Gratuitas Para Vídeos en Windows N 11 Y Por Qué Son Óptimas</u></a></li>
+<li><a href="https://discover-dash.techidaily.com/easy-guide-adjusting-video-dimensions-on-your-iphone/"><u>Easy Guide: Adjusting Video Dimensions on Your iPhone</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/effortlessly-flip-your-videos-three-simple-techniques-for-rotating-footage-on-windows-10/"><u>Effortlessly Flip Your Videos: Three Simple Techniques for Rotating Footage on Windows 10</u></a></li>
+<li><a href="https://discover-dash.techidaily.com/guide-simple-et-rapide-comment-proteger-un-vieil-ou-nouveau-dvd-en-quatre-vingt-secondes-sans-perdre-en-qualite/"><u>Guide Simple Et Rapide: Comment Protéger Un Vieil Ou Nouveau DVD En Quatre-Vingt Secondes Sans Perdre en Qualité</u></a></li>
+<li><a href="https://win-blog.techidaily.com/navigating-the-enigma-comprehensive-analysis-of-beyond-the-wire-incidents/"><u>Navigating the Enigma: Comprehensive Analysis of 'Beyond The Wire' Incidents</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-2024-approved-the-best-free-video-hosting-platforms-for-monetizing-your-content/"><u>New 2024 Approved The Best Free Video Hosting Platforms for Monetizing Your Content</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/produce-playful-photoshopped-gifs-via-giphy/"><u>Produce Playful Photoshopped Gifs via Giphy</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/solved-warning-camera-failed-on-itel-a05s-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Solved Warning Camera Failed on Itel A05s | Dr.fone</u></a></li>
+<li><a href="https://discover-dash.techidaily.com/transforming-video-output-from-dvd-a-step-by-step-guide-to-ripping-vob-files-as-mkv-on-windows-1011-and-macos/"><u>Transforming Video Output From DVD: A Step-by-Step Guide to Ripping VOB Files as MKV on Windows 10/11 and macOS</u></a></li>
+</ul></div>
 

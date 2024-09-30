@@ -1,7 +1,7 @@
 ---
 title: "Lenovo IdeaPad Slim 3I-15 Assessment: An Outstanding Budget-Friendly Laptop"
-date: 2024-09-05T10:46:47.204Z
-updated: 2024-09-06T10:46:47.204Z
+date: 2024-09-24T18:55:05.989Z
+updated: 2024-09-30T16:05:42.175Z
 tags:
   - product-reviews
 categories:
@@ -9,12 +9,6 @@ categories:
 thumbnail: https://thmb.techidaily.com/d156dc661c6f6baa9eb3b5c3ab4152f8f8f4fcdc0dbe084557e36eab0ab2db64.jpeg
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2120865/26400?prodsku=mercury" target="_top" id="2120865">
-  <img src="//a.impactradius-go.com/display-ad/26400-2120865" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120865/26400?prodsku=mercury" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Lenovo IdeaPad Slim 3I-15 Assessment: An Outstanding Budget-Friendly Laptop
 
 ### Key Takeaways
@@ -129,6 +123,13 @@ Expand
 
 [See at Lenovo](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fwww.lenovo.com%2Fus%2Fen%2Fp%2Flaptops%2Fideapad%2Fideapad-300%2Fideapad-slim-3i-gen-8-%2815-inch-intel%29%2Flen101i0069) [See at Staples](https://www.staples.com/lenovo-ideapad-slim-3-15iru8-15-6-laptop-intel-core-i3-1315u-8gb-memory-256gb-ssd-windows-11-82x7001vus/product%5F24559657) [See at Newegg](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fclick.linksynergy.com%2Fdeeplink%3Fid%3D2QzUaswX1as%26mid%3D44583%26u1%3DUUhtgUeUpU2001005%26murl%3Dhttps%253A%252F%252Fwww.newegg.com%252Fareyouahuman%253Freferer%253Dhttps%25253A%25252F%25252Fwww.newegg.com%25252Flenovo-82x7000cus-mainstream%25252Fp%25252F1TS-000E-16BB6%26ourl%3Dhttps%253A%252F%252Fwww.newegg.com%252Flenovo-82x7000cus-mainstream%252Fp%252F1TS-000E-16BB6) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118312/7443" target="_top" id="2118312">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118312" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118312/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Price and Availability
 
  At the time of writing, the best place to buy the IdeaPad Slim 3i 15 is [Newegg](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fclick.linksynergy.com%2Fdeeplink%3Fid%3D2QzUaswX1as%26mid%3D44583%26u1%3DUUhtgUeUpU2001005%26murl%3Dhttps%253A%252F%252Fwww.newegg.com%252Fareyouahuman%253Freferer%253Dhttps%25253A%25252F%25252Fwww.newegg.com%25252Flenovo-82x7000cus-mainstream%25252Fp%25252F1TS-000E-16BB6%26ourl%3Dhttps%253A%252F%252Fwww.newegg.com%252Flenovo-82x7000cus-mainstream%252Fp%252F1TS-000E-16BB6), where you'll find it for $474.99\. Alternatively, you can buy the laptop from [Staples](http://www.staples.com/lenovo-ideapad-slim-3-15iru8-15-6-laptop-intel-core-i3-1315u-8gb-memory-256gb-ssd-windows-11-82x7001vus/product%5F24559657) for $529.99 or [Lenovo](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=http%3A%2F%2Fwww.lenovo.com%2Fus%2Fen%2Fp%2Flaptops%2Fideapad%2Fideapad-300%2Fideapad-slim-3i-gen-8-%2815-inch-intel%29%2Flen101i0069) for $659.99, though it frequently goes on sale on Lenovo's website.
@@ -138,11 +139,12 @@ Expand
 ![The Lenovo IdeaPad Slim 3i 15 closed](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2023/11/the-lenovo-ideapad-slim-3i-15-closed.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136618/26400" target="_top" id="2136618">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136618" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135373/19272" target="_top" id="2135373">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135373" border="0" alt="https://techidaily.com" width="392" height="72"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136618/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135373/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 Sergio Rodriguez / How-To Geek
 
  For a budget-friendly laptop, Lenovo’s IdeaPad Slim 3i sure looks premium. It sports this beautiful Abyss Blue color, has a slim form factor, and feels smooth and slightly cool to the touch. It weighs 3.52 pounds and measures 14.1 x 9.3 x 0.7 inches, making it the perfect travel companion for any student or worker in need of a mobile workstation.
@@ -152,51 +154,35 @@ Sergio Rodriguez / How-To Geek
 ![Left ports on the Lenovo IdeaPad Slim 3i 15](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2023/11/left-ports-on-the-lenovo-ideapad-slim-3i-15.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115946/19272" target="_top" id="2115946">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115946" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2080312/19272" target="_top" id="2080312">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080312" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115946/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080312/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 Sergio Rodriguez / How-To Geek
 
  This laptop features quite a few available ports, an impressive feat for this price. On the left side, you’ll find the power-in port, which unfortunately isn’t a USB-C charging port, but the laptop is still capable of rapid charging through this power port. Then, there’s also one USB-A 3.2 Gen 1 port, one HDMI 1.4 port, one full-function USB-C 3.2 Gen 1 port, and a headphone/microphone combo jack.
 
 ![Side of the Lenovo IdeaPad Slim 3i 15](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2023/11/side-of-the-lenovo-ideapad-slim-3i-15.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130890/7443" target="_top" id="2130890">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130890" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130890/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Sergio Rodriguez / How-To Geek
 
  On the right side, there’s an SD card reader, which is becoming an increasingly rare find on modern laptops. Then, you’ll find an additional USB-A 3.2 Gen 1 port.
 
 ![Power button and fingerprint sensor on the Lenovo IdeaPad Slim 3i 15](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2023/11/power-button-and-fingerprint-sensor-on-the-lenovo-ideapad-slim-3i-15-1.jpg) 
 
-<!-- affiliate ads begin -->
-<span id="1982459">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982459.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982459">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982459.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982459%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982459/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Sergio Rodriguez / How-To Geek
 
  Opening the laptop up, you’ll see a full-size keyboard equipped with a 10-key number pad. In the top right corner, the power button doubles as a fingerprint reader that lets you unlock the laptop quickly.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135395/19272" target="_top" id="2135395">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135395" border="0" alt="https://techidaily.com" width="125" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2068439/7443" target="_top" id="2068439">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068439" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135395/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068439/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ##  Display: Fairly Crisp, But Not Very Vibrant
 
  This laptop is equipped with a 15.6-inch FHD (1920 x 1080) IPS display with an LED backlight, narrow bezels, anti-glare, and TÜV Certified Low Blue Light. Using this laptop for daily work was a breeze, with a large enough display to split two windows comfortably and touchscreen capability to quickly select photos.
@@ -213,12 +199,6 @@ Sergio Rodriguez / How-To Geek
 
 ![Lenovo IdeaPad Slim 3i open](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2023/11/lenovo-ideapad-slim-3i-open-1.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123512/26400" target="_top" id="2123512">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123512" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123512/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Sergio Rodriguez / How-To Geek
 
  Plus, after performing three 60-second typing tests via [monkeytype.com](https://monkeytype.com/) on both my daily driver laptop and Lenovo’s IdeaPad Slim 3i, the latter came out on top. My average typing speed on my Lenovo Yoga 9i was 97.3 words per minute (wpm), with 96% accuracy. On the IdeaPad Slim 3i, my average typing speed was 102.3 wpm, with 96.7% accuracy.
@@ -245,6 +225,13 @@ Sergio Rodriguez / How-To Geek
 
  Plus, with 512GB storage and Integrated Intel UHD Graphics, you can even play a few simple games on the IdeaPad Slim 3i, like “Stardew Valley” or “Terraria.” Playing more graphics- or performance-intensive games natively won’t be an enjoyable experience, but if you want to play more games on a budget-friendly laptop, you can always experiment with cloud gaming.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037359/7443" target="_top" id="2037359">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037359" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037359/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Webcam, Mic, and Speakers: Expect budget quality
 
  This laptop is equipped with a 1MP 720p HD webcam with a privacy shutter, and it’ll get the job done if you need a webcam for work or school, but it doesn’t look the best. Comparing this to my laptop’s 1080p IR & RGB hybrid webcam, the IdeaPad Slim 3i’s webcam doesn’t pick up color as well, so my red cheeks appear washed out and pale, and small facial details don’t show as easily.
@@ -255,18 +242,6 @@ Sergio Rodriguez / How-To Geek
 
 ![Angled view of the Lenovo IdeaPad Slim 3i 15](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2023/11/angled-view-of-the-lenovo-ideapad-slim-3i-15.jpg) 
 
-<!-- affiliate ads begin -->
-<span id="1983545">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983545.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983545">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983545.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983545%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983545/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Sergio Rodriguez / How-To Geek
 
  I listened to ["Real" by Unprocessed](https://www.youtube.com/watch?v=WVua9g7WPtg) on YouTube across the IdeaPad Slim 3i, my Yoga 9i, my Galaxy S21 Ultra, and my OneOdio A10 headphones. As expected, the headphones provided the best listening experience, picking up the wavy synth sounds in the song’s beginning, crystal-clear singing and high guitar notes, and nuanced bass notes to fill out the sound.
@@ -276,6 +251,13 @@ Sergio Rodriguez / How-To Geek
  The song didn’t sound great on my smartphone, but it sounded better than on the IdeaPad Slim 3i. When I started playing the song on the Slim 3i, it instantly sounded distorted, making even the high notes and singing sound muddied and static. The laptop struggled to balance the levels correctly, putting the crackly singing front and center and sending instruments to the back. All the atmospheric synth sounds and the bass notes were lost.
 
  Dialogue in movies and TV shows also sounded distorted but didn't make things unwatchable. The IdeaPad Slim 3i may be a fantastic value overall, but the less-than-okay speakers aren’t fit for listening to music.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136619/26400" target="_top" id="2136619">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136619" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136619/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Not an All-Day Battery Life
 
@@ -288,11 +270,12 @@ Sergio Rodriguez / How-To Geek
 ![Logo on the Lenovo IdeaPad Slim 3i 15](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2023/11/logo-on-the-lenovo-ideapad-slim-3i-15.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135416/19272" target="_top" id="2135416">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135416" border="0" alt="https://techidaily.com" width="336" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135414/19272" target="_top" id="2135414">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135414" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135416/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135414/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 Sergio Rodriguez / How-To Geek
 
  If you don’t listen to music or stream a video while you’re working, the battery will definitely last longer, but you’d have to really lower the brightness or dampen performance to reach the estimate of “up to 12 hours.” Plus, unless you’re working in a dimly lit room or trying to extend your battery life, 50% brightness may not be enough. Bumping brightness up to 70% would result in an even lower battery life than roughly 6 hours.
@@ -307,20 +290,8 @@ Sergio Rodriguez / How-To Geek
 
 ![Lenovo IdeaPad Slim 3i 15 2023](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/lenovo-ideapad-slim-3i-15-2023.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135407/19272" target="_top" id="2135407">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135407" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135407/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://static1.howtogeekimages.com/wordpresshttps://static0.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/htg-rec-3x.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115930/19272" target="_top" id="2115930">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115930" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115930/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 #####  Lenovo IdeaPad Slim 3i (2023)
 
 8/ 10 
@@ -335,8 +306,6 @@ The Lenovo IdeaPad Slim 3i 15 is a budget-friendly laptop with a striking design
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -344,4 +313,22 @@ The Lenovo IdeaPad Slim 3i 15 is a budget-friendly laptop with a striking design
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vimeo-videos.techidaily.com/new-in-2024-enhancing-accessibility-with-vimeo-subtitles/"><u>[New] In 2024, Enhancing Accessibility with Vimeo Subtitles</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/auto-gpt-vs-gpt-4-does-it-still-shine-on-its-own/"><u>Auto-GPT Vs. GPT-4: Does It Still Shine on Its Own?</u></a></li>
+<li><a href="https://win-unique.techidaily.com/direct-run-exe-conversion-for-personalized-flipbooks-with-flipbuilder-tools/"><u>Direct Run EXE Conversion for Personalized Flipbooks with FlipBuilder Tools</u></a></li>
+<li><a href="https://discover-dash.techidaily.com/discover-the-best-10-free-ai-powered-video-upgrade-applications-compatible-with-pc-and-macos/"><u>Discover the Best 10 Free AI-Powered Video Upgrade Applications Compatible with PC and MacOS</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/effective-utilization-of-whiteboards-on-mobile-and-desktop-for-online-learning/"><u>Effective Utilization of Whiteboards on Mobile and Desktop for Online Learning</u></a></li>
+<li><a href="https://discover-dash.techidaily.com/guida-rapida-alla-riduzione-delle-dimensioni-dei-file-video-per-facebook-senza-perdere-qualita/"><u>Guida Rapida Alla Riduzione Delle Dimensioni Dei File Video per Facebook Senza Perdere Qualità</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-5-best-photo-editing-app-for-android-phone/"><u>In 2024, 5 Best Photo Editing App for Android Phone</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-full-guide-to-iphone-15-pro-max-icloud-bypass-by-drfone-ios/"><u>In 2024, Full guide to iPhone 15 Pro Max iCloud Bypass</u></a></li>
+<li><a href="https://discover-dash.techidaily.com/leading-dvd-editors-for-pc-and-mac-users-streamline-video-editing-workflows-on-windows-10macos/"><u>Leading DVD Editors for PC & Mac Users: Streamline Video Editing Workflows on Windows 10/MacOS</u></a></li>
+<li><a href="https://discover-dash.techidaily.com/lossless-conversion-transforming-hevc-files-into-mp4-without-compromising-quality/"><u>Lossless Conversion: Transforming HEVC Files Into MP4 Without Compromising Quality</u></a></li>
+<li><a href="https://discover-dash.techidaily.com/persistent-handbrake-scanning-issue-heres-why-and-how-to-resolve-it/"><u>Persistent HandBrake Scanning Issue? Here's Why & How to Resolve It</u></a></li>
+<li><a href="https://fox-that.techidaily.com/revive-your-iphone-essential-dfu-troubleshooting-for-common-problems-5/"><u>Revive Your iPhone: Essential DFU Troubleshooting for Common Problems (#5)</u></a></li>
+<li><a href="https://discover-dash.techidaily.com/top-10-strategie-magiche-per-aumentare-i-tuoi-video-senza-compromettere-la-qualita-guida-al-ridimensionamento-ottimale/"><u>Top 10 Strategie Magiche per Aumentare I Tuoi Video Senza Compromettere La Qualità: Guida Al Ridimensionamento Ottimale</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/unlocking-blu-ray-drm-for-personal-use-without-violating-copyright-laws/"><u>Unlocking Blu-Ray DRM for Personal Use Without Violating Copyright Laws</u></a></li>
+<li><a href="https://discover-dash.techidaily.com/video-frame-rate-explained-a-comparison-of-framing-techniques-including-vfr-and-cfr/"><u>Video Frame Rate Explained - A Comparison of Framing Techniques Including VFR & CFR</u></a></li>
+</ul></div>
 
