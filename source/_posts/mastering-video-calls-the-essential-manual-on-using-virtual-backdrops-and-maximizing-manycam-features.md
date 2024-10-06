@@ -1,7 +1,7 @@
 ---
 title: "Mastering Video Calls: The Essential Manual on Using Virtual Backdrops & Maximizing ManyCam Features"
-date: 2024-09-26T17:55:50.518Z
-updated: 2024-09-30T17:02:06.068Z
+date: 2024-09-30T03:01:07.475Z
+updated: 2024-10-05T20:57:43.071Z
 tags:
   - product
   - solution
@@ -611,28 +611,15 @@ First, click the Virtual Backgrounds icon as shown below.
 ![](https://help.manycam.com/wp-content/uploads/2022/10/image-3.png)
 
 <!-- affiliate ads begin -->
-<span id="1982461">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982461.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982461">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982461.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982461%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982461/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://25home.pxf.io/c/5597632/2148648/16836" target="_top" id="2148648">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148648" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148648/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Then click on the Background blur tab to open the settings:
 
 ![](https://help.manycam.com/wp-content/uploads/2022/10/image-4.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068412/7443" target="_top" id="2068412">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068412" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068412/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Here you can select Transparent background, Blur, an image or a video file from the ManyCam collection, or any custom image or video of your choice.
 
@@ -675,13 +662,6 @@ To enable Background replacement, click on the Virtual Backgrounds icon**,** the
 
 ![This image has an empty alt attribute; its file name is image-6.png](https://help.manycam.com/wp-content/uploads/2022/10/image-6.png)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettifr.pxf.io/c/5597632/2145082/17095" target="_top" id="2145082">
-  <img src="//a.impactradius-go.com/display-ad/17095-2145082" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettifr.pxf.io/i/5597632/2145082/17095" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Then select an image for your background from the ManyCam collection, or pick a custom image from your computer:  
 
 ![](https://help.manycam.com/wp-content/uploads/2022/10/image-7.png)
@@ -703,13 +683,6 @@ IMPORTANT
 Click on the Virtual Backgrounds icon**,** and enable the ‘**I have a green screen’** setting as shown below. 
 
 ![](https://help.manycam.com/wp-content/uploads/2022/10/image-8.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075462/7443" target="_top" id="2075462">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075462" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075462/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 You can choose between two modes: **Color Picker** and **Auto**, either of which may produce different outcomes depending on your environment, webcam parameters and settings, ManyCam video settings, and Advanced Chroma key settings selected.
 
@@ -749,6 +722,26 @@ You can choose one of the predefined images or videos as your background, upload
 
 ![](https://help.manycam.com/wp-content/uploads/2022/10/image-12.png)
 
+<!-- affiliate ads begin -->
+<span id="1770526">
+					<video width="240" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1770526.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20702-1770526">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770526.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770526%2F20702'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770526/20702" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144271/7443" target="_top" id="2144271">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144271" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144271/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### About the Chroma key algorithms
 
 #### HSL 
@@ -771,13 +764,6 @@ Note
 
  To enable more precise Spill suppression, use the YUV algorithm. 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027162/19272" target="_top" id="2027162">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027162" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027162/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fine-tuning the result
 
 Use the settings listed below in order to eliminate color removal errors.
@@ -787,6 +773,13 @@ Use the settings listed below in order to eliminate color removal errors.
 The Foreground area setting allows feathering the bodyline edges to eliminate any artifacts, pixelation or ruggedness.
 
 ![](https://help.manycam.com/wp-content/uploads/2022/10/image-14.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2112008/7443" target="_top" id="2112008">
+  <img src="//a.impactradius-go.com/display-ad/7443-2112008" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2112008/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **Shrink contour**
 
@@ -810,6 +803,13 @@ The **Spill suppression** setting removes any color spill from the backdrop and 
 
 ![](https://help.manycam.com/wp-content/uploads/2022/10/image-16.png)
 
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014859/22899" target="_top" id="2014859">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014859" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014859/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **Smoothness**
 
 Note 
@@ -823,10 +823,10 @@ To access this setting, enable Advanced settings, and select YUV.
 ![](https://help.manycam.com/wp-content/uploads/2022/10/image-17.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087262/19272" target="_top" id="2087262">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087262" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://dhgate.sjv.io/c/5597632/1186864/12108" target="_top" id="1186864">
+  <img src="//a.impactradius-go.com/display-ad/12108-1186864" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087262/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1186864/12108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Troubleshooting
@@ -835,18 +835,18 @@ Please refer to [this guide](https://tools.techidaily.com/manycam/products/) if 
 
  Updated on October 14, 2022 
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137218/26400" target="_top" id="2137218">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137218" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137218/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 
 
  Was this article helpful? 
 
 [Yes](https://tools.techidaily.com/manycam/products/) [No](https://tools.techidaily.com/manycam/products/) 
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139123/17108" target="_top" id="2139123">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139123" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139123/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Related Articles
 
@@ -854,10 +854,10 @@ Please refer to [this guide](https://tools.techidaily.com/manycam/products/) if 
 * [ManyCam 7: How to switch back to old Chroma key?](https://tools.techidaily.com/manycam/products/)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105873/7443" target="_top" id="2105873">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105873" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2016170/19272" target="_top" id="2016170">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016170" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105873/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016170/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Contents
@@ -892,16 +892,18 @@ Please refer to [this guide](https://tools.techidaily.com/manycam/products/) if 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-guidance.techidaily.com/updated-personalized-ringtone-crafting-from-tiktok-beats-to-cellphone-alerts/"><u>[Updated] Personalized Ringtone Crafting From TikTok Beats to Cellphone Alerts</u></a></li>
-<li><a href="https://howto.techidaily.com/best-methods-for-samsung-galaxy-a15-5g-wont-turn-on-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Best Methods for Samsung Galaxy A15 5G Wont Turn On | Dr.fone</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/exploring-codegpt-unveiling-its-ability-to-craft-software/"><u>Exploring CodeGPT: Unveiling Its Ability to Craft Software</u></a></li>
-<li><a href="https://discover-dash.techidaily.com/free-online-wmv-to-mpeg-converter-easy-and-fast-by-movavi/"><u>Free Online WMV to MPEG Converter - Easy and Fast by Movavi</u></a></li>
-<li><a href="https://techidaily.com/how-to-downgrade-apple-iphone-6-plus-to-an-older-version-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade Apple iPhone 6 Plus to an Older Version? | Dr.fone</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-prevent-cross-site-tracking-on-oneplus-ace-2v-and-browser-drfone-by-drfone-virtual-android/"><u>In 2024, Prevent Cross-Site Tracking on OnePlus Ace 2V and Browser | Dr.fone</u></a></li>
-<li><a href="https://discover-dash.techidaily.com/nouveaux-formats-et-volumes-facilement-convertibles-avec-movavi-service-gratuit-en-ligne/"><u>Nouveaux Formats Et Volumes Facilement Convertibles Avec Movavi - Service Gratuit en Ligne</u></a></li>
-<li><a href="https://discover-dash.techidaily.com/quick-tutorial-crafting-an-iphone-presentation-using-movavis-tools/"><u>Quick Tutorial: Crafting an iPhone Presentation Using Movavi's Tools</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/the-ultimate-solution-for-realtek-universal-driver-complications-unveiled/"><u>The Ultimate Solution for Realtek Universal Driver Complications Unveiled</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/top-video-editors-aiding-in-app-dev-creation/"><u>Top Video Editors Aiding in App Dev Creation</u></a></li>
-<li><a href="https://discover-dash.techidaily.com/transformar-mov-en-mp3-directamente-online-e-indemnizado-por-usuarios-mov-mp3convertidor/"><u>Transformar MOV en MP3 Directamente Online E Indemnizado Por Usuarios - MOV-MP3Convertidor</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/new-craft-cinematic-magic-learn-green-screen-wonders-with-youtube/"><u>[New] Craft Cinematic Magic Learn Green Screen Wonders with YouTube</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/updated-2024-approved-convert-tiktok-to-mp4-no-watermark-top-tiktok-downloaders/"><u>[Updated] 2024 Approved Convert TikTok to MP4 [No Watermark] Top TikTok Downloaders</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/2024-approved-exploring-the-unspoken-rules-of-instagram-mastery/"><u>2024 Approved Exploring the Unspoken Rules of Instagram Mastery</u></a></li>
+<li><a href="https://discover-dash.techidaily.com/dvd-202/"><u>最新DVDコピー防止技術を破る方法 202지の抜け道とヒント集</u></a></li>
+<li><a href="https://discover-dash.techidaily.com/descubre-las-mejores-herramientas-de-conversion-gratuitas-para-videos-en-windows-n-11-y-por-que-son-optimas/"><u>Descubre Las Mejores Herramientas De Conversión Gratuitas Para Vídeos en Windows N 11 Y Por Qué Son Óptimas</u></a></li>
+<li><a href="https://techidaily.com/different-methods-for-resetting-itel-s23-phones-with-screen-locked-and-not-drfone-by-drfone-reset-android-reset-android/"><u>Different Methods for Resetting Itel S23 Phones with Screen Locked and Not | Dr.fone</u></a></li>
+<li><a href="https://discover-dash.techidaily.com/easy-guide-adjusting-video-dimensions-on-your-iphone/"><u>Easy Guide: Adjusting Video Dimensions on Your iPhone</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/enhance-ppts-appeal-through-soundtracks/"><u>Enhance PPT's Appeal Through Soundtracks</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-xiaomi-redmi-k70-to-any-ios-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Xiaomi Redmi K70 to Any iOS Devices | Dr.fone</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/in-2024-bridging-the-gap-connecting-instagram-to-your-facebook-account/"><u>In 2024, Bridging the Gap Connecting Instagram to Your Facebook Account</u></a></li>
+<li><a href="https://techidaily.com/solutions-to-open-excel-2003-read-only-documents-stellar-by-stellar-guide/"><u>Solutions to open Excel 2003 Read Only Documents | Stellar</u></a></li>
+<li><a href="https://discover-dash.techidaily.com/the-ultimate-guide-to-seamless-instagram-mp4-conversion-top-techniques-for-optimal-savings-and-quality/"><u>The Ultimate Guide to Seamless Instagram MP4 Conversion – Top Techniques for Optimal Savings and Quality</u></a></li>
+<li><a href="https://discover-dash.techidaily.com/update-your-location-a-step-by-step-guide-to-switching-regions-on-netflix/"><u>Update Your Location: A Step-by-Step Guide to Switching Regions on Netflix</u></a></li>
 </ul></div>
 
