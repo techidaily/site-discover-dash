@@ -1,7 +1,7 @@
 ---
 title: 1. XRECORDER Para Windows - Herramienta De Grabación Gratuita Y Fácil De Usar
-date: 2024-10-08T16:06:56.383Z
-updated: 2024-10-11T22:20:41.887Z
+date: 2024-10-16T16:21:25.931Z
+updated: 2024-10-17T16:46:39.746Z
 categories:
   - movavi
 thumbnail: https://thmb.techidaily.com/4708f3ad86d66e7ad10dd3b75bdecccf20aa6cf32be5cc5adbe8d57734cb7714.jpg
@@ -158,10 +158,10 @@ Movavi 的首要目標是就是為您提供經過驗證的資訊。為了確保�
 ![](https://cdn.staticont.net/default/0023/55/0a43aca722d72a76f5dadbc9d81350a623b7681e.webp)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972693/19272" target="_top" id="1972693">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972693" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2027195/19272" target="_top" id="2027195">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027195" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972693/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027195/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Windows Photo Viewer 圖片瀏覽器的最佳替代方案
@@ -219,10 +219,10 @@ Apowersoft Photo Viewer 也是十大照片管理工具的首選之一。要完�
 ![](https://cdn.staticont.net/page_type/0013/45/c659fda2308b16d082fd5654e28d9733cac48c1a.webp)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115921/19272" target="_top" id="2115921">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115921" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139119/17108" target="_top" id="2139119">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139119" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115921/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139119/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 FastStone 可能是最牢靠的看圖軟體了。該軟體在瀏覽、簡單的圖像編輯，以及快速檢視/比較圖片等方面，擁有卓越的成績。在處理大型圖像檔時，速度有時可能會減慢，但在一般的解析度下，該軟體能夠瞬間載入任何相片。左上角也有目錄式瀏覽，讓您不用匯入照片，就能輕鬆瀏覽電腦和硬碟內容。縮圖十分清晰，而且在捲動所述縮圖時，還會擴展為特寫視圖。值得注意的是，儘管 FastStone Image Viewer 對於個人和教育用途是免費的，但若要用於商業用途，則需要購買授權。授權需花費 34.95 美元，不過對多數人來說，這都不是問題。
@@ -235,18 +235,18 @@ FastStone 可能是最牢靠的看圖軟體了。該軟體在瀏覽、簡單的�
 
 * 對普通使用者而言工具太多了
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151855/7443" target="_top" id="2151855">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151855" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151855/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 
 
 [**IrfanView**](https://www.irfanview.com/)
 
 ![](https://cdn.staticont.net/page_type/0013/40/dcdf45d4b6ceea077e36e869c5e7f60097f8c957.webp)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100542/7443" target="_top" id="2100542">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100542" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100542/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 十幾年來，IrfanView 都是許多 Windows 10 和 Windows 7 電腦中的必備產品。原因不難理解，這款軟體包含了一大堆的圖像編輯功能，包括批次轉換，並允許為更多特殊需求新增外掛程式。IrfanView 同時也是掃描機和電腦之間的介面，因此無需再打開通用的掃描視窗，也無需在設定上做手腳，因為 IrfanView 全會為您搞定，更能組織圖片。雖然這款軟體看起來有點舊了，但說到務實的圖片瀏覽，這個就能搞定一切了。
 
@@ -258,18 +258,18 @@ FastStone 可能是最牢靠的看圖軟體了。該軟體在瀏覽、簡單的�
 
 * 使用者介面過時且不符合大眾口味
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118323/7443" target="_top" id="2118323">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118323" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118323/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 
 
 [**XnView**](https://www.xnview.com/en/)
 
 ![](https://cdn.staticont.net/page_type/0013/40/9462b44dd7787a9d521c67727a9d947cbc74b9ef.webp)
+
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2135315/14409" target="_top" id="2135315">
+  <img src="//a.impactradius-go.com/display-ad/14409-2135315" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135315/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 與 FastStone 的圖片檢視器類似，XnView 的介面易於瀏覽，可以清晰顯示所有圖像，並為使用者提供所選照片的大型視圖。該軟體支援所有標準的圖像檔案類型，如 JPEG、PNG 和 TIFF，甚至還支援其他一些編解碼器，如相機的 RAW 檔等等。甚至還能當作多媒體瀏覽平台來使用，讓您開啟並檢查影音檔。雖然在新增動畫和轉換檔案方面沒有 Windows Photo Viewer 那麼全面，但仍不失為 XnView Classic 的推薦替代品，或者只需支付少量費用就能獲得強化的 MP 版本。
 
@@ -281,6 +281,19 @@ FastStone 可能是最牢靠的看圖軟體了。該軟體在瀏覽、簡單的�
 
 * 圖片只能在單一頁籤中開啟且無法捲動
 
+<!-- affiliate ads begin -->
+<span id="1983473">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983473.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983473">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983473.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983473%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983473/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 
 
 [**Nomacs**](https://github.com/nomacs/nomacs)
@@ -288,10 +301,10 @@ FastStone 可能是最牢靠的看圖軟體了。該軟體在瀏覽、簡單的�
 ![](https://cdn.staticont.net/page_type/0013/45/3c872b24e843d2a8619d1d110f90c6a4aef905b7.webp)
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148641/16836" target="_top" id="2148641">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148641" border="0" alt="https://techidaily.com" width="254" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2043661/7443" target="_top" id="2043661">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043661" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148641/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043661/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 除了 Windows 10 相片檢視器的標準檢視選項外，Nomacs 還多了一個整潔的備註方塊。該放塊可供您放入評論，以供日後使用。無論您是需要匯出圖像以便日後在更複雜的軟體中進行編輯，還是僅僅是為了提醒自己相片中的人事物，這項功能都十分有用。在「調整」索引標籤中，也有些既實用又有趣的工具。其中一個叫做「Tiny Planet」，可以將您的圖像轉換為酷似地球儀的正方形裁剪照片，非常適合將風景照製作成 360 度的全景。更棒的是，無論您是要私下使用，還是有商業用途，Nomacs 都可以免費下載。
@@ -309,19 +322,6 @@ FastStone 可能是最牢靠的看圖軟體了。該軟體在瀏覽、簡單的�
 [**Google Photos**](https://www.google.com/intl/zh-TW/photos/about/)
 
 ![](https://cdn.staticont.net/page_type/0013/45/d64fdda203dbd8ccf5369a8901c4a494f69794ae.webp)
-
-<!-- affiliate ads begin -->
-<span id="1982596">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982596.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982596">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982596.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982596%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982596/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Google Photos 與其套件中的其他 Google 應用程式一起運作。這些應用程式都是在線上提供，而不會儲存在本機裝置上。這使得本工具非常適合那些隨時保持網路連線、並用多種裝置 (筆記型電腦、智慧型手機、平板電腦等等)，而且需要同步編輯的數位游牧民。然而，您仍可從五種不同的儲存模式中進行選擇，其中一種便是離線模式。離線儲存使您無論身在何方，都能存取檔案，而不需要網際網路連線。正如您所期望的那樣，Google 的介面流暢而現代，視窗中的工具都很直觀，但確實缺乏像 Windows Photo Viewer 那樣建立電影或新增動畫的能力。
 
@@ -348,20 +348,13 @@ Movavi Photo Editor
 ![Movavi Photo Editor](https://cdn.staticont.net/products/0023/55/9a17d17e3b725cbe831e0805991a555d41a72bca.webp)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2126492/26400" target="_top" id="2126492">
-  <img src="//a.impactradius-go.com/display-ad/26400-2126492" border="0" alt="https://techidaily.com" width="640" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126492/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 常見問題集
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1884002/19272" target="_top" id="1884002">
-  <img src="//a.impactradius-go.com/display-ad/19272-1884002" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884002/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 最好的 Windows 相片檢視器是什麼？
 
@@ -381,6 +374,13 @@ Movavi Photo Editor
 ### 什麼是Windows照片瀏覽器的良好替代品?
 
 這一個項目，我們推薦 Nomacs，它的外觀與操作均十分簡單。除了擁有近似 Windows 10 相片檢視器的基本選項外，Nomacs 還多了一個備註方塊。此欄位可以填入自己的評論或說明，以供日後參考。此外，它的「Tiny Planet」功能，可用來把照片轉換為類似地球儀的正方形裁切照片，相當適合用來產生富有創意的 360 度全景風景照。
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094418/7443" target="_top" id="2094418">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094418" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094418/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 那一個工具可以稱為最棒的Windows 10免費照片應用程式?
 
@@ -464,24 +464,24 @@ Movavi Photo Editor
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-zero.techidaily.com/024-approved-does-the-sub4sub-strategy-improve-content-consumption/"><u>[New] 2024 Approved Does the Sub4Sub Strategy Improve Content Consumption?</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/new-in-2024-cross-social-smiles-top-meme-picks-on-reddit-and-twitter/"><u>[New] In 2024, Cross-Social Smiles Top Meme Picks on Reddit & Twitter</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/updated-comparing-gopros-max-and-hero-11-for-the-best-video-quality/"><u>[Updated] Comparing GoPro's Max and Hero 11 for the Best Video Quality</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/2024-approved-instagrams-mirror-reflecting-true-selfie-essence/"><u>2024 Approved Instagram's Mirror Reflecting True Selfie Essence</u></a></li>
-<li><a href="https://discover-dash.techidaily.com/aiffmp4-movavi/"><u>直接免費在網路上 AIFF到MP4轉化 - 使用 Movavi 的方法</u></a></li>
-<li><a href="https://driver-install.techidaily.com/complete-tech-revamp-graphics-driver-overhaul-guide/"><u>Complete Tech Revamp: Graphics Driver Overhaul Guide</u></a></li>
-<li><a href="https://program-issues.techidaily.com/comprehensive-fix-guide-overcoming-stuttering-and-freezing-glitches-in-risk-of-rain-2/"><u>Comprehensive Fix Guide: Overcoming Stuttering and Freezing Glitches in Risk of Rain 2</u></a></li>
-<li><a href="https://discover-dash.techidaily.com/convert-audio-files-easily-mp3m4a-conversion-for-free-by-moveavicom/"><u>Convert Audio Files Easily: MP3/M4A Conversion for Free by MoveAVI.com</u></a></li>
-<li><a href="https://discover-dash.techidaily.com/converti-file-avi-a-formato-webm-online-e-gratuitamente-con-movavi/"><u>Converti File AVI a Formato WEBM Online E Gratuitamente Con Movavi</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/easy-steps-to-recover-deleted-call-history-from-realme-11-proplus-by-fonelab-android-recover-call-logs/"><u>Easy steps to recover deleted call history from Realme 11 Pro+</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/expert-strategies-for-3d-lut-implementation-in-photoshop-for-2024/"><u>Expert Strategies for 3D LUT Implementation in Photoshop for 2024</u></a></li>
-<li><a href="https://discover-dash.techidaily.com/free-online-avi-to-mp4-converter-effortless-video-format-switch-with-movavi/"><u>Free Online AVI to MP4 Converter: Effortless Video Format Switch with Movavi</u></a></li>
-<li><a href="https://discover-dash.techidaily.com/geavanceerd-au-in-mp4-omzetten-met-movavi-vrije-ontslag-en-online-instant-converters/"><u>Geavanceerd AU in MP4 Omzetten Met Movavi: Vrije Ontslag en Online Instant Converters</u></a></li>
-<li><a href="https://discover-dash.techidaily.com/how-to-effectively-blur-your-videos-in-minutes-an-easy-online-guide/"><u>How to Effectively Blur Your Videos in Minutes – An Easy, Online Guide</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-to-turn-off-google-location-to-stop-tracking-you-on-oppo-f25-pro-5g-drfone-by-drfone-virtual-android/"><u>How to Turn Off Google Location to Stop Tracking You on Oppo F25 Pro 5G | Dr.fone</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-remove-a-previously-synced-google-account-from-your-meizu-by-drfone-android/"><u>In 2024, How to Remove a Previously Synced Google Account from Your Meizu</u></a></li>
-<li><a href="https://discover-dash.techidaily.com/top-12-free-video-clip-download-programs-the-best-picks/"><u>Top 12 Free Video Clip Download Programs : The Best Picks!</u></a></li>
-<li><a href="https://discover-dash.techidaily.com/top-12-no-cost-photomosaic-applications-for-windows-users-discover-the-ultimate-list/"><u>Top 12 No-Cost Photomosaic Applications for Windows Users - Discover the Ultimate List!</u></a></li>
-<li><a href="https://discover-dash.techidaily.com/vrije-omzetting-avi-bestandjes-in-de-web-gratis-dienst-van-movavi/"><u>Vrije Omzetting AVI-Bestandjes in De Web - Gratis Dienst Van Movavi</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-vdr-screen-capture-compilation-extensive-guide/"><u>[New] 2024 Approved VDR Screen Capture Compilation Extensive Guide</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-from-live-to-recorded-simplifying-facebook-broadcasting/"><u>[New] From Live to Recorded Simplifying Facebook Broadcasting</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-in-2024-gamings-finest-top-10-gpu-picks-for-clear-online-broadcasts/"><u>[Updated] In 2024, Gaming's Finest Top 10 GPU Picks for Clear Online Broadcasts</u></a></li>
+<li><a href="https://discover-dash.techidaily.com/excel5/"><u>如何快速處理在Excel裡面消失的檔案：5個高效方法解答</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/best-vfx-programming-tools-top-10-picks-for-stunning-visual-effects/"><u>Best VFX Programming Tools: Top 10 Picks for Stunning Visual Effects</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/clockwise-chronicles-apples-video-reversal-method/"><u>Clockwise Chronicles Apple's Video Reversal Method</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/comprehensive-guide-to-fixing-msvcr100dll-missingnotfound-issue/"><u>Comprehensive Guide to Fixing msvcr100.dll Missing/NotFound Issue</u></a></li>
+<li><a href="https://techtrends.techidaily.com/comprehensive-guide-correcting-the-unavailability-of-x3daudiodll-files/"><u>Comprehensive Guide: Correcting the Unavailability of x3daudio.dll Files</u></a></li>
+<li><a href="https://discover-dash.techidaily.com/error-webpage-unavailable-access-denied/"><u>Error: Webpage Unavailable – Access Denied</u></a></li>
+<li><a href="https://discover-dash.techidaily.com/expert-tips-for-selectively-deleting-pics-on-iphone-while-keeping-copies-in-icloud-intact/"><u>Expert Tips for Selectively Deleting Pics on iPhone While Keeping Copies in iCloud Intact</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/how-to-remove-drm-from-dvds-using-handbrake-step-by-step-guide/"><u>How to Remove DRM From DVDs Using HandBrake – Step-by-Step Guide</u></a></li>
+<li><a href="https://fox-links.techidaily.com/in-2024-conquer-podcast-production-with-garageband-skills/"><u>In 2024, Conquer Podcast Production with GarageBand Skills</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-fix-when-apple-account-locked-on-iphone-8-plus-by-drfone-ios/"><u>In 2024, How to Fix when Apple Account Locked On iPhone 8 Plus?</u></a></li>
+<li><a href="https://discover-dash.techidaily.com/in-depth-analysis-of-puran-file-recovery-software-worth-the-try-or-not/"><u>In-Depth Analysis of Puran File Recovery Software - Worth the Try or Not?</u></a></li>
+<li><a href="https://discover-dash.techidaily.com/losungen-zum-problem-dein-gerat-hat-nicht-migriert-auf-externer-festplatte-entschlussele-die-grunde-und-nimm-massnahmen/"><u>Lösungen Zum Problem: Dein Gerät Hat Nicht Migriert, Auf Externer Festplatte – Entschlüssele Die Gründe Und Nimm Maßnahmen!</u></a></li>
+<li><a href="https://discover-dash.techidaily.com/msitop3-pc/"><u>MSIノートブック最新リセット技術TOP3です - PCをゼロから始める</u></a></li>
+<li><a href="https://discover-dash.techidaily.com/professional-record-repair-bring-new-life-to-your-vintage-discs/"><u>Professional Record Repair: Bring New Life to Your Vintage Discs</u></a></li>
+<li><a href="https://discover-dash.techidaily.com/replicacion-rapida-de-volumenes-sata-hdds-a-unidades-de-estado-solido/"><u>Replicación Rápida De Volúmenes SATA HDDs a Unidades De Estado Sólido</u></a></li>
+<li><a href="https://discover-dash.techidaily.com/troubleshooting-the-asus-chromebooks-dilemma-overcoming-white-display-hiccups-and-unresponsive-power-startup/"><u>Troubleshooting the ASUS Chromebook's Dilemma - Overcoming White Display Hiccups and Unresponsive Power Startup</u></a></li>
 </ul></div>
 
