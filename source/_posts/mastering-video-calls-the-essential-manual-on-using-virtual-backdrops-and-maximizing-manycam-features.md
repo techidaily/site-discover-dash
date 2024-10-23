@@ -1,7 +1,7 @@
 ---
 title: "Mastering Video Calls: The Essential Manual on Using Virtual Backdrops & Maximizing ManyCam Features"
-date: 2024-10-05T21:22:12.913Z
-updated: 2024-10-11T16:08:40.678Z
+date: 2024-10-18T16:36:28.793Z
+updated: 2024-10-23T16:28:21.906Z
 tags:
   - product
   - solution
@@ -604,13 +604,6 @@ Forum
    5. [Fine-tuning the result](https://tools.techidaily.com/manycam/products/)
 2. [Troubleshooting](https://tools.techidaily.com/manycam/products/)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997690/19272" target="_top" id="1997690">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997690" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997690/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How to use Virtual Backgrounds
 
 First, click the Virtual Backgrounds icon as shown below.
@@ -621,22 +614,15 @@ Then click on the Background blur tab to open the settings:
 
 ![](https://help.manycam.com/wp-content/uploads/2022/10/image-4.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934138/19272" target="_top" id="1934138">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934138" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934138/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Here you can select Transparent background, Blur, an image or a video file from the ManyCam collection, or any custom image or video of your choice.
 
 ![](https://help.manycam.com/wp-content/uploads/2022/10/image-5.png)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130530/26400" target="_top" id="2130530">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130530" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2016143/19272" target="_top" id="2016143">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016143" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130530/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016143/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Background blur
@@ -669,10 +655,23 @@ To enable Background blur, click on the Virtual Backgrounds icon**,** and make s
 ![](https://help.manycam.com/wp-content/uploads/2022/10/image-6.png)
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528693/16446" target="_top" id="1528693">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528693" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<span id="1328679">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1328679.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1328679">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328679.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328679%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328679/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144272/7443" target="_top" id="2144272">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144272" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528693/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144272/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Replace background (without a green screen)
@@ -682,13 +681,6 @@ This feature allows you to replace your background **without a physical green sc
 To enable Background replacement, click on the Virtual Backgrounds icon**,** then click on the tab as shown below.
 
 ![This image has an empty alt attribute; its file name is image-6.png](https://help.manycam.com/wp-content/uploads/2022/10/image-6.png)
-
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1001446/11832" target="_top" id="1001446">
-  <img src="//a.impactradius-go.com/display-ad/11832-1001446" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1001446/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Then select an image for your background from the ManyCam collection, or pick a custom image from your computer:  
 
@@ -725,10 +717,10 @@ Color Picker allows you to manually select the colors that need to be replaced w
 ![](https://help.manycam.com/wp-content/uploads/2022/10/image-10.png)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134498/18498" target="_top" id="2134498">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134498" border="0" alt="https://techidaily.com" width="720" height="90"/>
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557747/17382" target="_top" id="1557747">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557747" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134498/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557747/17382" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Using the color picker control, choose the color you want to remove from your video stream. The best results can be achieved if you have a green background (or any other color that differs from your clothes, otherwise they will be removed from the video as well). ManyCam offers two algorithms that both work with Color Picker and may produce different outcomes depending on the setup and environment.
@@ -747,6 +739,19 @@ In the Auto mode, ManyCam automatically selects the colors to be replaced with t
 
 ![](https://help.manycam.com/wp-content/uploads/2022/10/image-11.png)
 
+<!-- affiliate ads begin -->
+<span id="1982461">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982461.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982461">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982461.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982461%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982461/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Note 
 
  The Auto mode works best with the YUV algorithm. 
@@ -756,6 +761,13 @@ Note
 You can choose one of the predefined images or videos as your background, upload your own custom image or video, or go with a transparent background.
 
 ![](https://help.manycam.com/wp-content/uploads/2022/10/image-12.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137394/7443" target="_top" id="2137394">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137394" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### About the Chroma key algorithms
 
@@ -771,6 +783,13 @@ To select HSL, first enable the **Advanced settings** as shown below. If you sel
 
 ![](https://help.manycam.com/wp-content/uploads/2022/10/image-13.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1868586/19272" target="_top" id="1868586">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868586" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868586/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 #### YUV
 
 Compared to HSL, the YUV algorithm works with solid-color backgrounds only, which are red, green and blue, therefore the result it produces may differ greatly from that of the HSL.Compared to HSL, YUV works better with the Auto mode, however, HSL offers a different color range to key out when used with color picker. Try both algorithms to determine which works best for you.
@@ -778,13 +797,6 @@ Compared to HSL, the YUV algorithm works with solid-color backgrounds only, whic
 Note 
 
  To enable more precise Spill suppression, use the YUV algorithm. 
-
-<!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557743/17382" target="_top" id="1557743">
-  <img src="//a.impactradius-go.com/display-ad/17382-1557743" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557743/17382" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fine-tuning the result
 
@@ -818,6 +830,13 @@ The **Spill suppression** setting removes any color spill from the backdrop and 
 
 ![](https://help.manycam.com/wp-content/uploads/2022/10/image-16.png)
 
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/1186864/12108" target="_top" id="1186864">
+  <img src="//a.impactradius-go.com/display-ad/12108-1186864" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1186864/12108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **Smoothness**
 
 Note 
@@ -846,13 +865,6 @@ Please refer to [this guide](https://tools.techidaily.com/manycam/products/) if 
 
 * [How do I replace my background with a custom video?](https://tools.techidaily.com/manycam/products/)
 * [ManyCam 7: How to switch back to old Chroma key?](https://tools.techidaily.com/manycam/products/)
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657395/16446" target="_top" id="1657395">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657395" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657395/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Contents
 
@@ -886,20 +898,21 @@ Please refer to [this guide](https://tools.techidaily.com/manycam/products/) if 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-content.techidaily.com/updated-harmonize-visuals-and-melodies-in-facebook-media-posts-for-2024/"><u>[Updated] Harmonize Visuals & Melodies in Facebook Media Posts for 2024</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-insta-boomerang-strategies-for-engaging-loops/"><u>[Updated] In 2024, Insta-Boomerang Strategies for Engaging Loops</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-mp3-to-video-stream-mp3-to-youtube-in-3-easy-steps/"><u>2024 Approved MP3 to Video Stream MP3 to YouTube in 3 Easy Steps</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/best-3-itel-a60-emulator-for-mac-to-run-your-wanted-android-apps-drfone-by-drfone-android/"><u>Best 3 Itel A60 Emulator for Mac to Run Your Wanted Android Apps | Dr.fone</u></a></li>
-<li><a href="https://discover-dash.techidaily.com/comment-changer-un-fichier-mp3-en-format-wav-avec-le-convertisseur-de-movavi/"><u>Comment Changer Un Fichier MP3 en Format WAV Avec Le Convertisseur De Movavi</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/digging-into-the-data-top-10-twitvideos-for-2024/"><u>Digging Into the Data Top 10 TwitVideos for 2024</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/digital-goods-safety-provision/"><u>Digital Goods Safety Provision</u></a></li>
-<li><a href="https://discover-dash.techidaily.com/effortless-audiovideo-editing-convert-avi-to-m4a-for-free-using-the-cutting-edge-web-tool-movavi-streamline/"><u>Effortless Audio/Video Editing: Convert AVI to M4A for Free Using the Cutting-Edge Web Tool - Movavi Streamline</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/forgot-apple-iphone-13-mini-backup-password-heres-what-to-do-drfone-by-drfone-ios/"><u>Forgot Apple iPhone 13 mini Backup Password? Heres What to Do | Dr.fone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-top-5-car-locator-apps-for-infinix-smart-8-hd-drfone-by-drfone-virtual-android/"><u>In 2024, Top 5 Car Locator Apps for Infinix Smart 8 HD | Dr.fone</u></a></li>
-<li><a href="https://discover-dash.techidaily.com/los-mejores-grabadores-de-pantalla-con-temporizador-en-2023-comparativa-para-sistemas-operativos-windowsmac/"><u>Los Mejores Grabadores De Pantalla Con Temporizador en 2023 - Comparativa Para Sistemas Operativos Windows/Mac</u></a></li>
-<li><a href="https://discover-dash.techidaily.com/topo-12-ferramentas-de-cortar-livres-em-2024-analise-comparada-por-movavi/"><u>Topo 12 Ferramentas De Cortar Livres Em 2024 - Análise Comparada Por Movavi</u></a></li>
-<li><a href="https://discover-dash.techidaily.com/transforma-tus-fotos-gsm-en-imagenes-lineales-libres-de-costo-utilizando-el-software-de-movavi/"><u>Transforma Tus Fotos GSM en Imágenes Lineales Libres De Costo, Utilizando El Software De Movavi</u></a></li>
-<li><a href="https://games-able.techidaily.com/unsubscribe-from-steam-a-step-by-step-guide/"><u>Unsubscribe From Steam: A Step-by-Step Guide</u></a></li>
-<li><a href="https://discover-dash.techidaily.com/vrije-en-gemakkelijke-inloggen-van-mka-file-in-wav-movavi-konvertor/"><u>Vrije en Gemakkelijke Inloggen Van MKA File in WAV - Movavi Konvertor</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/4-reasons-your-chatgpt-account-is-blocked-and-how-to-fix-it/"><u>4 Reasons Your ChatGPT Account Is Blocked (and How to Fix It)</u></a></li>
+<li><a href="https://win-forum.techidaily.com/a-guide-to-leading-online-communities-facebook-twitter-instagram-and-youtube-features/"><u>A Guide to Leading Online Communities: Facebook, Twitter, Instagram & YouTube Features</u></a></li>
+<li><a href="https://discover-dash.techidaily.com/aomei-system-wiedergutmachung-unverzichtbar-fur-ihr-betriebssystem/"><u>AOMEI System-Wiedergutmachung: Unverzichtbar Für Ihr Betriebssystem</u></a></li>
+<li><a href="https://discover-dash.techidaily.com/discover-the-benefits-of-using-virtualization-for-streamlined-disaster-recovery-solutions/"><u>Discover the Benefits of Using Virtualization for Streamlined Disaster Recovery Solutions</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/easily-unlock-your-oppo-k11x-device-sim-by-drfone-android/"><u>Easily Unlock Your Oppo K11x Device SIM</u></a></li>
+<li><a href="https://fox-http.techidaily.com/engaging-readers-with-strategic-reddit-sharing-techniques/"><u>Engaging Readers with Strategic Reddit Sharing Techniques</u></a></li>
+<li><a href="https://discover-dash.techidaily.com/ersteigern-eines-windows-10-recovery-partitions-auf-einer-dell-rechnerplatine/"><u>Ersteigern Eines Windows 10 Recovery Partitions Auf Einer Dell-Rechnerplatine</u></a></li>
+<li><a href="https://discover-dash.techidaily.com/how-to-retrieve-deleted-dxr-files-comprehensive-steps-for-data-recovery/"><u>How to Retrieve Deleted DXR Files - Comprehensive Steps for Data Recovery</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-a-guide-realme-12plus-5g-wireless-and-wired-screen-mirroring-drfone-by-drfone-android/"><u>In 2024, A Guide Realme 12+ 5G Wireless and Wired Screen Mirroring | Dr.fone</u></a></li>
+<li><a href="https://discover-dash.techidaily.com/seamlessly-shifting-information-3-methods-to-move-your-data-from-oneplus-to-iphone/"><u>Seamlessly Shifting Information: 3 Methods to Move Your Data From OnePlus to iPhone</u></a></li>
+<li><a href="https://win-special.techidaily.com/step-by-step-guide-converting-and-downloading-cudoo-videos-in-multiple-formats/"><u>Step-by-Step Guide: Converting and Downloading Cudoo Videos in Multiple Formats</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-art-of-replicating-natural-wood-textures-aromas-and-appearances-with-3d-prints-and-sawdust-innovation/"><u>The Art of Replicating Natural Wood Textures, Aromas, and Appearances with 3D Prints and Sawdust Innovation</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-complete-guide-to-setting-up-safe-mail-filters-on-gmail/"><u>The Complete Guide to Setting Up Safe Mail Filters on Gmail</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/triumph-timeline-charting-five-accelerators-in-gpts-rise/"><u>Triumph Timeline: Charting Five Accelerators in GPT’s Rise</u></a></li>
+<li><a href="https://discover-dash.techidaily.com/uitwisselen-naar-windows-11-voorseten-van-een-harde-schijf-met-3-steunende-methodes/"><u>Uitwisselen Naar Windows 11: Voorseten Van Een Harde Schijf Met 3 Steunende Methodes</u></a></li>
+<li><a href="https://discover-dash.techidaily.com/1728474649592-windows-118/"><u>Windows 11で効率よくファイルを移動・コピーする8つのテクニック</u></a></li>
 </ul></div>
 
