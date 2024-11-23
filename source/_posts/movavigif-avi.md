@@ -1,7 +1,7 @@
 ---
 title: 完全無償のオンライン - MovaviでGIF AVIフォーマットの変更
-date: 2024-11-06T19:54:54.155Z
-updated: 2024-11-13T20:33:18.428Z
+date: 2024-11-16T23:57:37.958Z
+updated: 2024-11-23T06:30:57.427Z
 categories:
   - movavi
 thumbnail: https://thmb.techidaily.com/c6b90e18ceea22d6abdcc88044c37b5416ce971b6cd304d4b06dc96901e8f1f1.jpg
@@ -156,6 +156,10 @@ Afficher plus
 
 ![](https://cdn.staticont.net/pages/0013/24/59bfacce83c98f6e29023d9167e646142e92751a.webp)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 [Télécharger gratuitement](https://tools.techidaily.com/movavi/products/)
 
 [Télécharger gratuitement](https://tools.techidaily.com/movavi/products/)
@@ -165,6 +169,10 @@ Un facteur clé qui peut ralentir votre expérience de jeu est l'utilisation d'u
 ## Qu'est-ce qu'un FPS faible et comment puis-je le vérifier ?
 
 ![](https://cdn.staticont.net/pages/0013/24/1698d2ec33be3cf4f4bedd243e199c87dbd8ac34.webp)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Si votre jeu commence à ralentir et que l'image est saccadée, surtout lorsqu'elle bouge, c'est que votre taux d'images par seconde (IPS) est faible. Cela se produit lorsque le matériel de votre ordinateur a du mal à faire fonctionner votre jeu ou fait des heures supplémentaires. S'il travaille trop, la vitesse du jeu ralentit.
 
@@ -211,10 +219,7 @@ Voici quelques liens vers les mises à jour des pilotes des fabricants les plus 
 * [Pilotes Intel Graphics](https://www.intel.com/content/www/us/en/support/products/80939/graphics-drivers.html)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915810/19272" target="_top" id="1915810">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915810" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915810/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Installer DirectX 12
@@ -236,10 +241,7 @@ Utiliser le mode de jeu Windows 10
 ![](https://cdn.staticont.net/default/0012/47/d22e37788bfd390747dc00a19758815599d522df.webp)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129739/7443" target="_top" id="2129739">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129739" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129739/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Voici un moyen simple et rapide d'optimiser Windows 10 pour les jeux en utilisant un outil intégré au système. Le mode Jeu, apparu dans les versions les plus récentes du système d'exploitation, est conçu pour améliorer l'expérience de jeu en consacrant davantage de ressources système aux jeux. Il empêche également d'autres programmes, tels que Windows Update, d'accaparer les ressources du système pendant que vous jouez.
@@ -284,6 +286,10 @@ Si vous souhaitez conserver un minimum de graphismes pour que votre interface n'
 
 ![](https://cdn.staticont.net/default/0012/47/297019451ab2d6ffba248c33b083ec10c2390f59.webp)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Le problème ici est le même qu'avec Windows Mises à jour. Steam met automatiquement à jour tous vos jeux, même ceux auxquels vous n'avez pas joué depuis longtemps. Les mises à jour en arrière-plan consomment la mémoire de votre PC et peuvent ralentir les processus de jeu.
 
 Pour empêcher Steam de mettre à jour les jeux pendant que vous jouez, allez dans votre client Steam et trouvez les options de mise à jour dans **Steam** \- **Paramètres** \- **Téléchargements**. Décochez la case **Autoriser les téléchargements pendant le jeu**.
@@ -320,23 +326,9 @@ Les cartes graphiques AMD ont également beaucoup de paramètres. Certains disen
 2. Augmentez vos performances graphiques en utilisant l'overclocking. Pour ce faire, cliquez sur l'onglet **Performance**, puis sur **Tuning**, sélectionnez **Automatique**, et enfin **GPU Overclocked**.
 3. Si vous utilisez une carte AMD, vous n'avez pas besoin de MSI Afterburner pour contrôler les performances. Il vous suffit d'appuyer sur **Ctrl** \+ **Shift** \+ **O** pour que vos statistiques apparaissent dans le jeu.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135395/19272" target="_top" id="2135395">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135395" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135395/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Réduire la résolution dans un jeu
 
 Cette solution entre facilement dans la catégorie des "solutions rapides". Parfois, votre système ne peut tout simplement pas gérer un jeu, et vous n'avez pas le temps de chercher des solutions à plus long terme. Allez dans les paramètres système du jeu et réduisez la résolution d'un niveau. Surveillez ensuite votre FPS jusqu'à ce que les choses s'améliorent.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075476/7443" target="_top" id="2075476">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075476" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075476/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Désactiver l'accélération de la souris
 
@@ -372,13 +364,6 @@ Le choix de la première mise à niveau dépend des types de jeux auxquels vous 
 
 Quoi qu'il en soit, assurez-vous que l'équilibre des performances entre les deux est délicat, car l'un ne fonctionne pas sans l'autre. Vérifiez la mémoire et la bande passante de toute mise à niveau potentielle.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037318/7443" target="_top" id="2037318">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037318" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037318/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Mettez votre RAM à niveau
 
 La mise à niveau de votre RAM n'aura pas un effet aussi important que la mise à niveau du processeur ou du GPU. Mais elle peut donner à votre matériel le coup de pouce dont il a besoin pour augmenter votre fréquence d'images et améliorer votre expérience de jeu globale. 
@@ -386,6 +371,10 @@ La mise à niveau de votre RAM n'aura pas un effet aussi important que la mise �
 De nombreux jeux requièrent une mémoire vive de 8 Go, mais ce chiffre augmente régulièrement, car les titres les plus récents recommandent une mémoire vive de 12 Go. 
 
 Si vous voulez rester en tête de la courbe, 16 Go suffiront pour l'instant. Mais si vous voulez utiliser des services de streaming en arrière-plan comme Twitch, Discord et YouTube, vous devrez passer à 32 Go pour pouvoir tout faire fonctionner sans problème.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Désactiver l'algorithme de Nagle
 
@@ -396,6 +385,10 @@ Ouvrez votre Windows Éditeur de registre en cliquant sur la   **touche Windows*
 Pour trouver votre adresse IP, appuyez sur la   **touche Windows** \+ **X** et suivez ces étapes : **Panneau de configuration** \- **Réseau et Internet** \- **Centre Réseau et partage** \- **Connexions** \- **Détails** \- **Adresse IPv4**.
 
 Vous pouvez maintenant retrouver le dossier avec la bonne adresse IP. Cliquez avec le bouton droit de la souris sur ce dossier et sélectionnez **Nouveau** \- **Valeur DWORD (32 bits)**. Vous devrez créer deux de ces valeurs : **TcpAckFrequency** et **TCPNoDelay**. Double-cliquez sur chacune d'elles et réglez leurs paramètres sur **1**. L'algorithme de Nagle est maintenant désactivé.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Surcadencez votre carte graphique
 
@@ -436,32 +429,11 @@ Comment accélérer l'exécution des jeux sur un ordinateur portable Windows 10
 
 ![](https://cdn.staticont.net/pages/0013/24/e045d566ab9cee25f15459463af7614838747945.webp)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016143/19272" target="_top" id="2016143">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016143" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016143/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Vous voulez savoir comment améliorer les performances de jeu sur un ordinateur portable Windows 10 ? Ces conseils vous aideront à accélérer les choses !
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130531/26400" target="_top" id="2130531">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130531" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130531/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Utiliser une alimentation externe
 
 Windows 10 dispose de nombreuses fonctions d'économie d'énergie pour les ordinateurs portables afin de les maintenir en vie pendant de plus longues durées. Cela affectera considérablement l'expérience de jeu car votre RAM, vos cartes graphiques et votre CPU ne fonctionneront pas à pleine capacité. Pour remédier à ce problème, connectez votre ordinateur portable à son alimentation externe et assurez-vous que vos paramètres de contrôle permettent d'obtenir des performances optimales lorsqu'il est connecté.
-
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2129042/19576" target="_top" id="2129042">
-  <img src="//a.impactradius-go.com/display-ad/19576-2129042" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129042/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Utiliser un plan d'alimentation performant
 
@@ -511,6 +483,10 @@ Logiciel d'enregistrement de jeux et de streaming gratuit et simple
 
 ![Gecata&nbsp;by Movavi](https://cdn.staticont.net/products/0023/55/189f02c8904c7cafef6bd153dc2ff5755f569030.webp)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 
 
 Foire aux questions 
@@ -523,6 +499,10 @@ L'article ci-dessus énumère une série de mesures que vous pouvez prendre pour
 * Modifiez les paramètres de votre carte graphique
 * Mettez à niveau votre GPU et/ou votre CPU
 * Vérifiez les paramètres de performance de votre Windows.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Qu'est-ce qui ralentit mon ordinateur ?
 
@@ -547,6 +527,10 @@ Si vous voulez savoir comment rendre votre ordinateur plus rapide pour jouer, vo
 ### Windows 10 est-il meilleur pour les jeux ?
 
 Lorsque l'on compare l'expérience de jeu des versions précédentes de Windows à Windows 10, l'amélioration des performances est extraordinaire. Si vous n'êtes pas sûr de vouloir faire une mise à jour, la décision est simple. Windows 10 offrira toujours une meilleure expérience.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Comment obtenir 60 fps dans un jeu ?
 
@@ -601,17 +585,22 @@ En vous inscrivant, vous acceptez de recevoir nos courriels de marketing et acce
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-guidance.techidaily.com/new-starting-with-hauls-a-step-by-step-editing-manual/"><u>[New] Starting with Hauls A Step-by-Step Editing Manual</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-alluring-headline-manufacturer/"><u>[Updated] 2024 Approved Alluring Headline Manufacturer</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/updated-an-intro-to-digital-realms-vr-simplified/"><u>[Updated] An Intro to Digital Realms VR Simplified</u></a></li>
-<li><a href="https://discover-dash.techidaily.com/bildschirmarbeiten-perfekt-gestalten-webcam-und-audio-aufzeichnen-mithilfe-von-winx-video-ai-technologien/"><u>Bildschirmarbeiten Perfekt Gestalten - Webcam Und Audio Aufzeichnen Mithilfe Von WinX Video AI Technologien</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/compatibility-check-does-your-iphone-13-case-work-with-the-latest-iphone-14/"><u>Compatibility Check: Does Your iPhone 13 Case Work with the Latest iPhone 14?</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/download-directly-from-instagram-a-methodology-for-iphone-users-for-2024/"><u>Download Directly From Instagram A Methodology for iPhone Users for 2024</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/in-2024-how-to-master-every-feature-of-periscope/"><u>In 2024, How to Master Every Feature of Periscope</u></a></li>
-<li><a href="https://discover-dash.techidaily.com/step-by-step-guide-capturing-your-microsoft-teams-webinars-efficiently/"><u>Step-by-Step Guide: Capturing Your Microsoft Teams Webinars Efficiently</u></a></li>
-<li><a href="https://discover-dash.techidaily.com/the-ultimate-list-of-no-cost-audio-format-changers-reviews-for-windows-macos-x-users/"><u>The Ultimate List of No-Cost Audio Format Changers: Reviews for Windows, MacOS X Users</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/the-video-creators-blueprint-to-legal-and-profitable-streaming-for-2024/"><u>The Video Creator's Blueprint to Legal and Profitable Streaming for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/unveiling-the-best-ai-phone-apps-on-both-os-platforms/"><u>Unveiling the Best AI Phone Apps on Both OS Platforms</u></a></li>
-<li><a href="https://discover-dash.techidaily.com/winx-mediatrans-promo-offer-streamline-iphone-file-syncing-and-management-for-ios-users-no-itunes-needed/"><u>WinX MediaTrans Promo Offer! Streamline iPhone File Syncing and Management for iOS Users, No iTunes Needed.</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-outstanding-non-zoom-video-conferencing-tech-for-2024/"><u>[Updated] Outstanding Non-Zoom Video Conferencing Tech for 2024</u></a></li>
+<li><a href="https://discover-dash.techidaily.com/1726028682136-clipchamp/"><u>「Clipchamp」ビデオにおすすめ曲を挟む方法：ステップバイステップ</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/approved-select-5-high-quality-audio-headphones/"><u>2024 Approved Select 5 High-Quality Audio Headphones</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-the-art-of-low-volume-playback-system-guide/"><u>2024 Approved The Art of Low-Volume Playback System Guide</u></a></li>
+<li><a href="https://discover-dash.techidaily.com/2024mp4-and-wma/"><u>2024年度対応の無料MP4 & WMA変換ソフトウェア - トップ選び</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/can-the-samsung-galaxy-tab-s3-still-hold-its-own-our-thorough-review-finds-out/"><u>Can the Samsung Galaxy Tab S3 Still Hold Its Own? Our Thorough Review Finds Out!</u></a></li>
+<li><a href="https://discover-dash.techidaily.com/discover-the-ultimate-web-destinations-for-legally-acquiring-hit-hindi-movie-soundtracks/"><u>Discover the Ultimate Web Destinations for Legally Acquiring Hit Hindi Movie Soundtracks</u></a></li>
+<li><a href="https://discover-dash.techidaily.com/enhance-your-broadcasts-with-manycam-top-notch-live-video-software-for-seamless-online-presentations/"><u>Enhance Your Broadcasts with ManyCam: Top-Notch Live Video Software for Seamless Online Presentations</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-thrive-with-1000-new-followers-each-month/"><u>In 2024, Thrive with 1,000 New Followers Each Month</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/laughter-in-the-clouds-iphone/"><u>Laughter in the Clouds (iPhone)</u></a></li>
+<li><a href="https://discover-dash.techidaily.com/seamless-streaming-with-manycam-professional-live-video-editing-and-virtual-webcams/"><u>Seamless Streaming with ManyCam: Professional Live Video Editing and Virtual Webcams</u></a></li>
+<li><a href="https://techidaily.com/sign-excel-2007-online-for-free-by-ldigisigner-sign-a-excel-sign-a-excel/"><u>Sign Excel 2007 Online for Free</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solution-guide-resolving-the-problem-of-a-silent-microphone-in-zoom-sessions-on-microsoft-operating-systems/"><u>Solution Guide: Resolving the Problem of a Silent Microphone in Zoom Sessions on Microsoft Operating Systems</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/tackling-non-correctable-windows-hardware-errors-effective-strategies/"><u>Tackling Non-Correctable Windows Hardware Errors: Effective Strategies</u></a></li>
+<li><a href="https://discover-dash.techidaily.com/transform-your-videos-with-manycam-top-notch-live-software-and-online-cameras/"><u>Transform Your Videos with ManyCam – Top-Notch Live Software and Online Cameras!</u></a></li>
+<li><a href="https://discover-dash.techidaily.com/unleash-your-creative-potential-with-manycam-the-ultimate-virtual-webcam-for-online-broadcasts/"><u>Unleash Your Creative Potential with ManyCam: The Ultimate Virtual Webcam for Online Broadcasts</u></a></li>
+<li><a href="https://discover-dash.techidaily.com/upgrade-your-broadcasts-with-manycam-ultimate-live-video-tools-and-fake-camera-solutions/"><u>Upgrade Your Broadcasts with ManyCam: Ultimate Live Video Tools and Fake Camera Solutions</u></a></li>
 </ul></div>
 

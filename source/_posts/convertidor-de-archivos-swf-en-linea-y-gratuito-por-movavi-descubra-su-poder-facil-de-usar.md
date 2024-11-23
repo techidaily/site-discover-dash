@@ -1,7 +1,7 @@
 ---
 title: "Convertidor De Archivos SWF en Línea Y Gratuito Por Movavi: Descubra Su Poder Fácil De Usar!"
-date: 2024-11-12T21:43:11.244Z
-updated: 2024-11-14T00:24:31.905Z
+date: 2024-11-18T20:11:34.508Z
+updated: 2024-11-23T03:02:15.516Z
 categories:
   - movavi
 thumbnail: https://thmb.techidaily.com/6e124469acb1b5afb7b60317614c14cd19495de1f4f03bc861cbf6881acc1db4.jpg
@@ -152,13 +152,6 @@ Désactivez les services d'arrière-plan pour accélérer votre ordinateur porta
 
 Afficher plus
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948949/19272" target="_top" id="1948949">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948949" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948949/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Choix spécial : [Gecata by Movavi](https://www.gecata.com/)
 
 ![](https://cdn.staticont.net/pages/0013/24/59bfacce83c98f6e29023d9167e646142e92751a.webp)
@@ -168,6 +161,10 @@ Afficher plus
 [Télécharger gratuitement](https://tools.techidaily.com/movavi/products/)
 
 Un facteur clé qui peut ralentir votre expérience de jeu est l'utilisation d'un enregistreur de qualité inférieure pendant le jeu. C'est pourquoi notre choix spécial pour optimiser votre PC pour les jeux sur Windows 10 est Gecata by Movavi. Ce programme peut enregistrer le gameplay en 4K et jusqu'à 120 FPS sans perte de performance. Il est facile à utiliser et est livré avec une version d'essai gratuite.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Qu'est-ce qu'un FPS faible et comment puis-je le vérifier ?
 
@@ -182,13 +179,6 @@ Le PC surpasse les consoles à cet égard, car il est toujours possible d'accél
 Cet article vous présente les réglages de performance pour les jeux que vous pouvez effectuer sur Windows 10 pour améliorer votre expérience de jeu.
 
 Avant de commencer, il est toujours bon d'avoir un compteur de FPS dans le jeu, afin de pouvoir suivre vos progrès et tester les réglages qui fonctionnent. De nombreux jeux les ont préinstallés, mais si vous installez [MSI Afterburner](https://www.msi.com/Landing/afterburner/graphics-cards), vous ne serez jamais sans cet outil utile dans n'importe quel jeu.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144276/7443" target="_top" id="2144276">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144276" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144276/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 
 
@@ -205,6 +195,10 @@ Chaque jeu possède des paramètres graphiques spécifiques qui peuvent vous aid
 1. **Anti-crénelage :** Lorsqu'un jeu utilise le crénelage, il corrige les petites lignes irrégulières et inégales autour de textures ou d'objets spécifiques. Pensez aux lignes floues que vous voyez lorsque l'herbe apparaît dans la plupart des jeux. Chaque jeu possède différents niveaux d'anticrénelage (SSAA, TAA, MSAA, etc.). - et vous pouvez généralement les modifier dans les paramètres du jeu pour obtenir de meilleures performances.
 2. **Flou de mouvement :** Pour rendre les choses plus réalistes, les jeux intègrent des flous de mouvement afin d'émuler la vie réelle. Le désactiver peut souvent vous aider à économiser de la puissance graphique.
 3. **Synchronisation verticale :** Parfois, lorsque vous vous déplacez rapidement, la carte graphique ne peut pas suivre et l'écran semble se déchirer en son milieu. La synchronisation verticale aide à résoudre ce problème mais ajoute un certain décalage. Une façon de corriger ce problème est d'utiliser le VSync adaptatif ou le Triple Buffering. Vous utiliserez davantage de puissance de la carte graphique, mais vous trouverez un juste milieu entre les déchirures et le décalage.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Mettez à jour les pilotes de votre GPU
 
@@ -236,6 +230,10 @@ Pour vérifier que vous disposez de la dernière version de DirectX, appuyez sur
 
 Si vous n'avez pas DirectX 12, allez-y et installez-le ; le processus ne prendra que quelques minutes. Appuyez sur la   **touche Windows** \+ **I**, choisissez **Mise à jour et sécurité** et cliquez sur **Vérifier les mises à jour** dans l'onglet **Windows. Mise à jour**. Attendez que l'installation se termine.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 
 
 Utiliser le mode de jeu Windows 10
@@ -249,13 +247,6 @@ Pour localiser les paramètres du mode jeu, appuyez sur la   **touche Windows** 
 Dans le menu qui s'ouvre, cliquez sur **Mode Jeu**. Passez à **On** pour activer le Game Mode. Si votre PC prend en charge le Mode Jeu, le système optimisera les performances de votre PC pour les jeux.
 
 Si vous ne trouvez pas ces paramètres, cela signifie que la dernière Windows Creators Update n'est pas installée sur votre PC.
-
-<!-- affiliate ads begin -->
-<a href="https://jalbum-affiliate-program.sjv.io/c/5597632/1838960/17916" target="_top" id="1838960">
-  <img src="//a.impactradius-go.com/display-ad/17916-1838960" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://jalbum-affiliate-program.sjv.io/i/5597632/1838960/17916" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Gérez vos heures actives
 
@@ -300,10 +291,7 @@ Par ailleurs, les jeux sur Steam sont mis à jour en permanence et il arrive sou
 Pour ramener la version d'un jeu à celle dont vous avez besoin, ouvrez Steam, faites un clic droit sur le jeu, choisissez **Propriétés** et allez dans l'onglet **Bêta**. Choisissez la version souhaitée dans le menu déroulant.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135406/19272" target="_top" id="2135406">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135406" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135406/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Désactiver les notifications
@@ -346,6 +334,10 @@ Pour ce faire, appuyez sur la   **touche Windows** \+ **I**. Tapez "pointeur de 
 
 Vous pouvez également modifier le curseur de la vitesse du pointeur pour créer la configuration qui vous convient le mieux.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 
 
 Comment améliorer les performances de jeu sur Windows 10 (corrections avancées)
@@ -363,10 +355,7 @@ Passer d'un disque dur à un disque SSD n'améliorera pas radicalement les perfo
 Quant à l'aspect financier, si un gros SSD pour votre système d'exploitation et vos jeux est trop cher pour vous, prenez un petit SSD pour votre système d'exploitation et gardez un gros disque dur pour les jeux.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094415/7443" target="_top" id="2094415">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094415" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094415/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Mettez à niveau votre GPU/CPU
@@ -396,13 +385,6 @@ Ouvrez votre Windows Éditeur de registre en cliquant sur la   **touche Windows*
 Pour trouver votre adresse IP, appuyez sur la   **touche Windows** \+ **X** et suivez ces étapes : **Panneau de configuration** \- **Réseau et Internet** \- **Centre Réseau et partage** \- **Connexions** \- **Détails** \- **Adresse IPv4**.
 
 Vous pouvez maintenant retrouver le dossier avec la bonne adresse IP. Cliquez avec le bouton droit de la souris sur ce dossier et sélectionnez **Nouveau** \- **Valeur DWORD (32 bits)**. Vous devrez créer deux de ces valeurs : **TcpAckFrequency** et **TCPNoDelay**. Double-cliquez sur chacune d'elles et réglez leurs paramètres sur **1**. L'algorithme de Nagle est maintenant désactivé.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037351/7443" target="_top" id="2037351">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037351" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037351/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Surcadencez votre carte graphique
 
@@ -437,6 +419,10 @@ C'est l'un des services faciles à désactiver sur Windows 10\. Ces programmes e
 * Définissez la **valeur** sur **0**.
 * Cliquez sur **OK**.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 
 
 Comment accélérer l'exécution des jeux sur un ordinateur portable Windows 10
@@ -461,6 +447,10 @@ Les ordinateurs portables sont réputés pour leur surchauffe, car tous les comp
 2. Pour la ventilation, essayez de surélever votre ordinateur portable ou utilisez un bureau conçu pour les ordinateurs portables.
 3. Réglez les paramètres de vos ventilateurs pour qu'ils ne soient pas trop sollicités.
 4. Si vous le pouvez, jouez sur votre ordinateur portable dans un environnement frais.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Mettez à niveau votre GPU et votre RAM
 
@@ -497,13 +487,6 @@ Logiciel d'enregistrement de jeux et de streaming gratuit et simple
 
 ![Gecata&nbsp;by Movavi](https://cdn.staticont.net/products/0023/55/189f02c8904c7cafef6bd153dc2ff5755f569030.webp)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037355/7443" target="_top" id="2037355">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037355" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037355/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 
 
 Foire aux questions 
@@ -528,10 +511,7 @@ Il y a une longue liste de choses qui pourraient ralentir votre ordinateur. Voic
 5. Le système fonctionne avec des paramètres de performance inférieurs pour économiser la batterie.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027190/19272" target="_top" id="2027190">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027190" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027190/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Comment faire fonctionner un ordinateur plus rapidement ?
@@ -557,6 +537,10 @@ Atteindre 60 FPS dans un jeu n'est pas différent des conseils pour accélérer 
 3. Passez Windows 10 en "mode jeu".
 4. Vérifiez les paramètres graphiques de votre jeu.
 5. Installez les derniers pilotes pour votre carte graphique
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Pourquoi ai-je des fps faibles sur mon PC haut de gamme ?
 
@@ -601,22 +585,21 @@ En vous inscrivant, vous acceptez de recevoir nos courriels de marketing et acce
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-guidance.techidaily.com/new-navigating-virtual-realms-efficiently-using-kinemaster-plus-best-replacements/"><u>[New] Navigating Virtual Realms Efficiently Using KineMaster, Plus Best Replacements</u></a></li>
-<li><a href="https://discover-dash.techidaily.com/dvd-windows-ebreak-dvdmp4-h264/"><u>专为移动硬件优化的免费DVD转档器 - Windows Ebreak DVD到MP4 H264格式，无需花钱直接下载</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/bluetooth-troubleshooting-tips-for-users-of-the-latest-windows-11-operating-system/"><u>Bluetooth Troubleshooting Tips for Users of the Latest Windows 11 Operating System</u></a></li>
-<li><a href="https://discover-dash.techidaily.com/boost-performance-in-real-time-applications-using-ai-frame-interpolation-for-higher-fps-and-fluid-visuals/"><u>Boost Performance in Real-Time Applications Using AI Frame Interpolation for Higher FPS & Fluid Visuals</u></a></li>
-<li><a href="https://discover-dash.techidaily.com/captura-completa-de-la-pantalla/"><u>Captura Completa De La Pantalla</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/expanding-horizons-with-vr-filmmaking/"><u>Expanding Horizons with VR Filmmaking</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/how-to-create-a-digital-signature-online-for-docx-file-document-by-ldigisigner-sign-a-word-sign-a-word/"><u>How to Create a Digital Signature Online for .docx file document</u></a></li>
-<li><a href="https://iphone-location.techidaily.com/how-to-enable-disable-and-change-safari-location-on-apple-iphone-6s-plus-drfone-by-drfone-virtual-ios/"><u>How to Enable, Disable, and Change Safari Location on Apple iPhone 6s Plus | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-mirror-your-lava-blaze-2-pro-screen-to-pc-with-chromecast-drfone-by-drfone-android/"><u>How to Mirror Your Lava Blaze 2 Pro Screen to PC with Chromecast | Dr.fone</u></a></li>
-<li><a href="https://discover-dash.techidaily.com/mastering-the-process-playback-of-movie-files-from-dvds-on-portable-microsd-cards/"><u>Mastering the Process: Playback of Movie Files From DVDs on Portable MicroSD Cards</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/next-gen-tech-talk-samsungs-bdplus-k850-ultra-review/"><u>Next-Gen Tech Talk Samsung's BD+ K850 Ultra Review</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/rise-to-the-top-essential-ms-store-winners-2023/"><u>Rise to the Top: Essential MS Store Winners, 2023</u></a></li>
-<li><a href="https://discover-dash.techidaily.com/solucion-integral-de-venta-y-soporte-online-para-software-winx-dvd-ripper-y-convertidor-de-videos/"><u>Solución Integral De Venta Y Soporte OnLine Para Software WinX: DVD Ripper Y Convertidor De Videos</u></a></li>
-<li><a href="https://discover-dash.techidaily.com/soluciones-paso-a-paso-y-guias-esenciales-para-troubleshooting-en-winxdvd/"><u>Soluciones Paso a Paso Y Guías Esenciales Para Troubleshooting en WinXDVD</u></a></li>
-<li><a href="https://discover-dash.techidaily.com/step-by-step-solution-fixing-the-unplayable-dvd-error-in-macos/"><u>Step-by-Step Solution: Fixing the Unplayable DVD Error in macOS</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/transcoding-made-simple-transform-your-m4v-files-into-avi-on-pcs-and-mac-computers/"><u>Transcoding Made Simple: Transform Your M4V Files Into AVI on PCs and Mac Computers</u></a></li>
-<li><a href="https://discover-dash.techidaily.com/1725287954629-winx-dvd-ripper-platinum/"><u>パソコンを更新した後に、WinX DVD Ripper Platinumの再登録方法詳解</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-discoveries-await-5-essential-maps-for-richer-gameplay-for-2024/"><u>[New] Discoveries Await 5 Essential Maps for Richer Gameplay for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-soundscout-audio-critique-adventure/"><u>[New] In 2024, SoundScout Audio Critique Adventure</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-2024-approved-vimeos-global-distribution-guide/"><u>[Updated] 2024 Approved Vimeo's Global Distribution Guide</u></a></li>
+<li><a href="https://discover-dash.techidaily.com/google-chrome4/"><u>「Google Chromeで音声を記録するための4つの最適な方法」</u></a></li>
+<li><a href="https://discover-dash.techidaily.com/flac/"><u>高品質FLACファイルの再生手順ガイド</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/automated-conversion-tracking-enhanced-with-the-power-of-cookiebot-technology/"><u>Automated Conversion Tracking: Enhanced with the Power of Cookiebot Technology</u></a></li>
+<li><a href="https://discover-dash.techidaily.com/comprehensive-how-to-macs-quicktime-for-screen-plus-audio-recording-full-guide/"><u>Comprehensive How-To: Mac's QuickTime for Screen + Audio Recording Full Guide</u></a></li>
+<li><a href="https://discover-dash.techidaily.com/dtswavmp3aacac3/"><u>DTS形式のオーディオ変換技術：WAV/MP3/AAC/AC3への効果的な変換ガイド</u></a></li>
+<li><a href="https://discover-dash.techidaily.com/fast-and-reliable-techniques-to-transform-mod-videos-into-avi/"><u>Fast and Reliable Techniques to Transform MOD Videos Into AVI</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fix-your-unresponsive-laptop-mousepad-in-windows-operating-systems-win1187/"><u>Fix Your Unresponsive Laptop Mousepad in Windows Operating Systems (Win11/8/7)</u></a></li>
+<li><a href="https://discover-dash.techidaily.com/fm-3/"><u>FMプラプラで聴く愛された曲集 - シンプルな3手法</u></a></li>
+<li><a href="https://discover-dash.techidaily.com/guide-to-adding-live-tv-tvtap-for-7-of-ve-tv-networks-on-kodi-via-matrix-and-leia-builds/"><u>Guide to Adding Live TV (TVTap) for 7 of Ve TV Networks on Kodi via Matrix and Leia Builds</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-real-time-engagement-strategies-for-online-streamers/"><u>In 2024, Real-Time Engagement Strategies for Online Streamers</u></a></li>
+<li><a href="https://techidaily.com/reset-pattern-lock-tutorial-for-htc-u23-by-drfone-android-unlock-android-unlock/"><u>Reset pattern lock Tutorial for HTC U23</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/secrets-unlocked-advanced-techniques-to-sculpt-your-igtv-content-size-for-2024/"><u>Secrets Unlocked Advanced Techniques to Sculpt Your IGTV Content Size for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/twitter-conversation-management-4-must-have-tools-for-hashtag-tracking/"><u>Twitter Conversation Management: 4 Must-Have Tools for Hashtag Tracking</u></a></li>
 </ul></div>
 

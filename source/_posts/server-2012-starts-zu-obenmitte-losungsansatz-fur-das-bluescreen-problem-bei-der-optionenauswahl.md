@@ -1,7 +1,7 @@
 ---
 title: "Server 2012 Starts Zu Obenmitte: Lösungsansatz Für Das Bluescreen-Problem Bei Der Optionenauswahl"
-date: 2024-11-12T00:55:41.827Z
-updated: 2024-11-13T21:18:17.927Z
+date: 2024-11-19T20:03:16.817Z
+updated: 2024-11-22T20:58:08.434Z
 categories:
   - AOMEI-Backuper
 thumbnail: https://thmb.techidaily.com/1ecbe0134963fa333301ade42400de327d03477a104e3a0eb43938f94bc26b2e.jpg
@@ -17,6 +17,10 @@ thumbnail: https://thmb.techidaily.com/1ecbe0134963fa333301ade42400de327d03477a1
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Wie kann man den Papierkorb vom Desktop entfernen unter Windows 10?
 
@@ -62,13 +66,6 @@ Vor der dauerhaften Löschung des Papierkorbs sollten Sie sicherstellen, dass ke
 
 [![Windows-Einstellungen Personalisierung](https://www.ubackup.com/de/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/data-recovery/screenshot/de/other/windows/windows-settings-personalization.png "Windows-Einstellungen Personalisierung")
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014859/22899" target="_top" id="2014859">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014859" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014859/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **Schritt 2**. Klicken Sie auf die Schaltfläche „**Designs**“.
 
 [![Designs](https://www.ubackup.com/de/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/data-recovery/screenshot/de/other/windows/themes.png "Designs")
@@ -77,22 +74,16 @@ Vor der dauerhaften Löschung des Papierkorbs sollten Sie sicherstellen, dass ke
 
 [![Desktopsymbol-Einstellungen](https://www.ubackup.com/de/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/data-recovery/screenshot/de/other/windows/desktop-icon-settings.png "Desktopsymbol-Einstellungen")
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151870/7443" target="_top" id="2151870">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151870" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151870/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **Schritt 4**. Suchen Sie das „**Papierkorb**“-Symbol, entfernen Sie das Häkchen und bestätigen Sie mit „**Übernehmen**“ und „**OK**“.
 
 [![Papierkorb](https://www.ubackup.com/de/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/data-recovery/screenshot/de/other/windows/check-recycle-bin-click-ok.png "Papierkorb")
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047366/19272" target="_top" id="2047366">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047366" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047366/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Teil 2\. Wie kann man den Papierkorb vom Desktop entfernen?
@@ -108,10 +99,7 @@ Wenn Sie den Papierkorb mittels erhöhter Eingabeaufforderung zurücksetzen möc
 [![cmd Papierkorb zurücksetzen](https://www.ubackup.com/de/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/data-recovery/screenshot/de/other/windows/command-prompt/cmd-reset-recycle-bin.png "cmd Papierkorb zurücksetzen")
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134242/18498" target="_top" id="2134242">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134242" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134242/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Teil 3\. Wie kann man gelöschte Dateien aus dem Papierkorb nach dem Leeren wiederherstellen?
@@ -134,20 +122,21 @@ Sicherer Download
 
 [![Scan starten](https://www.ubackup.com/de/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/data-recovery/screenshot/de/data-recovery-disk/windows-recovery/select-c-to-scan.png "Scan starten")
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135407/19272" target="_top" id="2135407">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135407" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135407/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **Schritt 2**. Suchen Sie nach Ihren gewünschten Dateien oder warten Sie, um Ihre gelöschten und anderen fehlenden Dateien nach der Schnell- und Tiefenscan anzuzeigen.
 
 [![Laufwerk scannen](https://www.ubackup.com/de/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/data-recovery/screenshot/de/data-recovery-disk/windows-recovery/scanning-drive.png "Laufwerk scannen")
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Schritt 3**. Gehen Sie zum Papierkorb, um die gewünschten Dateien zu lokalisieren. Klicken Sie dann auf „**x Dateien wiederherstellen**“, um die ausgewählten Dateien wiederherzustellen. Speichern Sie diese wiederhergestellten Dateien bitte an einem neuen Ort.
 
 [![x Dateien wiederherstellen](https://www.ubackup.com/de/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/data-recovery/screenshot/de/data-recovery-disk/windows-recovery/select-deleted-excel-files-click-recover.png "x Dateien wiederherstellen")
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **Bonus-Tipps: Wie verhindert man Datenverlust auf Computern?**
 
@@ -193,16 +182,7 @@ Wenn Sie den Papierkorb vom Desktop aus leeren möchten, können Sie die im zwei
 Für [dauerhaft gelöschte Dateien können Sie Ihre Dateien](https://tools.techidaily.com/ubackup/products/) aus den von AOMEI Backupper erstellten Sicherungen wiederherstellen oder Datenrettungstools verwenden, um sie wiederherzustellen.
 
 <!-- affiliate ads begin -->
-<span id="1328683">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1328683.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1328683">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328683.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328683%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328683/15852" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Häufig gestellte Fragen
@@ -227,16 +207,13 @@ Waren die angebotenen Informationen nützlich? Ihre Stimme ist wichtig für uns!
 
 ![Holiday](https://www.ubackup.com/assets/images/author/Holiday.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 [Holiday](https://tools.techidaily.com/ubackup/products/) · Editor
 
 Holiday ist seit dem 1\. Juni 2020 bei AOMEI und beschäftigt sich mit Sichern & Wiederherstellen, Festplatten- und Partitionsverwaltung usw. für AOMEI. Ob Arbeit, Studien oder Leben, sie versucht gerne, neue Dinge zu lernen und denkt, dass Überraschungen auf sie warten, egal wann und wo.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135356/19272" target="_top" id="2135356">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135356" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135356/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Folgende Artikel könnten Sie auch interessieren
 
@@ -263,10 +240,7 @@ Waren die angebotenen Informationen nützlich? Ihre Stimme ist wichtig für uns!
 [Ja](https://tools.techidaily.com/ubackup/products/)[Nein](https://tools.techidaily.com/ubackup/products/)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100527/7443" target="_top" id="2100527">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100527" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100527/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## MyRecover Jetzt Kostenlos Erhalten
@@ -294,16 +268,21 @@ Wiederherstellen von gelöschten und verlorenen Daten aus allen Katastrophen in 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/new-2024-approved-capture-the-blue-depths-pro-tips-for-gopro-water-filming/"><u>[New] 2024 Approved Capture the Blue Depths Pro Tips for GoPro Water Filming</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-distinguished-pioneers-elite-insta-hlv-page-builders/"><u>[Updated] In 2024, Distinguished Pioneers Elite Insta HLV Page Builders</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-screen-mirroring-realme-note-50-to-pc-drfone-by-drfone-android/"><u>In 2024, How to Screen Mirroring Realme Note 50 to PC? | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/just-released-discover-whats-new-in-amazon-kids-with-our-latest-post-on-zdnet/"><u>Just Released! Discover What's New in Amazon Kids with Our Latest Post on ZDNet</u></a></li>
-<li><a href="https://discover-dash.techidaily.com/quick-guide-transforming-your-mod-media-files-into-high-quality-mp4-videos-without-hitches/"><u>Quick Guide: Transforming Your MOD Media Files Into High-Quality MP4 Videos Without Hitches</u></a></li>
-<li><a href="https://discover-dash.techidaily.com/simple-steps-to-convert-dvds-into-mkv-files-on-windows-11-and-10/"><u>Simple Steps to Convert DVDs Into MKV Files on Windows 11 and 10</u></a></li>
-<li><a href="https://discover-dash.techidaily.com/step-by-step-guide-copying-your-personal-collection-with-dvd-duplication/"><u>Step-by-Step Guide: Copying Your Personal Collection with DVD Duplication</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/step-by-step-legally-convert-youtube-to-mp4-format-for-2024/"><u>Step-by-Step Legally Convert YouTube to MP4 Format for 2024</u></a></li>
-<li><a href="https://discover-dash.techidaily.com/streamline-your-media-expert-tips-for-quick-and-effective-mov-to-mp3-file-transformation/"><u>Streamline Your Media: Expert Tips for Quick and Effective MOV to MP3 File Transformation</u></a></li>
-<li><a href="https://discover-dash.techidaily.com/understanding-dvd-rce-a-comprehensive-guide-on-copy-protection-and-removal-techniques/"><u>Understanding DVD RCE: A Comprehensive Guide on Copy Protection & Removal Techniques</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/unseen-ways-to-leverage-instagrams-query-symbol/"><u>Unseen Ways to Leverage Instagram's Query Symbol</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-from-basics-to-brilliance-the-fb-cover-video-journey-for-2024/"><u>[New] From Basics to Brilliance The FB Cover Video Journey for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-proven-tactics-increasing-your-instagram-video-traffic/"><u>[Updated] In 2024, Proven Tactics Increasing Your Instagram Video Traffic</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-immediate-screen-capture-on-mac-revealing-the-best-5-approaches/"><u>2024 Approved Immediate Screen Capture on Mac Revealing the Best 5 Approaches</u></a></li>
+<li><a href="https://discover-dash.techidaily.com/conversione-gratuita-da-mp3-a-wav-online-movavi/"><u>Conversione Gratuita Da MP3 a WAV Online - Movavi</u></a></li>
+<li><a href="https://discover-dash.techidaily.com/convertir-archivos-m4r-a-mp3-facilmente-y-sin-costo-alguno-con-el-poder-de-movavi/"><u>Convertir Archivos M4R a MP3 Fácilmente Y Sin Costo Alguno Con El Poder De Movavi</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/elex-ii-pc-optimization-stop-the-crashes-and-enjoy-uninterrupted-gaming/"><u>Elex II PC Optimization: Stop the Crashes and Enjoy Uninterrupted Gaming</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/expert-advice-on-crafting-an-ideal-video-conference-room/"><u>Expert Advice on Crafting an Ideal Video Conference Room</u></a></li>
+<li><a href="https://discover-dash.techidaily.com/free-online-converter-transform-wmv-files-into-mpeg-format-with-ease/"><u>Free Online Converter: Transform WMV Files Into MPEG Format with Ease</u></a></li>
+<li><a href="https://discover-dash.techidaily.com/gratis-omzetten-van-ppm-file-professionele-online-conversie-movavi/"><u>Gratis Omzetten Van PPM File: Professionele Online Conversie - Movavi</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-unlock-lava-storm-5g-pattern-lock-if-forgotten-6-ways-by-drfone-android/"><u>How to Unlock Lava Storm 5G Pattern Lock if Forgotten? 6 Ways</u></a></li>
+<li><a href="https://win-dash.techidaily.com/installing-your-hp-laserjet-5200-printer-on-windows-11-10-and-8-step-by-step-guide-and-drivers/"><u>Installing Your HP LaserJet 5200 Printer on Windows 11, 10 & 8: Step-by-Step Guide and Drivers</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/meteoric-quickbooks-data-retrieval/"><u>Meteoric QuickBooks Data Retrieval</u></a></li>
+<li><a href="https://discover-dash.techidaily.com/migliori-programmi-editoria-video-basati-su-intelligenza-artificiale-quelli-che-non-puoi-saltare-nel-2024/"><u>Migliori Programmi Editoria Video Basati Su Intelligenza Artificiale - Quelli Che Non Puoi Saltare Nel 2024</u></a></li>
+<li><a href="https://discover-dash.techidaily.com/movavi-online-and-3gpp-m4a-conversion-as-well-as-emphasizing-the-free-aspect-of-the-service-they-also-convey-a-similar-meaning-to-the-original-korean-title-35/"><u>Movavi, Online, and 3GPP M4A Conversion, as Well as Emphasizing the Free Aspect of the Service. They Also Convey a Similar Meaning to the Original Korean Title, Which Translates Roughly to Online Free 3GPP M4A Conversion with Movavi.</u></a></li>
+<li><a href="https://win-updates.techidaily.com/top-4-solutions-logicielles-pour-configurer-votre-cle-usb-en-mode-bootstrap-sous-windows-11/"><u>Top 4 Solutions Logicielles Pour Configurer Votre Clé USB en Mode Bootstrap Sous Windows 11</u></a></li>
+<li><a href="https://discover-dash.techidaily.com/transformacion-gratuita-de-mp2-a-linea-con-movavi/"><u>Transformación Gratuita De MP2 a Línea Con Movavi</u></a></li>
 </ul></div>
 
