@@ -1,7 +1,7 @@
 ---
 title: "Complete Guide: Restore Missing Drives on Windows 10/11 - A 4-Step Tutorial"
-date: 2024-11-21T19:31:43.515Z
-updated: 2024-11-22T16:46:27.905Z
+date: 2024-11-27T23:29:38.151Z
+updated: 2024-12-02T00:13:23.341Z
 categories:
   - AOMEI-Backuper
 thumbnail: https://thmb.techidaily.com/5d7dcfd1995cfb2b2cd35f38aacc2ff6a59f7f19a16a6dde32033f2c286a09f2.jpg
@@ -28,6 +28,10 @@ Da[Aira](https://tools.techidaily.com/ubackup/products/)L'ultimo Aggiornamento 3
 
 Condividi questo: ![facebook](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-fb-24.svg) ![twitter](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-tw-24.svg) ![instagram](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-in-24.svg) ![reddit](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-reddit-24.svg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Sommario** 
 
 1. [Introduzione](https://tools.techidaily.com/ubackup/products/)
@@ -50,7 +54,7 @@ Incontrare il problema di non poter digitare nella barra di ricerca di Windows 1
 [![non riesco a digitare nella barra di ricerca di windows 10](https://www.ubackup.com/it/articoli/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/it/others/log/can-t-type-in-search-bar-windows-10.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Capire il Problema di Non Poter Digitare nella Barra di Ricerca su Windows 10
@@ -73,6 +77,10 @@ Alcune applicazioni di terze parti o conflitti software potrebbero interferire c
 
 Ora, esploriamo cinque soluzioni per affrontare il problema di non poter digitare nulla nella casella di ricerca su Windows 10, garantendo un'esperienza utente fluida.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Soluzione 1: Riavvio dei Servizi Cortana e Ricerca di Windows
 
 Passo 1\. Apri il Task Manager:
@@ -90,10 +98,6 @@ Fai clic con il tasto destro su entrambi Cortana ed Esplora file di Windows e sc
 Passo 4\. Prova a Digitare nella Barra di Ricerca:
 
 Prova a digitare nella barra di ricerca dopo aver riavviato i servizi.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Soluzione 2: Esegui il Risolutore dei Problemi di Ricerca e Indicizzazione
 
@@ -114,7 +118,7 @@ Passo 4\. Segui le Istruzioni Visualizzate:
 Segui le istruzioni visualizzate per completare il processo di risoluzione dei problemi e verifica se il problema di non poter digitare nella barra di ricerca di Windows è risolto.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Soluzione 3: Ricostruisci le Opzioni di Indicizzazione
@@ -134,10 +138,6 @@ Sotto la scheda Opzioni Avanzate, clicca su "Ricostruisci."
 Passo 4\. Attendi il Completamento:
 
 Permetti al processo di indicizzazione di completarsi. Successivamente, controlla se il problema di non poter digitare nella barra di ricerca di Windows 10 persiste.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Soluzione 4: Controlla gli Aggiornamenti di Windows
 
@@ -179,10 +179,6 @@ Passo 6\. Testa la Barra di Ricerca:
 
 Nel nuovo account utente, testa la funzionalità della barra di ricerca. Se funziona, suggerisce che il problema potrebbe essere specifico del tuo account utente originale.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Utilizza AOMEI Backupper per la Protezione del Sistema su Windows 10
 
 Assicurarsi la protezione dei dati è cruciale durante la risoluzione dei problemi. Considera l'utilizzo di AOMEI Backupper per creare un backup del sistema di Windows 10.
@@ -203,6 +199,10 @@ Passo 4\. Avvia il Backup:
 
 Clicca su "Avvia Backup" per creare un backup completo del tuo sistema Windows 10.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Domande Frequenti su Impossibilità di Digitare nella Barra di Ricerca su Windows 10
 
 #1: Perché la mia barra di ricerca di Windows 10 non risponde alla digitazione?
@@ -217,10 +217,6 @@ La ricostruzione dell'indice non influisce sui file, ma migliora la funzionalit�
 
 Sì, AOMEI Backupper fornisce una soluzione affidabile per il ripristino del sistema in caso di problemi.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Consigli per un'Operazione Fluida di Windows 10
 
 Aggiorna regolarmente Windows per beneficiare degli ultimi miglioramenti e correzioni.
@@ -228,10 +224,6 @@ Aggiorna regolarmente Windows per beneficiare degli ultimi miglioramenti e corre
 Utilizza strumenti di risoluzione dei problemi come AOMEI Backupper per affrontare prontamente i problemi.
 
 Monitora i servizi di sistema come Cortana e Ricerca di Windows per un funzionamento ottimale.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Conclusione
 
@@ -255,6 +247,10 @@ Le informazioni fornite sono state utili? Il tuo voto è importante per noi!
 
 [Sì](https://tools.techidaily.com/ubackup/products/)[No](https://tools.techidaily.com/ubackup/products/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Scarica Gratis AOMEI Backupper Ora
 
 Proteggi tutti i dati del tuo computer con backup, sincronizzazione e clonazione.
@@ -262,6 +258,10 @@ Proteggi tutti i dati del tuo computer con backup, sincronizzazione e clonazione
 [**Scarica Gratuito**  Windows 11/10/8.1/8/7](https://tools.techidaily.com/ubackup/products/) 
 
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-secure-16.svg) 100% Pulito e Sicuro
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-medium-img-pc@2x.png)
 
@@ -280,22 +280,18 @@ Proteggi tutti i dati del tuo computer con backup, sincronizzazione e clonazione
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-foster-conversations-via-thoughtful-instagram-quiz-style-lives-for-2024/"><u>[New] Foster Conversations via Thoughtful Instagram Quiz-Style Lives for 2024</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/new-in-2024-breakthrough-tactic-unleash-mac-with-apple-watch/"><u>[New] In 2024, Breakthrough Tactic Unleash Mac with Apple Watch</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-smoothing-playback-the-truth-behind-frozen-photo-booth-videos/"><u>[Updated] Smoothing Playback The Truth Behind Frozen Photo Booth Videos</u></a></li>
-<li><a href="https://discover-dash.techidaily.com/1725287110559-dvd/"><u>「どんなDVDも対象：無料ダビングガイドⅡ」</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/a-close-look-at-dji-phantom-3s-high-end-capabilities-for-2024/"><u>A Close Look at DJI Phantom 3'S High-End Capabilities for 2024</u></a></li>
-<li><a href="https://discover-dash.techidaily.com/create-professional-quality-dvds-from-any-video-top-free-tools-for-windows-users-vista710/"><u>Create Professional-Quality DVDs From Any Video: Top Free Tools for Windows Users (Vista/7/10)</u></a></li>
-<li><a href="https://discover-dash.techidaily.com/digiarty-11dvd/"><u>Digiartyソフトウェアの正式なブログ記事: 11頁で解決するDVDコピー問題</u></a></li>
-<li><a href="https://discover-dash.techidaily.com/dvd-ripping-software-fur-apple-gerate-perfekt-konvertieren-von-dvds-auf-mac-iphone-und-ipad/"><u>DVD Ripping Software Für Apple Geräte: Perfekt Konvertieren Von DVDs Auf Mac, iPhone Und iPad</u></a></li>
-<li><a href="https://discover-dash.techidaily.com/informacion-completa-sobre-las-capacidades-de-winxvideos-inteligencia-artificial/"><u>Información Completa Sobre Las Capacidades De WinxVideo's Inteligencia Artificial</u></a></li>
-<li><a href="https://discover-dash.techidaily.com/mastering-seamless-transitions-guidelines-for-animation-and-anime-smoothing/"><u>Mastering Seamless Transitions: Guidelines for Animation and Anime Smoothing</u></a></li>
-<li><a href="https://discover-dash.techidaily.com/mastering-video-editing-with-winxvideo-ai-user-guide-and-step-by-step-tutorial-for-optimization-and-conversion/"><u>Mastering Video Editing with Winxvideo AI : User Guide & Step-by-Step Tutorial for Optimization and Conversion</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/resolved-fixing-insufficient-system-resources-errors-in-your-application/"><u>Resolved: Fixing 'Insufficient System Resources' Errors in Your Application</u></a></li>
-<li><a href="https://fox-that.techidaily.com/struggling-with-iphones-auto-brightness-feature-discover-7-quick-fixes-here/"><u>Struggling With iPhone's Auto-Brightness Feature? Discover 7 Quick Fixes Here</u></a></li>
-<li><a href="https://discover-dash.techidaily.com/the-best-10-pc-based-video-editors-a-comprehensive-guide/"><u>The Best 10 PC-Based Video Editors: A Comprehensive Guide</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/1168805-9781577313113-the-power-of-now/"><u>The Power of Now | Free Book</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/troubleshooting-steps-resolve-plugin-service-connectivity-problems-with-chatgpt/"><u>Troubleshooting Steps: Resolve Plugin Service Connectivity Problems with ChatGPT</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/wochenabschnitte-deutscher-sprache-nachlesen/"><u>Wochenabschnitte Deutscher Sprache Nachlesen</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-broadcast-battle-which-platform-wins-for-2024/"><u>[Updated] Broadcast Battle Which Platform Wins for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-top-5-budget-friendly-chromebook-recorders/"><u>[Updated] Top 5 Budget-Friendly Chromebook Recorders</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024-approved-arcade-adventurers-approaches/"><u>2024 Approved ARCADE ADVENTURERS' APPROACHES</u></a></li>
+<li><a href="https://discover-dash.techidaily.com/anticipating-upgrades-in-the-next-gen-iphone-15-pro-compared-to-my-experience-with-the-iphone/"><u>Anticipating Upgrades in the Next Gen iPhone 15 Pro Compared to My Experience with the iPhone</u></a></li>
+<li><a href="https://discover-dash.techidaily.com/comprehensive-analysis-of-the-nzxt-function-2-minitkl-a-gamers-near-perfect-companion/"><u>Comprehensive Analysis of the NZXT Function 2 MiniTKL - A Gamer's Near-Perfect Companion</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/connect-worlds-quickly-sharing-tiktoks-with-facebook-for-2024/"><u>Connect Worlds Quickly Sharing TikToks with Facebook for 2024</u></a></li>
+<li><a href="https://discover-dash.techidaily.com/experience-supreme-comfort-and-quality-with-the-bose-quietcomfort-35-ii-for-travelers-in-depth-review/"><u>Experience Supreme Comfort and Quality with the Bose QuietComfort 35 II for Travelers – In-Depth Review!</u></a></li>
+<li><a href="https://discover-dash.techidaily.com/highly-rated-intel-core-i9-14900k-cpu-reviewed-revolutionizing-computers-with-accessible-6ghz-processor-speed/"><u>Highly Rated Intel Core I9-14900K CPU Reviewed: Revolutionizing Computers with Accessible 6GHz Processor Speed</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/mp4-and-mov-explained-choosing-between-audio-video-codes-with-insights-from-movavi-video-converter/"><u>MP4 and MOV Explained: Choosing Between Audio-Video Codes with Insights From Movavi Video Converter</u></a></li>
+<li><a href="https://review-topics.techidaily.com/remove-google-frp-lock-on-motorola-moto-g24-by-drfone-android-unlock-remove-google-frp/"><u>Remove Google FRP Lock on Motorola Moto G24</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210167073-9781684092260-the-mscp-principle/"><u>The MSCP Principle | Free Book</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/understanding-predictive-ai-a-simplified-overview/"><u>Understanding Predictive AI - A Simplified Overview</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/what-is-the-significance-of-the-turing-test-in-ai-evolution-and-can-it-be-conquered-by-machines/"><u>What Is the Significance of the Turing Test in AI Evolution and Can It Be Conquered by Machines?</u></a></li>
 </ul></div>
 
