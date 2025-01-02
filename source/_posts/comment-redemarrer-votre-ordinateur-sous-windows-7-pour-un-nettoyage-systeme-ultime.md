@@ -1,7 +1,7 @@
 ---
 title: Comment Redémarrer Votre Ordinateur Sous Windows 7 Pour Un Nettoyage Système Ultime
-date: 2024-12-17T16:23:47.042Z
-updated: 2024-12-24T17:26:38.835Z
+date: 2024-12-30T05:57:54.849Z
+updated: 2024-12-30T21:03:05.019Z
 categories:
   - AOMEI-Backuper
 thumbnail: https://thmb.techidaily.com/b43da9b8fec14dde01c0becd6729005fd0db59f099a461c4a5b1f228776ffdea.jpg
@@ -25,16 +25,12 @@ Vous obtiendrez le logiciel de sauvegarde NAS Buffalo le plus simple pour Window
 ![Aurore](https://www.ubackup.com/assets/images/author/aurore.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Par[Aurore](https://tools.techidaily.com/ubackup/products/)Publié le 26/06/2024
 
 Partager sur : ![facebook](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-fb-24.svg) ![twitter](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-tw-24.svg) ![instagram](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-in-24.svg) ![reddit](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-reddit-24.svg) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **Table des matières** 
 
@@ -81,6 +77,10 @@ Avant de commencer à sauvegarder des fichiers avec le logiciel de sauvegarde NA
 
 [![sauvegarde de fichiers](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/sauvegarde-fichier/sauvegarde-de-fichiers.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Vous pouvez également choisir _Sauvegarde de disque_ et _Sauvegarde de partition_. Si vous souhaitez sauvegarder le système sur le NAS Buffalo, essayez la fonctionnalité de [Sauvegarde système](https://tools.techidaily.com/ubackup/products/).
 
 **Étape 2.** Sélectionnez les fichiers ou les dossiers sur le lecteur NAS Buffalo.
@@ -94,7 +94,7 @@ Cliquez sur **Share/NAS** pour ouvrir la fenêtre suivante.
 [![share/nas](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/sauvegarde-fichier/ouvrir.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Ensuite, cliquez sur **Ajouter un périphérique Share ou NAS**, saisissez le nom d'affichage, l'adresse IP, le nom d'utilisateur et le mot de passe pour connecter votre espace de stockage NAS Buffalo. Double-cliquez ensuite dessus dans le volet de gauche et sélectionnez ce que vous souhaitez sauvegarder dans la liste de droite.
@@ -110,7 +110,7 @@ Ensuite, cliquez sur **Ajouter un périphérique Share ou NAS**, saisissez le no
 [![mode planifier](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/mode-planifier.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Par défaut, ce logiciel créera une sauvegarde complète et 6 sauvegardes incrémentielles si vous définissez une tâche de sauvegarde planifiée. Cela peut entraîner un problème d'espace disque plein à long terme, il est donc recommandé d'activer le [Plan de sauvegarde](https://tools.techidaily.com/ubackup/products/) et de supprimer automatiquement les fichiers de sauvegarde. Pour profiter de ces fonctions, passez à l'édition [Professional](https://tools.techidaily.com/ubackup/products/).
@@ -122,7 +122,7 @@ De plus, vous pouvez activer la notification par e-mail une fois la tâche termi
 [![options](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/options-sauvegarder/sauvegarde-options.png "AOMEI Email SMS Notification Settings")
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Dernières réflexions sur l'utilitaire de sauvegarde Buffalo
@@ -140,10 +140,6 @@ Les informations fournies sont-elles utiles ? Votre vote compte beaucoup pour no
 [Oui](https://tools.techidaily.com/ubackup/products/)[Non](https://tools.techidaily.com/ubackup/products/)
 
 ![Aurore](https://www.ubackup.com/assets/images/author/aurore.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 [Aurore](https://tools.techidaily.com/ubackup/products/) · Éditeur
 
@@ -181,6 +177,10 @@ Protégez toutes les données de votre ordinateur avec la sauvegarde, la synchro
 
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-secure-16.svg) 100% Propre & Sûr
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-medium-img-pc@2x.png)
 
 <ins class="adsbygoogle"
@@ -198,17 +198,20 @@ Protégez toutes les données de votre ordinateur avec la sauvegarde, la synchro
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-zero.techidaily.com/nlocking-video-potential-the-best-vlogging-cameras-ranked-for-2024/"><u>[New] Unlocking Video Potential The Best Vlogging Cameras Ranked for 2024</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/updated-2024-approved-mastering-video-conversion-save-vimeo-videos-as-mp4/"><u>[Updated] 2024 Approved Mastering Video Conversion Save Vimeo Videos as MP4</u></a></li>
-<li><a href="https://discover-dash.techidaily.com/activating-auto-update-feature-on-mozilla-firefox-a-step-by-step-guide/"><u>Activating Auto-Update Feature on Mozilla Firefox: A Step-by-Step Guide</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/diy-tips-for-crafting-your-own-iphone-tones/"><u>DIY Tips for Crafting Your Own iPhone Tones</u></a></li>
-<li><a href="https://discover-dash.techidaily.com/effortless-pdf-integration-made-simple-by-yl-softwares-advanced-tools/"><u>Effortless PDF Integration Made Simple by YL Software's Advanced Tools</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/how-do-you-get-sun-stone-evolutions-in-pokemon-for-infinix-zero-30-5g-drfone-by-drfone-virtual-android/"><u>How Do You Get Sun Stone Evolutions in Pokémon For Infinix Zero 30 5G? | Dr.fone</u></a></li>
-<li><a href="https://discover-dash.techidaily.com/how-to-check-if-your-gpu-works-on-different-windows-versions-insights-from-yl-computing/"><u>How to Check If Your GPU Works on Different Windows Versions: Insights From YL Computing</u></a></li>
-<li><a href="https://discover-dash.techidaily.com/master-file-movement-within-your-pc-using-microsoft-windows-insights-from-yl-software-experts/"><u>Master File Movement Within Your PC Using Microsoft Windows: Insights From YL Software Experts</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/overcoming-unresponsive-windows-outlook-conditional-rules/"><u>Overcoming Unresponsive Windows Outlook Conditional Rules</u></a></li>
-<li><a href="https://driver-install.techidaily.com/quick-windows-driver-refresh-tips-win-11817-edition/"><u>Quick Windows Driver Refresh Tips (Win 11/8.1/7 Edition)</u></a></li>
-<li><a href="https://discover-dash.techidaily.com/reviving-damaged-computer-parts-with-specialized-repair-tools-insights-from-yl-software-solutions/"><u>Reviving Damaged Computer Parts with Specialized Repair Tools: Insights From YL Software Solutions</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/step-by-step-tutorial-keeping-your-tv-remote-germ-free-and-fresh/"><u>Step-by-Step Tutorial: Keeping Your TV Remote Germ-Free and Fresh</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-2024-approved-secure-method-storing-tweet-imagesvideos-on-your-mobile/"><u>[New] 2024 Approved Secure Method Storing Tweet Images/Videos on Your Mobile</u></a></li>
+<li><a href="https://discover-dash.techidaily.com/7-effective-strategies-for-reducing-file-size-converting-4k-footage-to-high-quality-hd-1080p/"><u>7 Effective Strategies for Reducing File Size: Converting 4K Footage to High-Quality HD (1080P)</u></a></li>
+<li><a href="https://discover-dash.techidaily.com/winx-dvddigiarty-software-and/"><u>官方WinX DVD專用解碼器：Digiarty Software提供的全面支持 & 關鍵性更新</u></a></li>
+<li><a href="https://discover-dash.techidaily.com/can-handbrake-encrypt-av1-video-formats-for-streaming-and-downloading/"><u>Can HandBrake Encrypt AV1 Video Formats for Streaming and Downloading?</u></a></li>
+<li><a href="https://techidaily.com/complete-guide-to-hard-reset-your-nokia-g22-drfone-by-drfone-reset-android-reset-android/"><u>Complete Guide to Hard Reset Your Nokia G22 | Dr.fone</u></a></li>
+<li><a href="https://discover-dash.techidaily.com/expert-assistance-hub-online-guidance-for-winx-dvd-ripping-and-video-conversion-tools/"><u>Expert Assistance Hub: Online Guidance for WinX DVD Ripping & Video Conversion Tools</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exploring-reasons-behind-purchasing-damaged-macbook-pro-displays-a-deep-dive-by-zdnet/"><u>Exploring Reasons Behind Purchasing Damaged MacBook Pro Displays: A Deep Dive by ZDNet</u></a></li>
+<li><a href="https://discover-dash.techidaily.com/get-the-authentic-winx-experience-free-full-featured-dvd-ripping-and-hd-video-conversion-suite/"><u>Get the Authentic WinX Experience: Free Full-Featured DVD Ripping and HD Video Conversion Suite</u></a></li>
+<li><a href="https://techtrends.techidaily.com/how-to-address-when-d3dx92missingnot-found-dll-cannot-be-located/"><u>How to Address When D3dx9_2([missing|not Found]) DLL Cannot Be Located</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-process-of-screen-sharing-vivo-y27-5g-to-pc-detailed-steps-drfone-by-drfone-android/"><u>In 2024, Process of Screen Sharing Vivo Y27 5G to PC- Detailed Steps | Dr.fone</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-ultimate-guide-on-realme-11-5g-frp-bypass-by-drfone-android/"><u>In 2024, Ultimate Guide on Realme 11 5G FRP Bypass</u></a></li>
+<li><a href="https://driver-download.techidaily.com/resolving-compatibility-issues-with-ralink-rt3290-drivers-on-microsofts-operating-systems/"><u>Resolving Compatibility Issues with Ralink RT3290 Drivers on Microsoft's Operating Systems</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/sarah-silverman-joins-legal-battle-against-openai-and-meta-the-fight-over-artificial-intelligence/"><u>Sarah Silverman Joins Legal Battle Against OpenAI & Meta: The Fight Over Artificial Intelligence</u></a></li>
+<li><a href="https://discover-dash.techidaily.com/telecharger-et-jouer-gratuitement-la-playlist-en-4k-avec-le-telechargement-video-4k-optimal/"><u>Télécharger Et Jouer Gratuitement La Playlist en 4K Avec Le Téléchargement Vidéo 4K Optimal</u></a></li>
+<li><a href="https://discover-dash.techidaily.com/which-is-more-effective-for-your-needs-comparing-handbrake-and-vlc-as-top-video-convertors/"><u>Which Is More Effective for Your Needs: Comparing HandBrake and VLC as Top Video Convertors</u></a></li>
 </ul></div>
 
