@@ -1,7 +1,7 @@
 ---
 title: Soluções Para Recuperar Pastas De Acesso Rápido Perdidas No Explorador De Arquivos Do Windows 10
-date: 2025-01-05T16:09:46.498Z
-updated: 2025-01-09T16:20:17.778Z
+date: 2025-01-24T16:31:04.958Z
+updated: 2025-01-27T16:16:54.186Z
 categories:
   - AOMEI-Backuper
 thumbnail: https://thmb.techidaily.com/7104eb033fbf632865800cb348d315fa27012665cace64350a90155028571e6d.jpg
@@ -25,7 +25,7 @@ Vous obtiendrez le logiciel de sauvegarde NAS Buffalo le plus simple pour Window
 ![Aurore](https://www.ubackup.com/assets/images/author/aurore.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Par[Aurore](https://tools.techidaily.com/ubackup/products/)Publié le 26/06/2024
@@ -70,7 +70,7 @@ Meilleur logiciel de sauvegarde Windows gratuit pour usage personnel.
 [**Télécharger gratuiciel** Windows 11/10/8.1/8/7](https://tools.techidaily.com/ubackup/products/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Comment utiliser le logiciel de sauvegarde NAS Buffalo pour Windows pour sauvegarder des fichiers
@@ -80,6 +80,10 @@ Avant de commencer à sauvegarder des fichiers avec le logiciel de sauvegarde NA
 **Étape 1.** Lancez AOMEI Backuppper Standard, cliquez sur **Sauvegarder**, puis sur **Sauvegarde de fichiers**.
 
 [![sauvegarde de fichiers](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/sauvegarde-fichier/sauvegarde-de-fichiers.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Vous pouvez également choisir _Sauvegarde de disque_ et _Sauvegarde de partition_. Si vous souhaitez sauvegarder le système sur le NAS Buffalo, essayez la fonctionnalité de [Sauvegarde système](https://tools.techidaily.com/ubackup/products/).
 
@@ -93,9 +97,17 @@ Cliquez sur **Share/NAS** pour ouvrir la fenêtre suivante.
 
 [![share/nas](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/sauvegarde-fichier/ouvrir.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Ensuite, cliquez sur **Ajouter un périphérique Share ou NAS**, saisissez le nom d'affichage, l'adresse IP, le nom d'utilisateur et le mot de passe pour connecter votre espace de stockage NAS Buffalo. Double-cliquez ensuite dessus dans le volet de gauche et sélectionnez ce que vous souhaitez sauvegarder dans la liste de droite.
 
 [![ajouter périphérique share ou nas](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/sauvegarde-fichier/emplacement-reseau.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Étape 3.** Cliquez là où la flèche pointe et sélectionnez le disque externe préparé comme destination.
 
@@ -105,6 +117,10 @@ Ensuite, cliquez sur **Ajouter un périphérique Share ou NAS**, saisissez le no
 
 [![mode planifier](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/mode-planifier.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Par défaut, ce logiciel créera une sauvegarde complète et 6 sauvegardes incrémentielles si vous définissez une tâche de sauvegarde planifiée. Cela peut entraîner un problème d'espace disque plein à long terme, il est donc recommandé d'activer le [Plan de sauvegarde](https://tools.techidaily.com/ubackup/products/) et de supprimer automatiquement les fichiers de sauvegarde. Pour profiter de ces fonctions, passez à l'édition [Professional](https://tools.techidaily.com/ubackup/products/).
 
 Et la sauvegarde incrémentielle nécessite une récupération plus complexe tandis que la sauvegarde différentielle est beaucoup plus facile. Pour connaître les différences entre elles, consultez « [Sauvegarde incrémentielle ou différentielle](https://tools.techidaily.com/ubackup/products/) ».
@@ -112,10 +128,6 @@ Et la sauvegarde incrémentielle nécessite une récupération plus complexe tan
 De plus, vous pouvez activer la notification par e-mail une fois la tâche terminée. Commenter, fractionner, compresser l'image de sauvegarde ou sélectionner un mode de sauvegarde, etc.
 
 [![options](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/options-sauvegarder/sauvegarde-options.png "AOMEI Email SMS Notification Settings")
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Dernières réflexions sur l'utilitaire de sauvegarde Buffalo
 
@@ -132,10 +144,6 @@ Les informations fournies sont-elles utiles ? Votre vote compte beaucoup pour no
 [Oui](https://tools.techidaily.com/ubackup/products/)[Non](https://tools.techidaily.com/ubackup/products/)
 
 ![Aurore](https://www.ubackup.com/assets/images/author/aurore.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 [Aurore](https://tools.techidaily.com/ubackup/products/) · Éditeur
 
@@ -162,7 +170,7 @@ Les informations fournies sont-elles utiles ? Votre vote compte beaucoup pour no
 [Oui](https://tools.techidaily.com/ubackup/products/)[Non](https://tools.techidaily.com/ubackup/products/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Obtenez gratuitement AOMEI Backupper
@@ -173,15 +181,7 @@ Protégez toutes les données de votre ordinateur avec la sauvegarde, la synchro
 
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-secure-16.svg) 100% Propre & Sûr
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-medium-img-pc@2x.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -198,18 +198,17 @@ Protégez toutes les données de votre ordinateur avec la sauvegarde, la synchro
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-cloud.techidaily.com/new-inside-look-how-does-vr-headgear-work-for-2024/"><u>[New] Inside Look How Does VR Headgear Work for 2024</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/updated-a-filmmakers-handbook-mastering-close-up-videography/"><u>[Updated] A Filmmaker's Handbook Mastering Close-Up Videography</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-a-complete-list-of-creative-and-catchy-youtube-channel-titles-for-modern-blogging-maximum-length-156-characters/"><u>[Updated] In 2024, A Complete List of Creative and Catchy YouTube Channel Titles for Modern Blogging (Maximum Length 156 Characters)</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/updated-linkedin-profile-video-introduction-scope-dimensions-minutes-for-2024/"><u>[Updated] LinkedIn Profile Video Introduction Scope, Dimensions, Minutes for 2024</u></a></li>
-<li><a href="https://discover-dash.techidaily.com/1726225594069-rw2-png-movavi/"><u>無料網上 RW2 到 PNG 轉換 - 使用 Movavi 工具</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/crafting-stories-the-ultimate-youtube-channel-list-for-2024/"><u>Crafting Stories - The Ultimate YouTube Channel List for 2024</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/exploring-gpt-4-amidst-verified-social-landscape/"><u>Exploring GPT-4 Amidst Verified Social Landscape</u></a></li>
-<li><a href="https://discover-dash.techidaily.com/free-online-3gpp-to-gif-converter-movavi/"><u>Free Online 3GPP to GIF Converter - Movavi</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/how-to-fix-a-non-responsive-android-phone-expert-troubleshooting-guide/"><u>How to Fix a Non-Responsive Android Phone: Expert Troubleshooting Guide</u></a></li>
-<li><a href="https://discover-dash.techidaily.com/movavi-mkvflv/"><u>Movavi - 快適なフリーオンライン動画変換サービス - MKVとFLVを簡単に変換</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/pro-phone-face-off-google-pixel-6-pro-versus-apple-iphone-13-pro-making-the-smart-choice/"><u>Pro Phone Face-Off: Google Pixel ‌6 Pro versus Apple iPhone 13 Pro – Making the Smart Choice</u></a></li>
-<li><a href="https://techidaily.com/repair-video-tool-repair-all-your-damaged-video-files-of-infinix-note-30-pro-on-windows-by-stellar-video-repair-mobile-video-repair/"><u>Repair Video Tool - Repair all your damaged video files of Infinix Note 30 Pro on Windows</u></a></li>
-<li><a href="https://discover-dash.techidaily.com/windows-ve-mac-kabul-edersemizse-mp4-formatted-videosinin-8-mtste-donusturulmesine-yaklasmamizin-en-etkili-uzerine-yaptigi-durumlarimiz-ozellikleri-ve-tutul15/"><u>Windows Ve Mac Kabul Edersemizse, MP4-Formatted Videosinin 8 MTS'te Dönüştürülmesine Yaklaşmamızın En Etkili Üzerine Yaptığı Durumlarımız: Özellikleri Ve Tutulduktaki Riske</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-top-10-free-recorders-enhancing-virtual-meetings/"><u>[New] Top 10 Free Recorders Enhancing Virtual Meetings</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-in-2024-assessing-video-streaming-giants-vs-manycam/"><u>[Updated] In 2024, Assessing Video Streaming Giants Vs. ManyCam</u></a></li>
+<li><a href="https://discover-dash.techidaily.com/1-free-online-mp4-to-wav-converter-omveckar-and-video-konvertera/"><u>1. Free Online MP4 to WAV Converter - Omveckar & Video Konvertera</u></a></li>
+<li><a href="https://discover-dash.techidaily.com/mp2-ogg-movavi/"><u>無限量 MP2-OGG格式傳送網上免費移動 - 使用Movavi直達</u></a></li>
+<li><a href="https://discover-dash.techidaily.com/achetez-la-solution-video-daffaires-de-movavi-performante-convenable-et-economique/"><u>Achetez La Solution Vidéo D'affaires De Movavi: Performante, Convenable Et Économique!</u></a></li>
+<li><a href="https://discover-dash.techidaily.com/creative-bildbearbeitung-mit-filtern-und-effekten-im-movavi-fotobetrachter/"><u>Creative Bildbearbeitung Mit Filtern Und Effekten Im Movavi Fotobetrachter</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/expertly-curated-film-guide-20-choices-to-watch-now-from-lifewire/"><u>Expertly Curated Film Guide: 20 Choices to Watch Now From Lifewire</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-locating-your-own-melodic-treasure-trove-in-youtubes-vault/"><u>In 2024, Locating Your Own Melodic Treasure Trove in YouTube's Vault</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/insignia-vga-to-usb-cable-free-driver-downloads-and-easy-setup/"><u>Insignia VGA-to-USB Cable: Free Driver Downloads and Easy Setup</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/is-fake-gps-location-spoofer-a-good-choice-on-motorola-razr-40-drfone-by-drfone-virtual-android/"><u>Is Fake GPS Location Spoofer a Good Choice On Motorola Razr 40? | Dr.fone</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/melhores-utilitarios-gratuitos-para-ripagem-de-dvd-em-windows-1011-baixe-a-versao-completa/"><u>Melhores Utilitários Gratuitos Para Ripagem De DVD Em Windows 10/11 - Baixe a Versão Completa</u></a></li>
+<li><a href="https://win-wonderful.techidaily.com/windows-11-mirrorfolder/"><u>Windows 11 影像抽取器 MirrorFolder: 簡易版複製解決方案</u></a></li>
 </ul></div>
 

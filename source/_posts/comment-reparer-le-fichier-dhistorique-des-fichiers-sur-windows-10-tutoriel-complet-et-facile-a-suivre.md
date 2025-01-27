@@ -1,7 +1,7 @@
 ---
 title: Comment Réparer Le Fichier D'Historique Des Fichiers Sur Windows 10 - Tutoriel Complet Et Facile À Suivre
-date: 2025-01-15T18:23:08.904Z
-updated: 2025-01-21T02:34:03.383Z
+date: 2025-01-20T16:03:49.098Z
+updated: 2025-01-27T16:17:28.661Z
 categories:
   - AOMEI-Backuper
 thumbnail: https://thmb.techidaily.com/e9acc6aa08cfa474d06b70d099285d874e59f0982ea9c5cdd47970e026d0c0b2.jpg
@@ -28,6 +28,10 @@ Da[Aira](https://tools.techidaily.com/ubackup/products/)L'ultimo Aggiornamento 3
 
 Condividi questo: ![facebook](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-fb-24.svg) ![twitter](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-tw-24.svg) ![instagram](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-in-24.svg) ![reddit](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-reddit-24.svg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Sommario** 
 
 1. [Introduzione](https://tools.techidaily.com/ubackup/products/)
@@ -49,10 +53,6 @@ Incontrare il problema di non poter digitare nella barra di ricerca di Windows 1
 
 [![non riesco a digitare nella barra di ricerca di windows 10](https://www.ubackup.com/it/articoli/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/it/others/log/can-t-type-in-search-bar-windows-10.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Capire il Problema di Non Poter Digitare nella Barra di Ricerca su Windows 10
 
 La barra di ricerca di Windows 10 funge da strumento centrale per un accesso rapido alle app, ai file e alle impostazioni. Quando ti ritrovi impossibilitato a digitare in questa funzione essenziale, sorgono preoccupazioni riguardo alla funzionalità del sistema e alla produttività. Le possibili cause di questo problema sono:
@@ -73,10 +73,6 @@ Alcune applicazioni di terze parti o conflitti software potrebbero interferire c
 
 Ora, esploriamo cinque soluzioni per affrontare il problema di non poter digitare nulla nella casella di ricerca su Windows 10, garantendo un'esperienza utente fluida.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Soluzione 1: Riavvio dei Servizi Cortana e Ricerca di Windows
 
 Passo 1\. Apri il Task Manager:
@@ -96,7 +92,7 @@ Passo 4\. Prova a Digitare nella Barra di Ricerca:
 Prova a digitare nella barra di ricerca dopo aver riavviato i servizi.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Soluzione 2: Esegui il Risolutore dei Problemi di Ricerca e Indicizzazione
@@ -118,7 +114,7 @@ Passo 4\. Segui le Istruzioni Visualizzate:
 Segui le istruzioni visualizzate per completare il processo di risoluzione dei problemi e verifica se il problema di non poter digitare nella barra di ricerca di Windows è risolto.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Soluzione 3: Ricostruisci le Opzioni di Indicizzazione
@@ -179,6 +175,10 @@ Passo 6\. Testa la Barra di Ricerca:
 
 Nel nuovo account utente, testa la funzionalità della barra di ricerca. Se funziona, suggerisce che il problema potrebbe essere specifico del tuo account utente originale.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Utilizza AOMEI Backupper per la Protezione del Sistema su Windows 10
 
 Assicurarsi la protezione dei dati è cruciale durante la risoluzione dei problemi. Considera l'utilizzo di AOMEI Backupper per creare un backup del sistema di Windows 10.
@@ -199,6 +199,10 @@ Passo 4\. Avvia il Backup:
 
 Clicca su "Avvia Backup" per creare un backup completo del tuo sistema Windows 10.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Domande Frequenti su Impossibilità di Digitare nella Barra di Ricerca su Windows 10
 
 #1: Perché la mia barra di ricerca di Windows 10 non risponde alla digitazione?
@@ -214,7 +218,7 @@ La ricostruzione dell'indice non influisce sui file, ma migliora la funzionalit�
 Sì, AOMEI Backupper fornisce una soluzione affidabile per il ripristino del sistema in caso di problemi.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Consigli per un'Operazione Fluida di Windows 10
@@ -237,10 +241,6 @@ Le informazioni fornite sono state utili? Il tuo voto è importante per noi!
 
 ![Aira](https://www.ubackup.com/assets/images/author/aira.jpg) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 [Aira](https://tools.techidaily.com/ubackup/products/) · Editore
 
 Aira è l'editore tecnico di AOMEI, principalmente responsabile di AOMEI Backupper. Le piace aiutare gli utenti con domande su backup e ripristino del computer, clonazione del disco, sincronizzazione e altro ancora. Ha scritto molti articoli su AOMEI Backupper. Nel tempo libero ama fare sport e guardare film. Come un redattore professionale di AOMEI. Aira sarà felice di aiutarti.
@@ -251,6 +251,10 @@ Le informazioni fornite sono state utili? Il tuo voto è importante per noi!
 
 [Sì](https://tools.techidaily.com/ubackup/products/)[No](https://tools.techidaily.com/ubackup/products/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Scarica Gratis AOMEI Backupper Ora
 
 Proteggi tutti i dati del tuo computer con backup, sincronizzazione e clonazione.
@@ -258,10 +262,6 @@ Proteggi tutti i dati del tuo computer con backup, sincronizzazione e clonazione
 [**Scarica Gratuito**  Windows 11/10/8.1/8/7](https://tools.techidaily.com/ubackup/products/) 
 
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-secure-16.svg) 100% Pulito e Sicuro
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-medium-img-pc@2x.png)
 
@@ -280,16 +280,17 @@ Proteggi tutti i dati del tuo computer con backup, sincronizzazione e clonazione
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-http.techidaily.com/new-continuous-improvement-regularly-practice-and-evaluate-your-listening-skills-identifying-areas-for-improvement-30-new-titles-that-convey-similar-meaning/"><u>[New] Continuous Improvement Regularly Practice and Evaluate Your Listening Skills, Identifying Areas for Improvement. 30 New Titles that Convey Similar Meanings to How to Change Your Voice in Free Fire Game? [Free Solution Included] for 2024</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-2024-approved-trustworthy-tactics-for-multiplying-a-million-views-on-youtube/"><u>[Updated] 2024 Approved Trustworthy Tactics for Multiplying a Million Views on YouTube</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-unleash-the-potential-of-youtube-videos-through-strategic-chapters-and-segments/"><u>[Updated] 2024 Approved Unleash the Potential of YouTube Videos Through Strategic Chapters and Segments</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/chapter-1-registering-for-chatgpts-latest-extensions/"><u>Chapter 1: Registering for ChatGPT's Latest Extensions</u></a></li>
-<li><a href="https://discover-dash.techidaily.com/does-windows-8-or-windows-7-come-with-built-in-antivirus-protection/"><u>Does Windows 8 or Windows 7 Come with Built-In Antivirus Protection?</u></a></li>
-<li><a href="https://discover-dash.techidaily.com/enhancing-gameplay-easy-modifications-to-boost-your-gaming-experience-yl-computing/"><u>Enhancing Gameplay: Easy Modifications to Boost Your Gaming Experience - YL Computing</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/fb-quick-views-snap-and-share-for-2024/"><u>FB Quick Views Snap & Share for 2024</u></a></li>
-<li><a href="https://discover-dash.techidaily.com/identifying-key-factors-in-audio-interface-breakdowns-expert-analysis-by-yl-software/"><u>Identifying Key Factors in Audio Interface Breakdowns: Expert Analysis by YL Software</u></a></li>
-<li><a href="https://discover-dash.techidaily.com/mastering-time-adjustments-navigating-through-windows-clock-configuration-options-digitalwizards-blog/"><u>Mastering Time Adjustments: Navigating Through Windows' Clock Configuration Options - DigitalWizards Blog</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/unleashing-full-potential-of-zoom-with-chromebook-for-2024/"><u>Unleashing Full Potential of Zoom with Chromebook for 2024</u></a></li>
-<li><a href="https://discover-dash.techidaily.com/verifying-pc-hardware-compatibility-on-your-windows-machine-tips-and-techniques-by-yl-computing/"><u>Verifying PC Hardware Compatibility on Your Windows Machine - Tips & Techniques by YL Computing</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-secrets-to-successfully-obtain-windows-movie-maker-6/"><u>[New] Secrets to Successfully Obtain Windows Movie Maker 6</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/affordable-charm-find-a-cute-sub-20-usb-c-charger/"><u>Affordable Charm: Find a Cute, Sub-$20 USB-C Charger!</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/gpt-savvy-saving-conversations-for-later-use/"><u>GPT-Savvy: Saving Conversations for Later Use</u></a></li>
+<li><a href="https://solve-howtos.techidaily.com/how-to-fix-a-non-responsive-computer-tips-from-yl-software-specialists/"><u>How To Fix A Non-Responsive Computer: Tips From YL Software Specialists</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-9-best-phone-monitoring-apps-for-oppo-reno-8t-5g-drfone-by-drfone-virtual-android/"><u>In 2024, 9 Best Phone Monitoring Apps for Oppo Reno 8T 5G | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-ultimate-guide-to-securing-photographic-backdrops/"><u>In 2024, Ultimate Guide to Securing Photographic Backdrops</u></a></li>
+<li><a href="https://fox-links.techidaily.com/noir-effects-in-adobe-premiere/"><u>Noir Effects in Adobe Premiere</u></a></li>
+<li><a href="https://discover-dash.techidaily.com/step-by-step-guide-fixing-hard-disk-issues-tech-tips-from-yl-computing/"><u>Step-by-Step Guide: Fixing Hard Disk Issues - Tech Tips From YL Computing</u></a></li>
+<li><a href="https://discover-dash.techidaily.com/tech-breakdown-wintermute-relocates-over-49-million-blur-to-coinbase-previous-shifts-include-significant-7m-to-exchanges-reveals-scopescan-analysis-by-yl-so24/"><u>Tech Breakdown: Wintermute Relocates Over 49 Million BLUR To Coinbase; Previous Shifts Include Significant $7M to Exchanges, Reveals ScopeScan Analysis by YL Software</u></a></li>
+<li><a href="https://discover-dash.techidaily.com/top-recommended-tools-for-efficient-windows-registry-management-expert-insights-from-yl-computing/"><u>Top Recommended Tools for Efficient Windows Registry Management - Expert Insights From YL Computing</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/updated-harmonic-reduction-lowering-beat-rate-without-shifting-pitch-spectrum/"><u>Updated Harmonic Reduction Lowering Beat Rate Without Shifting Pitch Spectrum</u></a></li>
+<li><a href="https://discover-dash.techidaily.com/yl-computing-guide-installuninstall-software-with-ease/"><u>YL Computing Guide: Install/Uninstall Software with Ease</u></a></li>
 </ul></div>
 
